@@ -2,6 +2,14 @@
 
 一个面向日语 JLPT 词汇的非官方训练网站。它把词汇记忆拆成“看图联想”和“听音辨认”两条线，用多单词、多声音、即时反馈的方式，帮助学习者更快区分容易混淆的日语发音、写法和意义。
 
+<p align="center">
+  <img src="docs/images/jlpt-hvpt-intro.png" alt="JLPT HVPT Trainer intro page" width="100%">
+</p>
+
+<p align="center">
+  <img src="docs/images/jlpt-hvpt-trainer.png" alt="JLPT HVPT Trainer practice page" width="100%">
+</p>
+
 在线体验：
 
 ```text
@@ -111,7 +119,3 @@ hvpt_site/
   data/               题库与来源数据
   assets/             图片与音频素材
 ```
-
-## 发布建议
-
-发布到 GitHub Pages 时建议保留 `NOTICE.md`、`LICENSE`、`hvpt_site/sources.html`，并确认没有上传临时文件、原始抓取内容、未确认许可的素材或本地生成过程中的中间文件。
