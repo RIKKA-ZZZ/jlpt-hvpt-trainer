@@ -172,6 +172,24 @@ const SESSION_KEY = "hvpt_session";
 const LANG_KEY = "hvpt_lang";
 const AUDIO_VOICE_KEY = "hvpt_audio_voice";
 
+function assetUrl(path, options) {
+  return window.hvptAssetUrl ? window.hvptAssetUrl(path, options) : path;
+}
+
+function setAssetImage(image, path) {
+  const primary = assetUrl(path);
+  const fallback = assetUrl(path, { cdn: false });
+  let triedFallback = false;
+  image.decoding = "async";
+  image.addEventListener("error", () => {
+    if (!triedFallback && primary !== fallback) {
+      triedFallback = true;
+      image.src = fallback;
+    }
+  });
+  image.src = primary;
+}
+
 function loadWrongCounts() {
   try {
     const raw = localStorage.getItem(WRONG_KEY);
@@ -267,7 +285,7 @@ function prepareAudioForQuestion(item) {
   state.currentAudioKey = pickAudioKey(item);
 }
 
-function selectedAudioPath(item) {
+function selectedAudioSource(item) {
   if (!item) return "";
   const variants = item.audioVariants || {};
   if (state.currentAudioKey && variants[state.currentAudioKey]) {
@@ -277,6 +295,11 @@ function selectedAudioPath(item) {
     return variants[state.audioVoice];
   }
   return item.audio || "";
+}
+
+function selectedAudioPath(item) {
+  const source = selectedAudioSource(item);
+  return source ? assetUrl(source) : "";
 }
 
 function currentAudioLabel(item) {
@@ -667,7 +690,7 @@ function createImageChoice(choice, index) {
   button.setAttribute("aria-label", `${optionLabel(index)} option`);
 
   const image = document.createElement("img");
-  image.src = choice.image;
+  setAssetImage(image, choice.image);
   image.alt = "";
   image.loading = "eager";
 
@@ -718,7 +741,7 @@ function createDecorImage(item, className) {
   wrapper.title = `${item.word}：${meaningText(item)}`;
 
   const image = document.createElement("img");
-  image.src = item.image;
+  setAssetImage(image, item.image);
   image.alt = "";
   image.loading = "lazy";
 
@@ -958,6 +981,20 @@ function speakWithBrowserVoice(text) {
   window.speechSynthesis.speak(utterance);
 }
 
+function playAudioWithFallback(sourcePath, speechText) {
+  const primary = assetUrl(sourcePath);
+  const fallback = assetUrl(sourcePath, { cdn: false });
+  const audio = new Audio(primary);
+  audio.play().catch(() => {
+    if (primary !== fallback) {
+      const fallbackAudio = new Audio(fallback);
+      fallbackAudio.play().catch(() => speakWithBrowserVoice(speechText));
+      return;
+    }
+    speakWithBrowserVoice(speechText);
+  });
+}
+
 function speakAnswerFeedback(item) {
   if (!item) {
     return;
@@ -966,10 +1003,9 @@ function speakAnswerFeedback(item) {
   if ("speechSynthesis" in window) {
     window.speechSynthesis.cancel();
   }
-  const audioPath = selectedAudioPath(item);
+  const audioPath = selectedAudioSource(item);
   if (audioPath) {
-    const audio = new Audio(audioPath);
-    audio.play().catch(() => speakWithBrowserVoice(japanese));
+    playAudioWithFallback(audioPath, japanese);
     return;
   }
   speakWithBrowserVoice(japanese);
@@ -981,10 +1017,9 @@ function speakCurrent() {
   }
 
   const speechText = state.current.spoken || state.current.reading || state.current.word;
-  const audioPath = selectedAudioPath(state.current);
+  const audioPath = selectedAudioSource(state.current);
   if (audioPath) {
-    const audio = new Audio(audioPath);
-    audio.play().catch(() => speakWithBrowserVoice(speechText));
+    playAudioWithFallback(audioPath, speechText);
     return;
   }
 
@@ -1077,15 +1112,21 @@ function setAudioVoice(value) {
   }
 }
 
-const DATA_VERSION = "20260704";
+const DATA_VERSION = "20260705-cdn";
 
 async function loadJson(path) {
-  const separator = path.includes("?") ? "&" : "?";
-  const response = await fetch(`${path}${separator}v=${DATA_VERSION}`);
-  if (!response.ok) {
+  const primary = assetUrl(path, { version: DATA_VERSION });
+  const fallback = assetUrl(path, { cdn: false, version: DATA_VERSION });
+  try {
+    const response = await fetch(primary);
+    if (response.ok) return response.json();
     throw new Error(`${path} ${response.status}`);
+  } catch (error) {
+    if (primary === fallback) throw error;
+    const response = await fetch(fallback);
+    if (!response.ok) throw new Error(`${path} ${response.status}`);
+    return response.json();
   }
-  return response.json();
 }
 
 async function init() {

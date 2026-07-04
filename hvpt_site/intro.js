@@ -2,6 +2,41 @@ const savedTheme = localStorage.getItem("hvpt_theme");
 if (savedTheme) document.documentElement.dataset.theme = savedTheme;
 
 const LANG_KEY = "hvpt_lang";
+const DATA_VERSION = "20260705-cdn";
+
+function assetUrl(path, options) {
+  return window.hvptAssetUrl ? window.hvptAssetUrl(path, options) : path;
+}
+
+function setAssetImage(image, path) {
+  const primary = assetUrl(path);
+  const fallback = assetUrl(path, { cdn: false });
+  let triedFallback = false;
+  image.decoding = "async";
+  image.addEventListener("error", () => {
+    if (!triedFallback && primary !== fallback) {
+      triedFallback = true;
+      image.src = fallback;
+    }
+  });
+  image.src = primary;
+}
+
+async function loadDataJson(path) {
+  const primary = assetUrl(path, { version: DATA_VERSION });
+  const fallback = assetUrl(path, { cdn: false, version: DATA_VERSION });
+  try {
+    const response = await fetch(primary);
+    if (response.ok) return response.json();
+    throw new Error(`${path} ${response.status}`);
+  } catch (error) {
+    if (primary === fallback) throw error;
+    const response = await fetch(fallback);
+    if (!response.ok) throw new Error(`${path} ${response.status}`);
+    return response.json();
+  }
+}
+
 const STRINGS = {
   zh: {
     pageTitle: "JLPT HVPT Trainer",
@@ -138,11 +173,7 @@ async function loadIntroImages() {
     return;
   }
   try {
-    const response = await fetch(`data/image-lessons.json?v=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`Could not load image lessons: ${response.status}`);
-    }
-    const payload = await response.json();
+    const payload = await loadDataJson("data/image-lessons.json");
     const lessons = sample(payload.lessons || [], 10);
     orbit.innerHTML = "";
 
@@ -156,7 +187,7 @@ async function loadIntroImages() {
       card.className = "intro-image-card";
 
       const image = document.createElement("img");
-      image.src = lesson.image;
+      setAssetImage(image, lesson.image);
       image.alt = "";
       image.loading = "eager";
 
@@ -189,17 +220,9 @@ async function loadIntroStats() {
   }
 
   try {
-    const [imageResponse, listeningResponse] = await Promise.all([
-      fetch(`data/image-lessons.json?v=${Date.now()}`, { cache: "no-store" }),
-      fetch(`data/listening-lessons.json?v=${Date.now()}`, { cache: "no-store" }),
-    ]);
-    if (!imageResponse.ok || !listeningResponse.ok) {
-      throw new Error("Could not load lesson stats.");
-    }
-
     const [imagePayload, listeningPayload] = await Promise.all([
-      imageResponse.json(),
-      listeningResponse.json(),
+      loadDataJson("data/image-lessons.json"),
+      loadDataJson("data/listening-lessons.json"),
     ]);
     const imageLessons = imagePayload.lessons || [];
     const listeningLessons = listeningPayload.lessons || [];
