@@ -1,0 +1,3974 @@
+{
+  "version": 1,
+  "format": "webp",
+  "maxSize": 512,
+  "quality": 78,
+  "count": 283,
+  "originalBytes": 177690808,
+  "optimizedBytes": 6368342,
+  "savedBytes": 171322466,
+  "items": [
+    {
+      "source": "assets/images/n1_00023_お八.png",
+      "optimized": "assets/images-webp/n1_00023_お八.webp",
+      "originalBytes": 928472,
+      "optimizedBytes": 44494,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00115_ぶら下げる.png",
+      "optimized": "assets/images-webp/n1_00115_ぶら下げる.webp",
+      "originalBytes": 807684,
+      "optimizedBytes": 27820,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00195_ジャンパー.png",
+      "optimized": "assets/images-webp/n1_00195_ジャンパー.webp",
+      "originalBytes": 813138,
+      "optimizedBytes": 15178,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00209_スポーツカー.png",
+      "optimized": "assets/images-webp/n1_00209_スポーツカー.webp",
+      "originalBytes": 835686,
+      "optimizedBytes": 42390,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00217_ソックス.png",
+      "optimized": "assets/images-webp/n1_00217_ソックス.webp",
+      "originalBytes": 711864,
+      "optimizedBytes": 15330,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00267_パトカー.png",
+      "optimized": "assets/images-webp/n1_00267_パトカー.webp",
+      "originalBytes": 616680,
+      "optimizedBytes": 27144,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00311_ユニフォーム.png",
+      "optimized": "assets/images-webp/n1_00311_ユニフォーム.webp",
+      "originalBytes": 747174,
+      "optimizedBytes": 29278,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00313_ライス.png",
+      "optimized": "assets/images-webp/n1_00313_ライス.webp",
+      "originalBytes": 758988,
+      "optimizedBytes": 25226,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00324_レンタカー.png",
+      "optimized": "assets/images-webp/n1_00324_レンタカー.webp",
+      "originalBytes": 510624,
+      "optimizedBytes": 23380,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00374_三日月.png",
+      "optimized": "assets/images-webp/n1_00374_三日月.webp",
+      "originalBytes": 289767,
+      "optimizedBytes": 5966,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00384_上空.png",
+      "optimized": "assets/images-webp/n1_00384_上空.webp",
+      "originalBytes": 546022,
+      "optimizedBytes": 11002,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00497_人体.png",
+      "optimized": "assets/images-webp/n1_00497_人体.webp",
+      "originalBytes": 247018,
+      "optimizedBytes": 7022,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00616_使用人.png",
+      "optimized": "assets/images-webp/n1_00616_使用人.webp",
+      "originalBytes": 788301,
+      "optimizedBytes": 27898,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_00635_保母.png",
+      "optimized": "assets/images-webp/n1_00635_保母.webp",
+      "originalBytes": 910748,
+      "optimizedBytes": 46804,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01089_吹奏.png",
+      "optimized": "assets/images-webp/n1_01089_吹奏.webp",
+      "originalBytes": 889931,
+      "optimizedBytes": 32576,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01129_喫茶.png",
+      "optimized": "assets/images-webp/n1_01129_喫茶.webp",
+      "originalBytes": 767097,
+      "optimizedBytes": 28772,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01362_富豪.png",
+      "optimized": "assets/images-webp/n1_01362_富豪.webp",
+      "originalBytes": 563139,
+      "optimizedBytes": 25976,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01420_山脈.png",
+      "optimized": "assets/images-webp/n1_01420_山脈.webp",
+      "originalBytes": 587791,
+      "optimizedBytes": 17764,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01463_年輪.png",
+      "optimized": "assets/images-webp/n1_01463_年輪.webp",
+      "originalBytes": 1060924,
+      "optimizedBytes": 53372,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01506_弟.png",
+      "optimized": "assets/images-webp/n1_01506_弟.webp",
+      "originalBytes": 475785,
+      "optimizedBytes": 16164,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_01950_晴天.png",
+      "optimized": "assets/images-webp/n1_01950_晴天.webp",
+      "originalBytes": 762864,
+      "optimizedBytes": 27606,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_02016_杯.png",
+      "optimized": "assets/images-webp/n1_02016_杯.webp",
+      "originalBytes": 618204,
+      "optimizedBytes": 30862,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_02312_焚火.png",
+      "optimized": "assets/images-webp/n1_02312_焚火.webp",
+      "originalBytes": 604383,
+      "optimizedBytes": 20950,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_02349_熱湯.png",
+      "optimized": "assets/images-webp/n1_02349_熱湯.webp",
+      "originalBytes": 686808,
+      "optimizedBytes": 20450,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_02816_船舶.png",
+      "optimized": "assets/images-webp/n1_02816_船舶.webp",
+      "originalBytes": 543136,
+      "optimizedBytes": 24208,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_02827_花壇.png",
+      "optimized": "assets/images-webp/n1_02827_花壇.webp",
+      "originalBytes": 1106335,
+      "optimizedBytes": 67416,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_02829_苗.png",
+      "optimized": "assets/images-webp/n1_02829_苗.webp",
+      "originalBytes": 434345,
+      "optimizedBytes": 13720,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_03135_軍服.png",
+      "optimized": "assets/images-webp/n1_03135_軍服.webp",
+      "originalBytes": 631007,
+      "optimizedBytes": 17422,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_03362_雛.png",
+      "optimized": "assets/images-webp/n1_03362_雛.webp",
+      "originalBytes": 949033,
+      "optimizedBytes": 52374,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_03365_雨具.png",
+      "optimized": "assets/images-webp/n1_03365_雨具.webp",
+      "originalBytes": 911292,
+      "optimizedBytes": 45492,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n1_03366_雨天.png",
+      "optimized": "assets/images-webp/n1_03366_雨天.webp",
+      "originalBytes": 863889,
+      "optimizedBytes": 36760,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03510_おやつ.png",
+      "optimized": "assets/images-webp/n2_03510_おやつ.webp",
+      "originalBytes": 474219,
+      "optimizedBytes": 18828,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03553_しびれる.png",
+      "optimized": "assets/images-webp/n2_03553_しびれる.webp",
+      "originalBytes": 582027,
+      "optimizedBytes": 18714,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03556_しゃがむ.png",
+      "optimized": "assets/images-webp/n2_03556_しゃがむ.webp",
+      "originalBytes": 581451,
+      "optimizedBytes": 21032,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03617_ぺん.png",
+      "optimized": "assets/images-webp/n2_03617_ぺん.webp",
+      "originalBytes": 195351,
+      "optimizedBytes": 4398,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03804_並木.png",
+      "optimized": "assets/images-webp/n2_03804_並木.webp",
+      "originalBytes": 294023,
+      "optimizedBytes": 9264,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03828_井戸.png",
+      "optimized": "assets/images-webp/n2_03828_井戸.webp",
+      "originalBytes": 1021500,
+      "optimizedBytes": 42390,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03887_便箋.png",
+      "optimized": "assets/images-webp/n2_03887_便箋.webp",
+      "originalBytes": 838640,
+      "optimizedBytes": 38604,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_03984_刺身.png",
+      "optimized": "assets/images-webp/n2_03984_刺身.webp",
+      "originalBytes": 900508,
+      "optimizedBytes": 41546,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04018_匙.png",
+      "optimized": "assets/images-webp/n2_04018_匙.webp",
+      "originalBytes": 417165,
+      "optimizedBytes": 13000,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04069_吊る.png",
+      "optimized": "assets/images-webp/n2_04069_吊る.webp",
+      "originalBytes": 455910,
+      "optimizedBytes": 15388,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04080_吹雪.png",
+      "optimized": "assets/images-webp/n2_04080_吹雪.webp",
+      "originalBytes": 1162661,
+      "optimizedBytes": 61692,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04087_和服.png",
+      "optimized": "assets/images-webp/n2_04087_和服.webp",
+      "originalBytes": 879917,
+      "optimizedBytes": 42286,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04091_商店.png",
+      "optimized": "assets/images-webp/n2_04091_商店.webp",
+      "originalBytes": 876310,
+      "optimizedBytes": 41104,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04099_噴水.png",
+      "optimized": "assets/images-webp/n2_04099_噴水.webp",
+      "originalBytes": 497584,
+      "optimizedBytes": 17388,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04150_塵紙.png",
+      "optimized": "assets/images-webp/n2_04150_塵紙.webp",
+      "originalBytes": 608141,
+      "optimizedBytes": 14336,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04164_夕日.png",
+      "optimized": "assets/images-webp/n2_04164_夕日.webp",
+      "originalBytes": 847521,
+      "optimizedBytes": 15006,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04178_大木.png",
+      "optimized": "assets/images-webp/n2_04178_大木.webp",
+      "originalBytes": 795226,
+      "optimizedBytes": 35334,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04184_女の人.png",
+      "optimized": "assets/images-webp/n2_04184_女の人.webp",
+      "originalBytes": 470980,
+      "optimizedBytes": 20346,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04259_山林.png",
+      "optimized": "assets/images-webp/n2_04259_山林.webp",
+      "originalBytes": 689948,
+      "optimizedBytes": 28026,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04491_日当たり.png",
+      "optimized": "assets/images-webp/n2_04491_日当たり.webp",
+      "originalBytes": 541431,
+      "optimizedBytes": 22060,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04517_書籍.png",
+      "optimized": "assets/images-webp/n2_04517_書籍.webp",
+      "originalBytes": 383385,
+      "optimizedBytes": 9676,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04541_果実.png",
+      "optimized": "assets/images-webp/n2_04541_果実.webp",
+      "originalBytes": 1157828,
+      "optimizedBytes": 66604,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04597_水滴.png",
+      "optimized": "assets/images-webp/n2_04597_水滴.webp",
+      "originalBytes": 785109,
+      "optimizedBytes": 20702,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04627_海洋.png",
+      "optimized": "assets/images-webp/n2_04627_海洋.webp",
+      "originalBytes": 853338,
+      "optimizedBytes": 27690,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04633_消防署.png",
+      "optimized": "assets/images-webp/n2_04633_消防署.webp",
+      "originalBytes": 563220,
+      "optimizedBytes": 21764,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04732_物置.png",
+      "optimized": "assets/images-webp/n2_04732_物置.webp",
+      "originalBytes": 670456,
+      "optimizedBytes": 25362,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04755_生け花.png",
+      "optimized": "assets/images-webp/n2_04755_生け花.webp",
+      "originalBytes": 402388,
+      "optimizedBytes": 16546,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04766_田植え.png",
+      "optimized": "assets/images-webp/n2_04766_田植え.webp",
+      "originalBytes": 1100835,
+      "optimizedBytes": 68892,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04865_窓口.png",
+      "optimized": "assets/images-webp/n2_04865_窓口.webp",
+      "originalBytes": 409182,
+      "optimizedBytes": 9936,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04868_競馬.png",
+      "optimized": "assets/images-webp/n2_04868_競馬.webp",
+      "originalBytes": 758138,
+      "optimizedBytes": 40188,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04887_紙幣.png",
+      "optimized": "assets/images-webp/n2_04887_紙幣.webp",
+      "originalBytes": 1092875,
+      "optimizedBytes": 55276,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04950_腰掛ける.png",
+      "optimized": "assets/images-webp/n2_04950_腰掛ける.webp",
+      "originalBytes": 473734,
+      "optimizedBytes": 8092,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04972_茶碗.png",
+      "optimized": "assets/images-webp/n2_04972_茶碗.webp",
+      "originalBytes": 428719,
+      "optimizedBytes": 15048,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_04991_薬品.png",
+      "optimized": "assets/images-webp/n2_04991_薬品.webp",
+      "originalBytes": 672772,
+      "optimizedBytes": 29254,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_05090_跳ぶ.png",
+      "optimized": "assets/images-webp/n2_05090_跳ぶ.webp",
+      "originalBytes": 556095,
+      "optimizedBytes": 10388,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_05143_遊園地.png",
+      "optimized": "assets/images-webp/n2_05143_遊園地.webp",
+      "originalBytes": 769852,
+      "optimizedBytes": 42858,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_05228_電柱.png",
+      "optimized": "assets/images-webp/n2_05228_電柱.webp",
+      "originalBytes": 461537,
+      "optimizedBytes": 16942,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n2_05256_食塩.png",
+      "optimized": "assets/images-webp/n2_05256_食塩.webp",
+      "originalBytes": 814513,
+      "optimizedBytes": 25980,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05306_おじいさん.png",
+      "optimized": "assets/images-webp/n3_05306_おじいさん.webp",
+      "originalBytes": 458850,
+      "optimizedBytes": 16328,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05314_お目に掛かる.png",
+      "optimized": "assets/images-webp/n3_05314_お目に掛かる.webp",
+      "originalBytes": 406579,
+      "optimizedBytes": 7376,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05315_お腹.png",
+      "optimized": "assets/images-webp/n3_05315_お腹.webp",
+      "originalBytes": 573935,
+      "optimizedBytes": 9364,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05355_そっと.png",
+      "optimized": "assets/images-webp/n3_05355_そっと.webp",
+      "originalBytes": 817312,
+      "optimizedBytes": 19660,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05434_カー.png",
+      "optimized": "assets/images-webp/n3_05434_カー.webp",
+      "originalBytes": 613543,
+      "optimizedBytes": 27060,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05442_グラス.png",
+      "optimized": "assets/images-webp/n3_05442_グラス.webp",
+      "originalBytes": 924001,
+      "optimizedBytes": 41758,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05448_コンピューター.png",
+      "optimized": "assets/images-webp/n3_05448_コンピューター.webp",
+      "originalBytes": 586333,
+      "optimizedBytes": 22984,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05464_スープ.png",
+      "optimized": "assets/images-webp/n3_05464_スープ.webp",
+      "originalBytes": 443321,
+      "optimizedBytes": 18272,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05484_ドレス.png",
+      "optimized": "assets/images-webp/n3_05484_ドレス.webp",
+      "originalBytes": 334093,
+      "optimizedBytes": 8196,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05498_ビール.png",
+      "optimized": "assets/images-webp/n3_05498_ビール.webp",
+      "originalBytes": 381984,
+      "optimizedBytes": 10028,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05505_ベルト.png",
+      "optimized": "assets/images-webp/n3_05505_ベルト.webp",
+      "originalBytes": 843272,
+      "optimizedBytes": 43680,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05517_ミルク.png",
+      "optimized": "assets/images-webp/n3_05517_ミルク.webp",
+      "originalBytes": 476610,
+      "optimizedBytes": 12716,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05527_ワイン.png",
+      "optimized": "assets/images-webp/n3_05527_ワイン.webp",
+      "originalBytes": 495613,
+      "optimizedBytes": 12518,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05606_人込み.png",
+      "optimized": "assets/images-webp/n3_05606_人込み.webp",
+      "originalBytes": 876705,
+      "optimizedBytes": 39242,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05685_停留所.png",
+      "optimized": "assets/images-webp/n3_05685_停留所.webp",
+      "originalBytes": 632014,
+      "optimizedBytes": 30366,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05705_兎.png",
+      "optimized": "assets/images-webp/n3_05705_兎.webp",
+      "originalBytes": 690897,
+      "optimizedBytes": 38240,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05750_列車.png",
+      "optimized": "assets/images-webp/n3_05750_列車.webp",
+      "originalBytes": 676070,
+      "optimizedBytes": 31314,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05793_医師.png",
+      "optimized": "assets/images-webp/n3_05793_医師.webp",
+      "originalBytes": 689112,
+      "optimizedBytes": 25554,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05951_太陽.png",
+      "optimized": "assets/images-webp/n3_05951_太陽.webp",
+      "originalBytes": 819887,
+      "optimizedBytes": 25852,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_05963_女子.png",
+      "optimized": "assets/images-webp/n3_05963_女子.webp",
+      "originalBytes": 552199,
+      "optimizedBytes": 23350,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06037_居間.png",
+      "optimized": "assets/images-webp/n3_06037_居間.webp",
+      "originalBytes": 577803,
+      "optimizedBytes": 27764,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06040_履く.png",
+      "optimized": "assets/images-webp/n3_06040_履く.webp",
+      "originalBytes": 613485,
+      "optimizedBytes": 14438,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06087_弁当.png",
+      "optimized": "assets/images-webp/n3_06087_弁当.webp",
+      "originalBytes": 642682,
+      "optimizedBytes": 19460,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06176_戦う.png",
+      "optimized": "assets/images-webp/n3_06176_戦う.webp",
+      "originalBytes": 936936,
+      "optimizedBytes": 47854,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06196_抱く.png",
+      "optimized": "assets/images-webp/n3_06196_抱く.webp",
+      "originalBytes": 401860,
+      "optimizedBytes": 9714,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06242_教師.png",
+      "optimized": "assets/images-webp/n3_06242_教師.webp",
+      "originalBytes": 504745,
+      "optimizedBytes": 10498,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06244_教科書.png",
+      "optimized": "assets/images-webp/n3_06244_教科書.webp",
+      "originalBytes": 626018,
+      "optimizedBytes": 23484,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06306_月.png",
+      "optimized": "assets/images-webp/n3_06306_月.webp",
+      "originalBytes": 426231,
+      "optimizedBytes": 8068,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06329_松.png",
+      "optimized": "assets/images-webp/n3_06329_松.webp",
+      "originalBytes": 568535,
+      "optimizedBytes": 21476,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06342_椅子.png",
+      "optimized": "assets/images-webp/n3_06342_椅子.webp",
+      "originalBytes": 669161,
+      "optimizedBytes": 10688,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06358_機械.png",
+      "optimized": "assets/images-webp/n3_06358_機械.webp",
+      "originalBytes": 1076284,
+      "optimizedBytes": 61468,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06520_田.png",
+      "optimized": "assets/images-webp/n3_06520_田.webp",
+      "originalBytes": 1051259,
+      "optimizedBytes": 47980,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06718_船.png",
+      "optimized": "assets/images-webp/n3_06718_船.webp",
+      "originalBytes": 550669,
+      "optimizedBytes": 23470,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_06732_虎.png",
+      "optimized": "assets/images-webp/n3_06732_虎.webp",
+      "originalBytes": 474180,
+      "optimizedBytes": 19702,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_07054_馬.png",
+      "optimized": "assets/images-webp/n3_07054_馬.webp",
+      "originalBytes": 269932,
+      "optimizedBytes": 9922,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_07067_魚.png",
+      "optimized": "assets/images-webp/n3_07067_魚.webp",
+      "originalBytes": 644933,
+      "optimizedBytes": 30340,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n3_07070_鼠.png",
+      "optimized": "assets/images-webp/n3_07070_鼠.webp",
+      "originalBytes": 948801,
+      "optimizedBytes": 33736,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07093_お_金持ち.png",
+      "optimized": "assets/images-webp/n4_07093_お_金持ち.webp",
+      "originalBytes": 393671,
+      "optimizedBytes": 10922,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07147_つき.png",
+      "optimized": "assets/images-webp/n4_07147_つき.webp",
+      "originalBytes": 667710,
+      "optimizedBytes": 3868,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07193_ガソリンスタンド.png",
+      "optimized": "assets/images-webp/n4_07193_ガソリンスタンド.webp",
+      "originalBytes": 341012,
+      "optimizedBytes": 9360,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07194_ガラス.png",
+      "optimized": "assets/images-webp/n4_07194_ガラス.webp",
+      "originalBytes": 374064,
+      "optimizedBytes": 9754,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07195_ケーキ.png",
+      "optimized": "assets/images-webp/n4_07195_ケーキ.webp",
+      "originalBytes": 479220,
+      "optimizedBytes": 17664,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07213_パソコン.png",
+      "optimized": "assets/images-webp/n4_07213_パソコン.webp",
+      "originalBytes": 619208,
+      "optimizedBytes": 26170,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07215_ビル.png",
+      "optimized": "assets/images-webp/n4_07215_ビル.webp",
+      "originalBytes": 684780,
+      "optimizedBytes": 33284,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07237_中学校.png",
+      "optimized": "assets/images-webp/n4_07237_中学校.webp",
+      "originalBytes": 686973,
+      "optimizedBytes": 25640,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07245_事務所.png",
+      "optimized": "assets/images-webp/n4_07245_事務所.webp",
+      "originalBytes": 598806,
+      "optimizedBytes": 18400,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07261_会場.png",
+      "optimized": "assets/images-webp/n4_07261_会場.webp",
+      "originalBytes": 1010711,
+      "optimizedBytes": 51998,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07322_地震.png",
+      "optimized": "assets/images-webp/n4_07322_地震.webp",
+      "originalBytes": 941158,
+      "optimizedBytes": 50134,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07340_大学生.png",
+      "optimized": "assets/images-webp/n4_07340_大学生.webp",
+      "originalBytes": 748300,
+      "optimizedBytes": 27420,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07341_天気予報.png",
+      "optimized": "assets/images-webp/n4_07341_天気予報.webp",
+      "originalBytes": 1166989,
+      "optimizedBytes": 27370,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07342_太る.png",
+      "optimized": "assets/images-webp/n4_07342_太る.webp",
+      "originalBytes": 250297,
+      "optimizedBytes": 4866,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07362_小学校.png",
+      "optimized": "assets/images-webp/n4_07362_小学校.webp",
+      "originalBytes": 685213,
+      "optimizedBytes": 23692,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07369_工場.png",
+      "optimized": "assets/images-webp/n4_07369_工場.webp",
+      "originalBytes": 1094970,
+      "optimizedBytes": 74604,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07377_店員.png",
+      "optimized": "assets/images-webp/n4_07377_店員.webp",
+      "originalBytes": 750224,
+      "optimizedBytes": 33190,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07420_拾う.png",
+      "optimized": "assets/images-webp/n4_07420_拾う.webp",
+      "originalBytes": 319421,
+      "optimizedBytes": 8184,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07438_新聞社.png",
+      "optimized": "assets/images-webp/n4_07438_新聞社.webp",
+      "originalBytes": 594641,
+      "optimizedBytes": 25586,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07439_旅館.png",
+      "optimized": "assets/images-webp/n4_07439_旅館.webp",
+      "originalBytes": 434172,
+      "optimizedBytes": 20918,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07444_星.png",
+      "optimized": "assets/images-webp/n4_07444_星.webp",
+      "originalBytes": 695686,
+      "optimizedBytes": 35374,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07486_汽車.png",
+      "optimized": "assets/images-webp/n4_07486_汽車.webp",
+      "originalBytes": 518300,
+      "optimizedBytes": 18212,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07504_湯.png",
+      "optimized": "assets/images-webp/n4_07504_湯.webp",
+      "originalBytes": 454928,
+      "optimizedBytes": 17434,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07509_火.png",
+      "optimized": "assets/images-webp/n4_07509_火.webp",
+      "originalBytes": 616180,
+      "optimizedBytes": 28082,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07510_火事.png",
+      "optimized": "assets/images-webp/n4_07510_火事.webp",
+      "originalBytes": 1627564,
+      "optimizedBytes": 47460,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07516_焼ける.png",
+      "optimized": "assets/images-webp/n4_07516_焼ける.webp",
+      "originalBytes": 423653,
+      "optimizedBytes": 14472,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07521_特急.png",
+      "optimized": "assets/images-webp/n4_07521_特急.webp",
+      "originalBytes": 617490,
+      "optimizedBytes": 26028,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07549_眠る.png",
+      "optimized": "assets/images-webp/n4_07549_眠る.webp",
+      "originalBytes": 1149812,
+      "optimizedBytes": 16448,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07555_研究室.png",
+      "optimized": "assets/images-webp/n4_07555_研究室.webp",
+      "originalBytes": 1523189,
+      "optimizedBytes": 42484,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07567_空港.png",
+      "optimized": "assets/images-webp/n4_07567_空港.webp",
+      "originalBytes": 929854,
+      "optimizedBytes": 46440,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07573_米.png",
+      "optimized": "assets/images-webp/n4_07573_米.webp",
+      "originalBytes": 683033,
+      "optimizedBytes": 21274,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07592_背中.png",
+      "optimized": "assets/images-webp/n4_07592_背中.webp",
+      "originalBytes": 224790,
+      "optimizedBytes": 4824,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07597_舟.png",
+      "optimized": "assets/images-webp/n4_07597_舟.webp",
+      "originalBytes": 503484,
+      "optimizedBytes": 21444,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07604_虫.png",
+      "optimized": "assets/images-webp/n4_07604_虫.webp",
+      "originalBytes": 389152,
+      "optimizedBytes": 13978,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07640_踊る.png",
+      "optimized": "assets/images-webp/n4_07640_踊る.webp",
+      "originalBytes": 344823,
+      "optimizedBytes": 11172,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07662_運転.png",
+      "optimized": "assets/images-webp/n4_07662_運転.webp",
+      "originalBytes": 607900,
+      "optimizedBytes": 23232,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07674_釣る.png",
+      "optimized": "assets/images-webp/n4_07674_釣る.webp",
+      "originalBytes": 302961,
+      "optimizedBytes": 5998,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07685_雲.png",
+      "optimized": "assets/images-webp/n4_07685_雲.webp",
+      "originalBytes": 669900,
+      "optimizedBytes": 18642,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07691_食事.png",
+      "optimized": "assets/images-webp/n4_07691_食事.webp",
+      "originalBytes": 674596,
+      "optimizedBytes": 17636,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07698_高校.png",
+      "optimized": "assets/images-webp/n4_07698_高校.webp",
+      "originalBytes": 557454,
+      "optimizedBytes": 21910,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07699_高校生.png",
+      "optimized": "assets/images-webp/n4_07699_高校生.webp",
+      "originalBytes": 716466,
+      "optimizedBytes": 18284,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n4_07700_高等学校.png",
+      "optimized": "assets/images-webp/n4_07700_高等学校.webp",
+      "originalBytes": 717131,
+      "optimizedBytes": 16976,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07718_いす.png",
+      "optimized": "assets/images-webp/n5_07718_いす.webp",
+      "originalBytes": 396307,
+      "optimizedBytes": 12996,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07725_おなか.png",
+      "optimized": "assets/images-webp/n5_07725_おなか.webp",
+      "originalBytes": 378305,
+      "optimizedBytes": 11028,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07726_おばあさん.png",
+      "optimized": "assets/images-webp/n5_07726_おばあさん.webp",
+      "originalBytes": 525036,
+      "optimizedBytes": 19062,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07729_お兄さん.png",
+      "optimized": "assets/images-webp/n5_07729_お兄さん.webp",
+      "originalBytes": 901886,
+      "optimizedBytes": 35322,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07730_お姉さん.png",
+      "optimized": "assets/images-webp/n5_07730_お姉さん.webp",
+      "originalBytes": 776368,
+      "optimizedBytes": 22220,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07734_お父さん.png",
+      "optimized": "assets/images-webp/n5_07734_お父さん.webp",
+      "originalBytes": 899411,
+      "optimizedBytes": 35312,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07736_お茶.png",
+      "optimized": "assets/images-webp/n5_07736_お茶.webp",
+      "originalBytes": 394773,
+      "optimizedBytes": 15760,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07739_お金.png",
+      "optimized": "assets/images-webp/n5_07739_お金.webp",
+      "originalBytes": 1643924,
+      "optimizedBytes": 64096,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07742_かぎ.png",
+      "optimized": "assets/images-webp/n5_07742_かぎ.webp",
+      "originalBytes": 474910,
+      "optimizedBytes": 13066,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07744_かばん.png",
+      "optimized": "assets/images-webp/n5_07744_かばん.webp",
+      "originalBytes": 501224,
+      "optimizedBytes": 18134,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07777_ちゃわん.png",
+      "optimized": "assets/images-webp/n5_07777_ちゃわん.webp",
+      "originalBytes": 372742,
+      "optimizedBytes": 10564,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07786_とり肉.png",
+      "optimized": "assets/images-webp/n5_07786_とり肉.webp",
+      "originalBytes": 553131,
+      "optimizedBytes": 20276,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07821_カップ.png",
+      "optimized": "assets/images-webp/n5_07821_カップ.webp",
+      "originalBytes": 521331,
+      "optimizedBytes": 13656,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07822_カメラ.png",
+      "optimized": "assets/images-webp/n5_07822_カメラ.webp",
+      "originalBytes": 457259,
+      "optimizedBytes": 18902,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07830_コップ.png",
+      "optimized": "assets/images-webp/n5_07830_コップ.webp",
+      "originalBytes": 748730,
+      "optimizedBytes": 8110,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07832_コート.png",
+      "optimized": "assets/images-webp/n5_07832_コート.webp",
+      "originalBytes": 1271609,
+      "optimizedBytes": 20352,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07833_コーヒー.png",
+      "optimized": "assets/images-webp/n5_07833_コーヒー.webp",
+      "originalBytes": 595479,
+      "optimizedBytes": 23420,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07834_シャツ.png",
+      "optimized": "assets/images-webp/n5_07834_シャツ.webp",
+      "originalBytes": 718230,
+      "optimizedBytes": 20890,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07836_スカート.png",
+      "optimized": "assets/images-webp/n5_07836_スカート.webp",
+      "originalBytes": 756100,
+      "optimizedBytes": 28300,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07838_スプーン.png",
+      "optimized": "assets/images-webp/n5_07838_スプーン.webp",
+      "originalBytes": 796891,
+      "optimizedBytes": 19134,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07844_タクシー.png",
+      "optimized": "assets/images-webp/n5_07844_タクシー.webp",
+      "originalBytes": 485768,
+      "optimizedBytes": 21178,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07847_テーブル.png",
+      "optimized": "assets/images-webp/n5_07847_テーブル.webp",
+      "originalBytes": 522234,
+      "optimizedBytes": 15208,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07850_デパート.png",
+      "optimized": "assets/images-webp/n5_07850_デパート.webp",
+      "originalBytes": 545128,
+      "optimizedBytes": 20780,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07853_ナイフ.png",
+      "optimized": "assets/images-webp/n5_07853_ナイフ.webp",
+      "originalBytes": 271453,
+      "optimizedBytes": 5626,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07858_バス.png",
+      "optimized": "assets/images-webp/n5_07858_バス.webp",
+      "originalBytes": 449471,
+      "optimizedBytes": 14206,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07860_パン.png",
+      "optimized": "assets/images-webp/n5_07860_パン.webp",
+      "originalBytes": 477605,
+      "optimizedBytes": 13544,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07863_フォーク.png",
+      "optimized": "assets/images-webp/n5_07863_フォーク.webp",
+      "originalBytes": 455342,
+      "optimizedBytes": 12240,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07867_ペン.png",
+      "optimized": "assets/images-webp/n5_07867_ペン.webp",
+      "originalBytes": 279847,
+      "optimizedBytes": 5376,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07869_ホテル.png",
+      "optimized": "assets/images-webp/n5_07869_ホテル.webp",
+      "originalBytes": 663777,
+      "optimizedBytes": 26058,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07871_ボールペン.png",
+      "optimized": "assets/images-webp/n5_07871_ボールペン.webp",
+      "originalBytes": 432993,
+      "optimizedBytes": 6002,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07879_レストラン.png",
+      "optimized": "assets/images-webp/n5_07879_レストラン.webp",
+      "originalBytes": 424810,
+      "optimizedBytes": 12856,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07880_ワイシャツ.png",
+      "optimized": "assets/images-webp/n5_07880_ワイシャツ.webp",
+      "originalBytes": 673399,
+      "optimizedBytes": 19154,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07883_一人.png",
+      "optimized": "assets/images-webp/n5_07883_一人.webp",
+      "originalBytes": 382907,
+      "optimizedBytes": 7256,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07893_万年筆.png",
+      "optimized": "assets/images-webp/n5_07893_万年筆.webp",
+      "originalBytes": 915613,
+      "optimizedBytes": 32396,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07901_上着.png",
+      "optimized": "assets/images-webp/n5_07901_上着.webp",
+      "originalBytes": 791193,
+      "optimizedBytes": 25182,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07915_二人.png",
+      "optimized": "assets/images-webp/n5_07915_二人.webp",
+      "originalBytes": 748948,
+      "optimizedBytes": 19958,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07923_交番.png",
+      "optimized": "assets/images-webp/n5_07923_交番.webp",
+      "originalBytes": 1011653,
+      "optimizedBytes": 51956,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07938_伯父_叔父.png",
+      "optimized": "assets/images-webp/n5_07938_伯父_叔父.webp",
+      "originalBytes": 445153,
+      "optimizedBytes": 15168,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07941_体.png",
+      "optimized": "assets/images-webp/n5_07941_体.webp",
+      "originalBytes": 166972,
+      "optimizedBytes": 3558,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07948_傘.png",
+      "optimized": "assets/images-webp/n5_07948_傘.webp",
+      "originalBytes": 392541,
+      "optimizedBytes": 7654,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07950_元気.png",
+      "optimized": "assets/images-webp/n5_07950_元気.webp",
+      "originalBytes": 320084,
+      "optimizedBytes": 12660,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07951_兄.png",
+      "optimized": "assets/images-webp/n5_07951_兄.webp",
+      "originalBytes": 547177,
+      "optimizedBytes": 20124,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07965_公園.png",
+      "optimized": "assets/images-webp/n5_07965_公園.webp",
+      "originalBytes": 703964,
+      "optimizedBytes": 24994,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07975_出る.png",
+      "optimized": "assets/images-webp/n5_07975_出る.webp",
+      "originalBytes": 412457,
+      "optimizedBytes": 11698,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07980_切符.png",
+      "optimized": "assets/images-webp/n5_07980_切符.webp",
+      "originalBytes": 786568,
+      "optimizedBytes": 34852,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07985_動物.png",
+      "optimized": "assets/images-webp/n5_07985_動物.webp",
+      "originalBytes": 364910,
+      "optimizedBytes": 11258,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07988_医者.png",
+      "optimized": "assets/images-webp/n5_07988_医者.webp",
+      "originalBytes": 478517,
+      "optimizedBytes": 21612,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_07998_卵.png",
+      "optimized": "assets/images-webp/n5_07998_卵.webp",
+      "originalBytes": 466221,
+      "optimizedBytes": 9820,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08001_友達.png",
+      "optimized": "assets/images-webp/n5_08001_友達.webp",
+      "originalBytes": 838776,
+      "optimizedBytes": 27544,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08003_口.png",
+      "optimized": "assets/images-webp/n5_08003_口.webp",
+      "originalBytes": 342559,
+      "optimizedBytes": 12524,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08005_台所.png",
+      "optimized": "assets/images-webp/n5_08005_台所.webp",
+      "originalBytes": 764459,
+      "optimizedBytes": 32888,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08015_喫茶店.png",
+      "optimized": "assets/images-webp/n5_08015_喫茶店.webp",
+      "originalBytes": 703342,
+      "optimizedBytes": 30466,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08020_図書館.png",
+      "optimized": "assets/images-webp/n5_08020_図書館.webp",
+      "originalBytes": 813832,
+      "optimizedBytes": 37940,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08023_地下鉄.png",
+      "optimized": "assets/images-webp/n5_08023_地下鉄.webp",
+      "originalBytes": 298383,
+      "optimizedBytes": 8898,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08024_地図.png",
+      "optimized": "assets/images-webp/n5_08024_地図.webp",
+      "originalBytes": 790460,
+      "optimizedBytes": 34814,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08046_天気.png",
+      "optimized": "assets/images-webp/n5_08046_天気.webp",
+      "originalBytes": 549216,
+      "optimizedBytes": 16782,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08047_太い.png",
+      "optimized": "assets/images-webp/n5_08047_太い.webp",
+      "originalBytes": 263911,
+      "optimizedBytes": 6404,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08048_奥さん.png",
+      "optimized": "assets/images-webp/n5_08048_奥さん.webp",
+      "originalBytes": 710247,
+      "optimizedBytes": 27508,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08050_女の子.png",
+      "optimized": "assets/images-webp/n5_08050_女の子.webp",
+      "originalBytes": 606892,
+      "optimizedBytes": 16828,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08052_妹.png",
+      "optimized": "assets/images-webp/n5_08052_妹.webp",
+      "originalBytes": 476437,
+      "optimizedBytes": 12726,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08053_姉.png",
+      "optimized": "assets/images-webp/n5_08053_姉.webp",
+      "originalBytes": 501000,
+      "optimizedBytes": 15504,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08057_子供.png",
+      "optimized": "assets/images-webp/n5_08057_子供.webp",
+      "originalBytes": 476816,
+      "optimizedBytes": 18670,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08059_学校.png",
+      "optimized": "assets/images-webp/n5_08059_学校.webp",
+      "originalBytes": 561243,
+      "optimizedBytes": 16898,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08060_学生.png",
+      "optimized": "assets/images-webp/n5_08060_学生.webp",
+      "originalBytes": 726137,
+      "optimizedBytes": 25872,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08062_家.png",
+      "optimized": "assets/images-webp/n5_08062_家.webp",
+      "originalBytes": 648792,
+      "optimizedBytes": 27764,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08064_家族.png",
+      "optimized": "assets/images-webp/n5_08064_家族.webp",
+      "originalBytes": 747702,
+      "optimizedBytes": 24108,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08075_川_河.png",
+      "optimized": "assets/images-webp/n5_08075_川_河.webp",
+      "originalBytes": 734427,
+      "optimizedBytes": 38744,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08079_帽子.png",
+      "optimized": "assets/images-webp/n5_08079_帽子.webp",
+      "originalBytes": 822829,
+      "optimizedBytes": 23930,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08082_店.png",
+      "optimized": "assets/images-webp/n5_08082_店.webp",
+      "originalBytes": 754833,
+      "optimizedBytes": 35026,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08083_座る.png",
+      "optimized": "assets/images-webp/n5_08083_座る.webp",
+      "originalBytes": 256380,
+      "optimizedBytes": 7996,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08086_建物.png",
+      "optimized": "assets/images-webp/n5_08086_建物.webp",
+      "originalBytes": 605196,
+      "optimizedBytes": 19934,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08088_弟.png",
+      "optimized": "assets/images-webp/n5_08088_弟.webp",
+      "originalBytes": 544721,
+      "optimizedBytes": 16618,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08095_御飯.png",
+      "optimized": "assets/images-webp/n5_08095_御飯.webp",
+      "originalBytes": 505386,
+      "optimizedBytes": 16382,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08102_手.png",
+      "optimized": "assets/images-webp/n5_08102_手.webp",
+      "originalBytes": 538227,
+      "optimizedBytes": 14996,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08103_手紙.png",
+      "optimized": "assets/images-webp/n5_08103_手紙.webp",
+      "originalBytes": 654125,
+      "optimizedBytes": 17006,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08106_掃除.png",
+      "optimized": "assets/images-webp/n5_08106_掃除.webp",
+      "originalBytes": 343498,
+      "optimizedBytes": 8412,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08115_新聞.png",
+      "optimized": "assets/images-webp/n5_08115_新聞.webp",
+      "originalBytes": 518205,
+      "optimizedBytes": 19820,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08129_昼御飯.png",
+      "optimized": "assets/images-webp/n5_08129_昼御飯.webp",
+      "originalBytes": 668150,
+      "optimizedBytes": 26366,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08131_時計.png",
+      "optimized": "assets/images-webp/n5_08131_時計.webp",
+      "originalBytes": 571522,
+      "optimizedBytes": 16930,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08134_晩御飯.png",
+      "optimized": "assets/images-webp/n5_08134_晩御飯.webp",
+      "originalBytes": 403174,
+      "optimizedBytes": 12698,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08141_曇り.png",
+      "optimized": "assets/images-webp/n5_08141_曇り.webp",
+      "originalBytes": 770826,
+      "optimizedBytes": 19846,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08150_木.png",
+      "optimized": "assets/images-webp/n5_08150_木.webp",
+      "originalBytes": 455173,
+      "optimizedBytes": 15852,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08152_本.png",
+      "optimized": "assets/images-webp/n5_08152_本.webp",
+      "originalBytes": 316518,
+      "optimizedBytes": 7744,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08154_机.png",
+      "optimized": "assets/images-webp/n5_08154_机.webp",
+      "originalBytes": 676086,
+      "optimizedBytes": 26920,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08161_果物.png",
+      "optimized": "assets/images-webp/n5_08161_果物.webp",
+      "originalBytes": 731388,
+      "optimizedBytes": 27448,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08170_歩く.png",
+      "optimized": "assets/images-webp/n5_08170_歩く.webp",
+      "originalBytes": 267311,
+      "optimizedBytes": 6308,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08171_歯.png",
+      "optimized": "assets/images-webp/n5_08171_歯.webp",
+      "originalBytes": 999617,
+      "optimizedBytes": 12154,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08179_水.png",
+      "optimized": "assets/images-webp/n5_08179_水.webp",
+      "originalBytes": 503458,
+      "optimizedBytes": 16984,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08184_洋服.png",
+      "optimized": "assets/images-webp/n5_08184_洋服.webp",
+      "originalBytes": 721896,
+      "optimizedBytes": 23208,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08187_海.png",
+      "optimized": "assets/images-webp/n5_08187_海.webp",
+      "originalBytes": 839406,
+      "optimizedBytes": 30004,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08200_牛乳.png",
+      "optimized": "assets/images-webp/n5_08200_牛乳.webp",
+      "originalBytes": 480859,
+      "optimizedBytes": 17966,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08203_犬.png",
+      "optimized": "assets/images-webp/n5_08203_犬.webp",
+      "originalBytes": 686512,
+      "optimizedBytes": 7648,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08205_猫.png",
+      "optimized": "assets/images-webp/n5_08205_猫.webp",
+      "originalBytes": 719701,
+      "optimizedBytes": 17636,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08211_男の子.png",
+      "optimized": "assets/images-webp/n5_08211_男の子.webp",
+      "originalBytes": 429107,
+      "optimizedBytes": 7222,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08213_留学生.png",
+      "optimized": "assets/images-webp/n5_08213_留学生.webp",
+      "originalBytes": 1521658,
+      "optimizedBytes": 38876,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08217_病院.png",
+      "optimized": "assets/images-webp/n5_08217_病院.webp",
+      "originalBytes": 527787,
+      "optimizedBytes": 20372,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08224_目.png",
+      "optimized": "assets/images-webp/n5_08224_目.webp",
+      "originalBytes": 418937,
+      "optimizedBytes": 12984,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08230_砂糖.png",
+      "optimized": "assets/images-webp/n5_08230_砂糖.webp",
+      "originalBytes": 427048,
+      "optimizedBytes": 15434,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08236_立つ.png",
+      "optimized": "assets/images-webp/n5_08236_立つ.webp",
+      "originalBytes": 283828,
+      "optimizedBytes": 9800,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08238_箱.png",
+      "optimized": "assets/images-webp/n5_08238_箱.webp",
+      "originalBytes": 496066,
+      "optimizedBytes": 16852,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08239_紅茶.png",
+      "optimized": "assets/images-webp/n5_08239_紅茶.webp",
+      "originalBytes": 460608,
+      "optimizedBytes": 12470,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08240_紙.png",
+      "optimized": "assets/images-webp/n5_08240_紙.webp",
+      "originalBytes": 443610,
+      "optimizedBytes": 9582,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08251_耳.png",
+      "optimized": "assets/images-webp/n5_08251_耳.webp",
+      "originalBytes": 377647,
+      "optimizedBytes": 12796,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08253_肉.png",
+      "optimized": "assets/images-webp/n5_08253_肉.webp",
+      "originalBytes": 493888,
+      "optimizedBytes": 14454,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08259_自転車.png",
+      "optimized": "assets/images-webp/n5_08259_自転車.webp",
+      "originalBytes": 686162,
+      "optimizedBytes": 30432,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08261_花.png",
+      "optimized": "assets/images-webp/n5_08261_花.webp",
+      "originalBytes": 390867,
+      "optimizedBytes": 13396,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08262_花瓶.png",
+      "optimized": "assets/images-webp/n5_08262_花瓶.webp",
+      "originalBytes": 434192,
+      "optimizedBytes": 16522,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08267_葉書.png",
+      "optimized": "assets/images-webp/n5_08267_葉書.webp",
+      "originalBytes": 1079928,
+      "optimizedBytes": 51432,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08269_薬.png",
+      "optimized": "assets/images-webp/n5_08269_薬.webp",
+      "originalBytes": 291263,
+      "optimizedBytes": 8522,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08282_読む.png",
+      "optimized": "assets/images-webp/n5_08282_読む.webp",
+      "originalBytes": 527915,
+      "optimizedBytes": 13564,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08295_走る.png",
+      "optimized": "assets/images-webp/n5_08295_走る.webp",
+      "originalBytes": 394633,
+      "optimizedBytes": 11180,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08297_足.png",
+      "optimized": "assets/images-webp/n5_08297_足.webp",
+      "originalBytes": 1174129,
+      "optimizedBytes": 16850,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08298_車.png",
+      "optimized": "assets/images-webp/n5_08298_車.webp",
+      "originalBytes": 622821,
+      "optimizedBytes": 28706,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08309_道.png",
+      "optimized": "assets/images-webp/n5_08309_道.webp",
+      "originalBytes": 925354,
+      "optimizedBytes": 45880,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08312_部屋.png",
+      "optimized": "assets/images-webp/n5_08312_部屋.webp",
+      "originalBytes": 622289,
+      "optimizedBytes": 23922,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08313_郵便局.png",
+      "optimized": "assets/images-webp/n5_08313_郵便局.webp",
+      "originalBytes": 603318,
+      "optimizedBytes": 23884,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08314_重い.png",
+      "optimized": "assets/images-webp/n5_08314_重い.webp",
+      "originalBytes": 398425,
+      "optimizedBytes": 13318,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08315_野菜.png",
+      "optimized": "assets/images-webp/n5_08315_野菜.webp",
+      "originalBytes": 659326,
+      "optimizedBytes": 26200,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08317_鉛筆.png",
+      "optimized": "assets/images-webp/n5_08317_鉛筆.webp",
+      "originalBytes": 348780,
+      "optimizedBytes": 11562,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08318_銀行.png",
+      "optimized": "assets/images-webp/n5_08318_銀行.webp",
+      "originalBytes": 588992,
+      "optimizedBytes": 19442,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08326_降る.png",
+      "optimized": "assets/images-webp/n5_08326_降る.webp",
+      "originalBytes": 183596,
+      "optimizedBytes": 2700,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08329_雑誌.png",
+      "optimized": "assets/images-webp/n5_08329_雑誌.webp",
+      "originalBytes": 495577,
+      "optimizedBytes": 18770,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08331_雨.png",
+      "optimized": "assets/images-webp/n5_08331_雨.webp",
+      "originalBytes": 738560,
+      "optimizedBytes": 20390,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08332_雪.png",
+      "optimized": "assets/images-webp/n5_08332_雪.webp",
+      "originalBytes": 628901,
+      "optimizedBytes": 22892,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08335_電話.png",
+      "optimized": "assets/images-webp/n5_08335_電話.webp",
+      "originalBytes": 781132,
+      "optimizedBytes": 30462,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08336_電車.png",
+      "optimized": "assets/images-webp/n5_08336_電車.webp",
+      "originalBytes": 669420,
+      "optimizedBytes": 30966,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08340_靴.png",
+      "optimized": "assets/images-webp/n5_08340_靴.webp",
+      "originalBytes": 329651,
+      "optimizedBytes": 6676,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08341_靴下.png",
+      "optimized": "assets/images-webp/n5_08341_靴下.webp",
+      "originalBytes": 541199,
+      "optimizedBytes": 7182,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08350_食べ物.png",
+      "optimized": "assets/images-webp/n5_08350_食べ物.webp",
+      "originalBytes": 773878,
+      "optimizedBytes": 39212,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08356_高い.png",
+      "optimized": "assets/images-webp/n5_08356_高い.webp",
+      "originalBytes": 377084,
+      "optimizedBytes": 7844,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08357_魚.png",
+      "optimized": "assets/images-webp/n5_08357_魚.webp",
+      "originalBytes": 1199677,
+      "optimizedBytes": 13136,
+      "originalSize": [
+        832,
+        1216
+      ],
+      "optimizedSize": [
+        350,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08358_鳥.png",
+      "optimized": "assets/images-webp/n5_08358_鳥.webp",
+      "originalBytes": 379921,
+      "optimizedBytes": 11048,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08361_黄色い.png",
+      "optimized": "assets/images-webp/n5_08361_黄色い.webp",
+      "originalBytes": 399828,
+      "optimizedBytes": 10784,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08363_黒い.png",
+      "optimized": "assets/images-webp/n5_08363_黒い.webp",
+      "originalBytes": 437887,
+      "optimizedBytes": 8714,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    },
+    {
+      "source": "assets/images/n5_08364_鼻.png",
+      "optimized": "assets/images-webp/n5_08364_鼻.webp",
+      "originalBytes": 397592,
+      "optimizedBytes": 12720,
+      "originalSize": [
+        768,
+        768
+      ],
+      "optimizedSize": [
+        512,
+        512
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 (function () {
-  const VERSION = "20260705-cdn";
+  const VERSION = "20260705-webp";
   const CDN_BASE = "https://cdn.jsdelivr.net/gh/RIKKA-ZZZ/jlpt-hvpt-trainer@main/hvpt_site/";
   const LOCAL_HOSTS = new Set(["", "localhost", "127.0.0.1", "::1"]);
   const params = new URLSearchParams(window.location.search);

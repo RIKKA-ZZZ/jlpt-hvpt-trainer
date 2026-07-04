@@ -2,14 +2,20 @@ const savedTheme = localStorage.getItem("hvpt_theme");
 if (savedTheme) document.documentElement.dataset.theme = savedTheme;
 
 const LANG_KEY = "hvpt_lang";
-const DATA_VERSION = "20260705-cdn";
+const DATA_VERSION = "20260705-webp";
 
 function assetUrl(path, options) {
   return window.hvptAssetUrl ? window.hvptAssetUrl(path, options) : path;
 }
 
+function optimizedImagePath(path) {
+  if (!path || !/^assets\/images\/.+\.png$/i.test(path)) return path;
+  return path.replace(/^assets\/images\//, "assets/images-webp/").replace(/\.png$/i, ".webp");
+}
+
 function setAssetImage(image, path) {
-  const primary = assetUrl(path);
+  const optimized = optimizedImagePath(path);
+  const primary = assetUrl(optimized);
   const fallback = assetUrl(path, { cdn: false });
   let triedFallback = false;
   image.decoding = "async";
