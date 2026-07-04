@@ -1,0 +1,7 @@
+assets/audio/**/*.wav
+assets/audio/voicevox/speaker_20/
+server.log
+server.err.log
+server.out.log
+tools/
+*.bat
