@@ -735,10 +735,10 @@ dd {
 }
 
 .intro-copy h1 {
-  max-width: 660px;
+  max-width: 760px;
   margin: 10px 0 16px;
-  font-size: clamp(38px, 4.9vw, 70px);
-  line-height: 1.08;
+  font-size: clamp(32px, 3vw, 44px);
+  line-height: 1.18;
   text-wrap: balance;
 }
 
@@ -752,6 +752,7 @@ dd {
 .intro-actions {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 12px;
   margin: 24px 0;
 }
@@ -766,6 +767,19 @@ dd {
   border-radius: 999px;
   font-weight: 900;
   text-decoration: none;
+}
+
+.intro-lang-select {
+  width: auto;
+  min-width: 118px;
+  min-height: 46px;
+  border-radius: 999px;
+  padding: 0 14px;
+  border: 1px solid rgba(112, 134, 117, 0.35);
+  background: rgba(255, 253, 248, 0.82);
+  color: var(--text);
+  font-weight: 900;
+  box-shadow: var(--shadow-soft);
 }
 
 .intro-primary {
@@ -1376,8 +1390,8 @@ dd {
   }
 
   .intro-copy h1 {
-    font-size: 44px;
-    line-height: 1.05;
+    font-size: 34px;
+    line-height: 1.16;
   }
 
   .intro-stats,

@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>JLPT HVPT Trainer</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=20260704-intro-title" />
     <script>var t=localStorage.getItem("hvpt_theme");if(t)document.documentElement.dataset.theme=t;</script>
   </head>
   <body class="intro-body">
@@ -18,11 +18,6 @@
       <nav class="intro-nav" aria-label="site">
         <a class="brand-link" href="index.html">JLPT HVPT</a>
         <div class="intro-nav-actions">
-          <select id="introLangSelect" class="intro-lang-select lang-select" aria-label="Language">
-            <option value="zh">中文</option>
-            <option value="en">English</option>
-            <option value="ja">日本語</option>
-          </select>
           <a href="sources.html" data-i18n="navSources">来源与许可</a>
           <a class="nav-cta" href="trainer.html" data-i18n="navTrainer">进入训练</a>
         </div>
@@ -31,13 +26,18 @@
       <section class="intro-hero">
         <div class="intro-copy">
           <p class="eyebrow" data-i18n="heroEyebrow">多声源音频 · AI 图像 · JLPT N5–N1</p>
-          <h1 data-i18n-html="heroTitle">秒反馈<br>图片联想<br>多角色声音</h1>
+          <h1 data-i18n-html="heroTitle">用图片联想和多角色声音训练 JLPT 词汇</h1>
           <p class="intro-lede" data-i18n="heroLede">
             用 4 种 VOICEVOX 角色音色和 AI 生成图片练习 JLPT N5–N1 词汇。
             多声源输入帮助你在不同音色之间建立稳健的语音感知；
             图片联想模式和听音辨词模式搭配，每次选择后立即反馈，适合碎片时间高效刷词。
           </p>
           <div class="intro-actions">
+            <select id="introLangSelect" class="intro-lang-select" aria-label="Language">
+              <option value="zh">中文</option>
+              <option value="en">English</option>
+              <option value="ja">日本語</option>
+            </select>
             <a class="intro-primary" href="trainer.html" data-i18n="startTraining">开始训练</a>
             <a class="intro-secondary" href="sources.html" data-i18n="viewSources">查看来源与许可</a>
           </div>
@@ -104,7 +104,7 @@
       </section>
     </main>
 
-    <script src="intro.js?v=20260704-i18n" type="module"></script>
+    <script src="intro.js?v=20260704-intro-title" type="module"></script>
     <footer class="site-footer">
       <span data-i18n="footerNote">非官方 JLPT 学习项目。</span>
       <a href="sources.html" data-i18n="footerSource">来源与许可</a>
