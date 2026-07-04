@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JLPT HVPT Trainer</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script>var t=localStorage.getItem("hvpt_theme");if(t)document.documentElement.dataset.theme=t;</script>
+  </head>
+  <body class="intro-body">
+    <div class="intro-boot" aria-hidden="true">
+      <div class="boot-mark">聞く</div>
+      <div class="boot-line"></div>
+      <div class="boot-caption">image · audio · feedback</div>
+    </div>
+
+    <main class="intro-shell">
+      <nav class="intro-nav" aria-label="site">
+        <a class="brand-link" href="index.html">JLPT HVPT</a>
+        <div class="intro-nav-actions">
+          <a href="sources.html">来源与许可</a>
+          <a class="nav-cta" href="trainer.html">进入训练</a>
+        </div>
+      </nav>
+
+      <section class="intro-hero">
+        <div class="intro-copy">
+          <p class="eyebrow">多声源音频 · AI 图像 · JLPT N5–N1</p>
+          <h1>秒反馈<br>图片联想<br>多角色声音</h1>
+          <p class="intro-lede">
+            用 5 种 VOICEVOX 角色音色和 AI 生成图片练习 JLPT N5–N1 词汇。
+            多声源输入帮助你在不同音色之间建立稳健的语音感知；
+            图片联想模式和听音辨词模式搭配，每次选择后立即反馈，适合碎片时间高效刷词。
+          </p>
+          <div class="intro-actions">
+            <a class="intro-primary" href="trainer.html">开始训练</a>
+            <a class="intro-secondary" href="sources.html">查看来源与许可</a>
+          </div>
+          <dl class="intro-stats" aria-label="current dataset">
+            <div>
+              <dt>图片题</dt>
+              <dd id="introImageCount">-</dd>
+            </div>
+            <div>
+              <dt>听音题</dt>
+              <dd id="introListeningCount">-</dd>
+            </div>
+            <div>
+              <dt>等级</dt>
+              <dd id="introLevelCount">-</dd>
+            </div>
+          </dl>
+        </div>
+
+        <div class="intro-visual" aria-hidden="true">
+          <div class="sound-ring sound-ring-one"></div>
+          <div class="sound-ring sound-ring-two"></div>
+          <div class="floating-word word-one">聞く</div>
+          <div class="floating-word word-two">選ぶ</div>
+          <div class="floating-word word-three">覚える</div>
+          <div class="intro-image-orbit" id="introImageOrbit"></div>
+        </div>
+      </section>
+
+      <section class="intro-band" aria-labelledby="methodTitle">
+        <div class="intro-section-heading">
+          <p class="eyebrow">Method</p>
+          <h2 id="methodTitle">训练重点</h2>
+        </div>
+        <div class="intro-feature-grid">
+          <article>
+            <span>1</span>
+            <h3>多样输入</h3>
+            <p>同一批词会以图片、文字和日语朗读出现，降低只靠单一记忆线索造成的混淆。</p>
+          </article>
+          <article>
+            <span>2</span>
+            <h3>即时反馈</h3>
+            <p>每次选择后马上显示正确答案，帮助你在刚听完、刚看完时修正判断。</p>
+          </article>
+          <article>
+            <span>3</span>
+            <h3>可继续扩展</h3>
+            <p>已覆盖 N5 / N4 / N3 / N2 / N1，使用 5 种 VOICEVOX 角色音色与 AI 生成图片，后续可继续扩充音色和题目类型。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="intro-license-strip" aria-labelledby="licenseTitle">
+        <div>
+          <p class="eyebrow">Open and careful</p>
+          <h2 id="licenseTitle">来源与许可已经单独整理</h2>
+          <p>
+            词表、JMdict/EDICT 释义、Tatoeba 例句、AI 生成图片和 VOICEVOX 合成音频分别标注来源。
+            这个项目不是 JLPT 官方项目，也不包含官方真题。
+          </p>
+        </div>
+        <a class="intro-secondary" href="sources.html">完整说明</a>
+      </section>
+    </main>
+
+    <script src="intro.js?v=20260702-stats" type="module"></script>
+    <footer class="site-footer">
+      <span>非官方 JLPT 学习项目。</span>
+      <a href="sources.html">来源与许可</a>
+      <a href="mailto:aaalhlp@gmail.com">aaalhlp@gmail.com</a>
+    </footer>
+  </body>
+</html>

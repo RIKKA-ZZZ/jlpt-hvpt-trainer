@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-07-04T08:41:55",
+  "csv": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\jlpt_vocab_imageable_candidates.csv",
+  "targetRows": 2540,
+  "filledRows": 2258,
+  "matchedRows": 2258,
+  "withEnglish": 2217,
+  "withChinese": 1208,
+  "skippedExisting": 64,
+  "noMatch": 218,
+  "dryRun": false,
+  "reportCsv": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\tatoeba_sentence_match_report_20260704_084155.csv"
+}

@@ -1,0 +1,45 @@
+{
+  "csv": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\jlpt_vocab_imageable_candidates.csv",
+  "updated_copy": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\jlpt_vocab_imageable_candidates.final5_OK_marks.csv",
+  "backup": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\jlpt_vocab_imageable_candidates.before_final5_ok_update.csv",
+  "write_status": "source_updated",
+  "rows": 2540,
+  "passed_dir": "D:\\codex-2\\tup\\NO",
+  "passed_files": 5,
+  "passed_unique_ids": 5,
+  "missing_passed_ids_in_csv": [],
+  "changed_to_OK_from_passed": 5,
+  "already_OK_in_passed": 0,
+  "before_counts": {
+    "OK": 64,
+    "(blank)": 2299,
+    "NO": 5,
+    "NO PICTURE": 172
+  },
+  "before_counts_by_level": {
+    "OK": {
+      "N5": 63,
+      "N4": 1
+    },
+    "NO": {
+      "N5": 5
+    },
+    "NO PICTURE": {
+      "N5": 172
+    }
+  },
+  "after_counts": {
+    "OK": 69,
+    "(blank)": 2299,
+    "NO PICTURE": 172
+  },
+  "after_counts_by_level": {
+    "OK": {
+      "N5": 68,
+      "N4": 1
+    },
+    "NO PICTURE": {
+      "N5": 172
+    }
+  }
+}

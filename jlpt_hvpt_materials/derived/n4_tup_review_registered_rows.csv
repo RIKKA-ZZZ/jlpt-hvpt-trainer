@@ -1,0 +1,125 @@
+﻿id,word,reading,meaning,meaningZh,current_review,folder_review,changed
+n4_07604,虫,むし,insect,虫、昆虫,OK,OK,no
+n4_07592,背中,せなか,back of the body,背部、后背,OK,OK,no
+n4_07195,ケーキ,ケーキ,cake,蛋糕,OK,OK,no
+n4_07481,水道,すいどう,water supply,自来水、水道,NO PICTURE,NO PICTURE,no
+n4_07504,湯,ゆ,hot water,热水,OK,OK,no
+n4_07573,米,こめ,uncooked rice,米、生米,OK,OK,no
+n4_07691,食事,しょくじ・する,to have a meal,吃饭、用餐,OK,OK,no
+n4_07147,つき,つくえ / つき,moon,月亮,OK,OK,no
+n4_07322,地震,じしん,earthquake,地震,OK,OK,no
+n4_07341,天気予報,てんきよほう,weather forecast,天气预报,NO,OK,yes
+n4_07444,星,ほし,star,星星,OK,OK,no
+n4_07509,火,ひ,fire,火、火灾,OK,OK,no
+n4_07510,火事,かじ,fire,火、火灾,NO,OK,yes
+n4_07685,雲,くも,cloud,云,NO,OK,yes
+n4_07194,ガラス,ガラス,a glass pane,玻璃、玻璃窗,OK,OK,no
+n4_07213,パソコン,パソコン,personal computer,个人电脑,OK,OK,no
+n4_07438,新聞社,しんぶんしゃ,newspaper company,报社,OK,OK,no
+n4_07340,大学生,だいがくせい,university student,大学生,OK,OK,no
+n4_07343,夫,おっと,husband,丈夫,NO PICTURE,NO PICTURE,no
+n4_07346,妻,つま,(humble) wife,妻子、内人,NO PICTURE,NO PICTURE,no
+n4_07387,御主人,ごしゅじん,(honorable) your husband,您的丈夫,NO PICTURE,NO PICTURE,no
+n4_07560,祖母,そぼ,grandmother,祖母、奶奶,NO PICTURE,NO PICTURE,no
+n4_07561,祖父,そふ,grandfather,祖父、爷爷,NO PICTURE,NO PICTURE,no
+n4_07699,高校生,こうこうせい,high school student,高中生,OK,OK,no
+n4_07193,ガソリンスタンド,ガソリンスタンド / ガソリン・スタンド,petrol station,加油站,OK,OK,no
+n4_07215,ビル,ビル,building or bill,大楼、账单,OK,OK,no
+n4_07237,中学校,ちゅうがっこう,"junior high school,middle school",初中、中学,OK,OK,no
+n4_07245,事務所,じむしょ,office,办公室、事务所,OK,OK,no
+n4_07261,会場,かいじょう,assembly hall or meeting place,会场、集合地点,OK,OK,no
+n4_07264,会議室,かいぎしつ,meeting room,会议室,NO PICTURE,NO PICTURE,no
+n4_07277,入学,にゅうがく・する,to enter school or university,入学,NO PICTURE,NO PICTURE,no
+n4_07332,売り場,うりば,place where things are sold,卖场、柜台,NO PICTURE,NO PICTURE,no
+n4_07362,小学校,しょうがっこう,elementary school,小学,OK,OK,no
+n4_07369,工場,こうじょう,factory,工厂,OK,OK,no
+n4_07377,店員,てんいん,shop assistant,店员,OK,OK,no
+n4_07439,旅館,りょかん,Japanese hotel,日式旅馆,OK,OK,no
+n4_07555,研究室,けんきゅうしつ,"study room,laboratory",研究室、实验室,NO,OK,yes
+n4_07567,空港,くうこう,airport,机场,NO,OK,yes
+n4_07649,退院,たいいん・する,to leave hospital,出院,NO PICTURE,NO PICTURE,no
+n4_07698,高校,こうこう,high school,高中,OK,OK,no
+n4_07700,高等学校,こうとうがっこう,high school,高中,NO,OK,yes
+n4_07486,汽車,きしゃ,steam train,蒸汽火车,OK,OK,no
+n4_07521,特急,とっきゅう,limited express train (faster than an express train),特急列车,OK,OK,no
+n4_07597,舟,ふね,ship,船,OK,OK,no
+n4_07197,コンピュータ/コンピューター,,computer,电脑、计算机,NO PICTURE,NO PICTURE,no
+n4_07093,お・金持ち,かねもち/おかねもち,rich man,有钱人,OK,OK,no
+n4_07075,あげる,あげる / アゲる,to give,给,NO PICTURE,NO PICTURE,no
+n4_07077,いじめる,いじめる / イジメる / イジめる,to tease,欺负、捉弄,NO PICTURE,NO PICTURE,no
+n4_07078,いただく,いただく,(humble) to receive,领受、收到（谦逊语）,NO PICTURE,NO PICTURE,no
+n4_07081,うかがう,うかがう,to visit,访问、拜访,NO PICTURE,NO PICTURE,no
+n4_07087,おいでになる,おいでになる,(respectful) to be,在、有、来（尊敬语）,NO PICTURE,NO PICTURE,no
+n4_07090,おっしゃる,おっしゃる,(respectful) to say,说（尊敬语）,NO PICTURE,NO PICTURE,no
+n4_07104,くださる,くださる,(respectful) to give,给（尊敬语）,NO PICTURE,NO PICTURE,no
+n4_07157,ぬれる,ぬれる,to get wet,弄湿、淋湿,NO PICTURE,NO PICTURE,no
+n4_07169,ほめる,ほめる,to praise,表扬、称赞,NO PICTURE,NO PICTURE,no
+n4_07226,上る,あがる,to rise,上升、登上,NO PICTURE,NO PICTURE,no
+n4_07227,下げる,さげる,"to hang,to lower,to move back",降低、放下、后退,NO PICTURE,NO PICTURE,no
+n4_07228,下りる,おりる,to get off,下车、下来,NO PICTURE,NO PICTURE,no
+n4_07229,下る,さがる,"to get down,to descend",下降、下去,NO PICTURE,NO PICTURE,no
+n4_07270,倒れる,たおれる,to break down,坏掉、倒塌,NO PICTURE,NO PICTURE,no
+n4_07281,写す,うつす,to copy or photograph,抄写、拍照,NO PICTURE,NO PICTURE,no
+n4_07303,参る,まいる,"(humble) to go,to come",去、来（谦逊语）,NO PICTURE,NO PICTURE,no
+n4_07306,受ける,うける,to take a lesson or test,上课、参加考试,NO PICTURE,NO PICTURE,no
+n4_07308,召し上がる,めしあがる,(polite) to eat,吃（礼貌语）,NO PICTURE,NO PICTURE,no
+n4_07310,合う,あう,to match,合适、相合,NO PICTURE,NO PICTURE,no
+n4_07311,向かう,むかう,to face,面对、朝向,NO PICTURE,NO PICTURE,no
+n4_07319,回る,まわる,to go around,转、绕行,NO PICTURE,NO PICTURE,no
+n4_07327,塗る,ぬる,"to paint,to plaster",涂、抹,NO PICTURE,NO PICTURE,no
+n4_07331,壊れる,こわれる,to be broken,坏掉,NO PICTURE,NO PICTURE,no
+n4_07334,変える,かえる,to change,改变,NO PICTURE,NO PICTURE,no
+n4_07342,太る,ふとる,to become fat,变胖,OK,OK,no
+n4_07357,寄る,よる,to visit,访问、拜访,NO PICTURE,NO PICTURE,no
+n4_07361,尋ねる,たずねる,to ask,问,NO PICTURE,NO PICTURE,no
+n4_07365,届ける,とどける,to reach,送达、到达,NO PICTURE,NO PICTURE,no
+n4_07378,建てる,たてる,to build,建造,NO PICTURE,NO PICTURE,no
+n4_07380,引き出す,ひきだす,to withdraw,取出、拉出,NO PICTURE,NO PICTURE,no
+n4_07399,急ぐ,いそぐ,to hurry,赶快、着急,NO PICTURE,NO PICTURE,no
+n4_07407,戻る,もどる,to turn back,返回,NO PICTURE,NO PICTURE,no
+n4_07414,投げる,なげる,to throw or cast away,投、扔,NO PICTURE,NO PICTURE,no
+n4_07415,折る,おる,to break or to fold,折断、折叠,NO PICTURE,NO PICTURE,no
+n4_07418,招待,しょうたい・する,to invite,邀请,NO PICTURE,NO PICTURE,no
+n4_07420,拾う,ひろう,"to pick up,to gather",捡起、收集,OK,OK,no
+n4_07423,捕まえる,つかまえる,to seize,抓住、捕捉,NO PICTURE,NO PICTURE,no
+n4_07424,捨てる,すてる,to throw away,扔掉,NO PICTURE,NO PICTURE,no
+n4_07425,掛ける,かける,to hang something,挂上,NO PICTURE,NO PICTURE,no
+n4_07451,暮れる,くれる,"to get dark,to come to an end",天黑、结束,NO PICTURE,NO PICTURE,no
+n4_07466,楽む,たのしむ,to enjoy oneself,享受、玩得开心,NO PICTURE,NO PICTURE,no
+n4_07469,止める,とめる,to stop something,停止某事,NO PICTURE,NO PICTURE,no
+n4_07475,比べる,くらべる,to compare,比较,NO PICTURE,NO PICTURE,no
+n4_07484,決める,きめる,to decide,决定,NO PICTURE,NO PICTURE,no
+n4_07516,焼ける,やける,"to burn,to be roasted",燃烧、烤焦,OK,OK,no
+n4_07518,片付ける,かたづける,to tidy up,收拾、整理,NO PICTURE,NO PICTURE,no
+n4_07524,生きる,いきる,to live,生活、活着,NO PICTURE,NO PICTURE,no
+n4_07543,直す,なおす,"to fix,to repair",修理,NO PICTURE,NO PICTURE,no
+n4_07544,直る,なおる,"to be fixed,to be repaired",修好、被修理,NO PICTURE,NO PICTURE,no
+n4_07549,眠る,ねむる,to sleep,睡觉,NO,OK,yes
+n4_07564,移る,うつる,to move house or transfer,搬家、转移,NO PICTURE,NO PICTURE,no
+n4_07565,空く,あく,"to open, to become empty",空出来、打开,NO PICTURE,NO PICTURE,no
+n4_07568,立てる,たてる,to stand something up,立起来,NO PICTURE,NO PICTURE,no
+n4_07582,続く,つづく,to be continued,继续,NO PICTURE,NO PICTURE,no
+n4_07591,育てる,そだてる,"to rear,to bring up",养育、培养,NO PICTURE,NO PICTURE,no
+n4_07602,落る,おちる,to fall or drop,落下、掉落,NO PICTURE,NO PICTURE,no
+n4_07606,行う,おこなう,to do,做,NO PICTURE,NO PICTURE,no
+n4_07613,見つける,みつける,to discover,发现、找到,NO PICTURE,NO PICTURE,no
+n4_07620,訪ねる,たずねる,to visit,访问、拜访,NO PICTURE,NO PICTURE,no
+n4_07631,負ける,まける,to lose,输、丢失,NO PICTURE,NO PICTURE,no
+n4_07635,起す,おこす,to wake,叫醒、唤起,NO PICTURE,NO PICTURE,no
+n4_07637,足す,たす,to add a number,加、加上数字,NO PICTURE,NO PICTURE,no
+n4_07640,踊る,おどる,to dance,跳舞,OK,OK,no
+n4_07646,迎える,むかえる,to go out to meet,迎接,NO PICTURE,NO PICTURE,no
+n4_07650,送る,おくる,to send,发送、送,NO PICTURE,NO PICTURE,no
+n4_07651,逃げる,にげる,to escape,逃跑,NO PICTURE,NO PICTURE,no
+n4_07653,通う,かよう,to commute,通勤、往返,NO PICTURE,NO PICTURE,no
+n4_07654,通る,とおる,to go through,通过、穿过,NO PICTURE,NO PICTURE,no
+n4_07655,連れる,つれる,to lead,带领、带着,NO PICTURE,NO PICTURE,no
+n4_07657,進む,すすむ,to make progress,前进、进展,NO PICTURE,NO PICTURE,no
+n4_07658,遅れる,おくれる,to be late,迟到、晚,NO PICTURE,NO PICTURE,no
+n4_07660,運ぶ,はこぶ,to transport,搬运、运输,NO PICTURE,NO PICTURE,no
+n4_07662,運転,うんてん・する,to drive,驾驶,OK,OK,no
+n4_07664,過ぎる,すぎる,to exceed,超过、过去,NO PICTURE,NO PICTURE,no
+n4_07669,選ぶ,えらぶ,to choose,选择,NO PICTURE,NO PICTURE,no
+n4_07674,釣る,つる,to fish,钓鱼,OK,OK,no
+n4_07676,開く,ひらく,to open an event,举办、召开,NO PICTURE,NO PICTURE,no
+n4_07679,間違える,まちがえる,to make a mistake,弄错,NO PICTURE,NO PICTURE,no

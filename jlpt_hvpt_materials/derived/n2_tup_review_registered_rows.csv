@@ -1,0 +1,246 @@
+﻿id,word,reading,meaning,meaningZh,current_review,folder_review,changed
+n2_03984,刺身,さしみ,sliced raw fish,生鱼片,NO,OK,yes
+n2_04868,競馬,けいば,horse racing,赛马,NO,OK,yes
+n2_04991,薬品,やくひん,"medicine(s),chemical(s)",药品,NO,OK,yes
+n2_05275,麓,ふもと,"the foot,the bottom,the base (of a mountain)",山脚,NO,NO PICTURE,yes
+n2_04087,和服,わふく,Japanese clothes,和服,NO,OK,yes
+n2_04821,着替え,きがえ,"changing clothes,change of clothes",换衣服,NO PICTURE,NO PICTURE,no
+n2_03510,おやつ,おやつ,"(1) between meal snack,afternoon refreshment",点心,NO,OK,yes
+n2_03828,井戸,いど,water well,水井,NO,OK,yes
+n2_04099,噴水,ふんすい,water fountain,喷泉,OK,OK,no
+n2_04126,地下水,ちかすい,underground water,地下水,NO PICTURE,NO PICTURE,no
+n2_04335,御手洗,おてあらい,font of purifying water placed at entrance of shrine,御手洗,NO PICTURE,NO PICTURE,no
+n2_04541,果実,かじつ,"fruit,nut,berry.",水果,NO,OK,yes
+n2_04597,水滴,すいてき,drop of water,水滴,NO,OK,yes
+n2_04601,水蒸気,すいじょうき,"water vapour,steam",水蒸气,NO PICTURE,NO PICTURE,no
+n2_04766,田植え,たうえ,rice planting,插秧,NO,OK,yes
+n2_04972,茶碗,ちゃわん,"rice bowl,tea cup,teacup",饭碗,NO,OK,yes
+n2_05261,餅,もち,sticky rice cake,米糕,NO,NO PICTURE,yes
+n2_03782,三日月,みかづき,"new moon,crescent moon",三日月,NO PICTURE,NO PICTURE,no
+n2_03804,並木,なみき,"roadside tree,row of trees",行道树；树列,NO,OK,yes
+n2_04080,吹雪,ふぶき,snow storm,暴风雪,NO,OK,yes
+n2_04164,夕日,ゆうひ,"(in) the evening sun,setting sun",夕阳,NO,OK,yes
+n2_04178,大木,たいぼく,large tree,大树,OK,OK,no
+n2_04259,山林,さんりん,"mountain forest,mountains and forest",山林；山地森林；林区,OK,OK,no
+n2_04491,日当たり,ひあたり,"exposure to the sun,sunny place",向阳地；阳光充足处,OK,OK,no
+n2_04626,海水浴,かいすいよく,"sea bathing,seawater bath",海水浴；海浴,NO PICTURE,NO PICTURE,no
+n2_04627,海洋,かいよう,ocean,海洋；大海,NO,OK,yes
+n2_04755,生け花,いけばな,(1) flower arrangement,花艺,OK,OK,no
+n2_03747,ミシン,ミシン,sewing machine,缝纫机,NO PICTURE,NO PICTURE,no
+n2_03887,便箋,びんせん,"writing paper,stationery",便笺,NO,OK,yes
+n2_03937,内線,ないせん,"phone extension,indoor wiring,inner line",分机,NO PICTURE,NO PICTURE,no
+n2_04018,匙,さじ,spoon,勺子,OK,OK,no
+n2_04057,古典,こてん,"old book,classics,classic",古典,NO PICTURE,NO PICTURE,no
+n2_04109,回数券,かいすうけん,book of tickets,多次票、回数券,NO PICTURE,NO PICTURE,no
+n2_04116,図鑑,ずかん,picture book,图鉴,NO PICTURE,NO PICTURE,no
+n2_04150,塵紙,ちりがみ,"tissue paper,toilet paper",纸巾; 卫生纸,NO,OK,yes
+n2_04163,夕刊,ゆうかん,evening paper,晚报,NO PICTURE,NO PICTURE,no
+n2_04403,投書,とうしょ,"letter to the editor,letter from a reader,contribution",读者来信,NO PICTURE,NO PICTURE,no
+n2_04517,書籍,しょせき,"book,publication",书,OK,OK,no
+n2_04702,為替,かわせ,"money order,exchange",汇票;外汇,NO PICTURE,NO PICTURE,no
+n2_04865,窓口,まどぐち,ticket window,窗口,OK,OK,no
+n2_04887,紙幣,しへい,"paper money,notes,bills",纸币,NO,OK,yes
+n2_05219,障子,しょうじ,paper sliding door,纸拉门、障子,NO PICTURE,NO PICTURE,no
+n2_05228,電柱,でんちゅう,"telephone pole,telegraph pole,lightpole",电线杆,OK,OK,no
+n2_05256,食塩,しょくえん,table salt,食盐,NO,OK,yes
+n2_03494,おくさん,おくさん,"(hon) wife,your wife,madam",夫人,NO PICTURE,NO PICTURE,no
+n2_03650,ウーマン,ウーマン,woman,女士,NO PICTURE,NO PICTURE,no
+n2_03677,サラリーマン,サラリーマン / サラーリーマン / サラリマン,"salary man,company employee",上班族,NO,NO PICTURE,yes
+n2_04135,坊や,ぼうや,boy,男孩,NO PICTURE,NO PICTURE,no
+n2_04182,夫妻,ふさい,"man and wife,married couple",夫妻,NO PICTURE,NO PICTURE,no
+n2_04184,女の人,おんなのひと,woman,女士,OK,OK,no
+n2_04185,女房,にょうぼう,wife,妻子,NO PICTURE,NO PICTURE,no
+n2_04248,小学生,しょうがくせい,grade school student,小学生,NO PICTURE,NO PICTURE,no
+n2_04530,末っ子,すえっこ,youngest child,最小的孩子,NO PICTURE,NO PICTURE,no
+n2_04723,父母,ふぼ,"father and mother,parents",父母,NO PICTURE,NO PICTURE,no
+n2_04826,知人,ちじん,"friend,acquaintance",熟人、认识的人,NO PICTURE,NO PICTURE,no
+n2_03681,ショップ,ショップ,a shop,商店,NO PICTURE,NO PICTURE,no
+n2_03687,スクール,スクール,school,学校,NO PICTURE,NO PICTURE,no
+n2_03724,ビルディング,ビルディング / ビルヂング,building,建筑物,NO PICTURE,NO PICTURE,no
+n2_03978,別荘,べっそう,"holiday house,villa",别墅,NO PICTURE,NO PICTURE,no
+n2_04074,名所,めいしょ,famous place,名胜,NO PICTURE,NO PICTURE,no
+n2_04091,商店,しょうてん,"shop,business firm",商店,NO,OK,yes
+n2_04160,売店,ばいてん,"shop,stand",小卖部、售货亭,NO PICTURE,NO PICTURE,no
+n2_04174,大学院,だいがくいん,graduate school,研究生院,NO PICTURE,NO PICTURE,no
+n2_04179,大通り,おおどおり,main street,主街,NO PICTURE,NO PICTURE,no
+n2_04210,官庁,かんちょう,"government office,authorities",政府机关,NO,NO PICTURE,yes
+n2_04230,家屋,かおく,"house,building",家、房子、建筑物,NO PICTURE,NO PICTURE,no
+n2_04267,工員,こういん,factory worker,工厂工人,NO PICTURE,NO PICTURE,no
+n2_04292,庖丁,ほうちょう,"kitchen knife,carving knife",厨刀,NO PICTURE,NO PICTURE,no
+n2_04293,店屋,みせや,"store,shop",商店,NO PICTURE,NO PICTURE,no
+n2_04295,座敷,ざしき,tatami room,日式房间,NO PICTURE,NO PICTURE,no
+n2_04325,役所,やくしょ,"government office,public office",政府办公室,NO PICTURE,NO PICTURE,no
+n2_04330,待合室,まちあいしつ,waiting room,等候室,NO PICTURE,NO PICTURE,no
+n2_04546,校舎,こうしゃ,school building,校舍,NO PICTURE,NO PICTURE,no
+n2_04612,洋品店,ようひんてん,shop which handles Western-style apparel and accessories,西式服饰店,NO PICTURE,NO PICTURE,no
+n2_04633,消防署,しょうぼうしょ,fire station,消防站,NO,OK,yes
+n2_04732,物置,ものおき,storage room,储物间,OK,OK,no
+n2_04810,県庁,けんちょう,prefectural office,县厅,NO PICTURE,NO PICTURE,no
+n2_04855,税関,ぜいかん,customs house,海关,NO,NO PICTURE,yes
+n2_05005,街角,まちかど,street corner,街角,NO PICTURE,NO PICTURE,no
+n2_05076,貸家,かしや,house for rent,出租屋,NO PICTURE,NO PICTURE,no
+n2_05077,貸間,かしま,room to let,出租间,NO PICTURE,NO PICTURE,no
+n2_05143,遊園地,ゆうえんち,amusement park,游乐园,OK,OK,no
+n2_04482,新幹線,しんかんせん,"bullet train (very high speed),shinkansen",新干线,NO PICTURE,NO PICTURE,no
+n2_03617,ぺん,,pen,笔,NO,OK,yes
+n2_03476,あふれる,あふれる,"to flood,to overflow,to brim over",溢出,NO,NO PICTURE,yes
+n2_03477,あぶる,あぶる,to scorch,烘烤,NO,NO PICTURE,yes
+n2_03502,おどかす,おどかす,"to threaten,to coerce",威胁,NO PICTURE,NO PICTURE,no
+n2_03517,かじる,かじる,"to chew,to bite (at),to gnaw,to nibble",咀嚼,NO,NO PICTURE,yes
+n2_03519,からかう,からかう,"to ridicule,to tease,to banter with,to make fun of",捉弄、取笑,NO PICTURE,NO PICTURE,no
+n2_03527,くっつく,くっつく,"to adhere to,to keep close to",粘附,NO PICTURE,NO PICTURE,no
+n2_03528,くっつける,くっつける,to attach,粘贴,NO PICTURE,NO PICTURE,no
+n2_03530,くるむ,くるむ,"to be engulfed in,to be enveloped by,to wrap up",包裹,NO,NO PICTURE,yes
+n2_03534,こしらえる,こしらえる,"to make,to manufacture",制作,NO PICTURE,NO PICTURE,no
+n2_03538,こぼす,こぼす,to spill,溢出,NO PICTURE,NO PICTURE,no
+n2_03539,こぼれる,こぼれる,"to overflow,to spill",溢出,NO PICTURE,NO PICTURE,no
+n2_03540,こらえる,こらえる / こたえる,"to bear,to stand,to endure,to put up with",忍耐、忍住,NO PICTURE,NO PICTURE,no
+n2_03553,しびれる,しびれる / シビれる / シビレる,"to become numb,to go to sleep (i.e., a limb)",麻木；入睡,NO,OK,yes
+n2_03556,しゃがむ,しゃがむ,to squat,蹲下,NO,OK,yes
+n2_03558,しゃぶる,しゃぶる,"to suck,to chew",吸；舔,NO,NO PICTURE,yes
+n2_03565,すれちがう,すれちがう,"to pass by one another,to disagree",擦肩而过,NO PICTURE,NO PICTURE,no
+n2_03567,ずらす,ずらす,"to put off,to delay",推迟,NO PICTURE,NO PICTURE,no
+n2_03580,だます,だます,"to trick,to cheat,to deceive",欺骗,NO PICTURE,NO PICTURE,no
+n2_03582,ちぎる,ちぎる,"to cut up fine,to pick (fruit)",切碎；采摘,NO PICTURE,NO PICTURE,no
+n2_03584,つまずく,つまずく / つまづく,"to stumble,to trip",绊倒,NO PICTURE,NO PICTURE,no
+n2_03592,どなる,どなる,"to shout,to yell",大喊,NO PICTURE,NO PICTURE,no
+n2_03593,なぐる,なぐる,"to strike,to hit",殴打、打,NO PICTURE,NO PICTURE,no
+n2_03602,はめる,はめる / ハメる,"(col) to get in,to insert,to put on,to make love",插入;戴上,NO PICTURE,NO PICTURE,no
+n2_03611,ぶつかる,ぶつかる / ぶっつかる,"to strike,to collide with",碰撞,NO PICTURE,NO PICTURE,no
+n2_03612,ぶつける,ぶつける,"to knock,to run into,to nail on,to strike hard,to hit and attack",撞击,NO PICTURE,NO PICTURE,no
+n2_03614,ぶらさげる,ぶらさげる,"to hang,to suspend,to dangle,to swing",悬挂,NO PICTURE,NO PICTURE,no
+n2_03618,ほどく,ほどく,to unfasten,解开,NO PICTURE,NO PICTURE,no
+n2_03622,またぐ,またぐ,to straddle,跨过,NO PICTURE,NO PICTURE,no
+n2_03633,もたれる,もたれる,"to lean against,to lean on,to recline on,to lie heavy (on the stomach)",倚靠,NO PICTURE,NO PICTURE,no
+n2_03637,やっつける,やっつける,"to attack (an enemy),to beat,to do away with,to finish off",击败,NO PICTURE,NO PICTURE,no
+n2_03640,ゆでる,ゆでる / うでる,to boil,煮,NO PICTURE,NO PICTURE,no
+n2_03641,よこす,よこす,"(1) to send,to forward,(2) to hand over (e.g. money)",传送,NO PICTURE,NO PICTURE,no
+n2_03785,上る,のぼる,"to ascend,to go up,to climb",爬、登,NO PICTURE,NO PICTURE,no
+n2_03789,下る,くだる,"to get down,to descend",下降、下去,NO PICTURE,NO PICTURE,no
+n2_03821,乾かす,かわかす,"to dry (clothes, etc.),to desiccate",晾干,NO PICTURE,NO PICTURE,no
+n2_03845,代える,かえる,"to exchange,to interchange,to substitute,to replace",替换、交换,NO PICTURE,NO PICTURE,no
+n2_03883,例える,たとえる,"to compare,to liken,to speak figuratively,to illustrate,to use a simile",比喻、比作,NO PICTURE,NO PICTURE,no
+n2_03897,倣う,ならう,"to imitate,to follow,to emulate",模仿,NO PICTURE,NO PICTURE,no
+n2_03947,冷ます,さます,"to cool,to dampen,to let cool",降温,NO PICTURE,NO PICTURE,no
+n2_03948,冷める,さめる,"to become cool,to wear off,to abate,to subside",变凉,NO PICTURE,NO PICTURE,no
+n2_03949,冷やす,ひやす,"to cool,to refrigerate",冷藏,NO PICTURE,NO PICTURE,no
+n2_03951,凍える,こごえる,"to freeze,to be chilled,to be frozen",冻住,NO PICTURE,NO PICTURE,no
+n2_03953,凹む,へこむ,"to be dented,to be indented,to yield to,to give,to sink,to collapse,to cave in,to be snubbed",凹陷、泄气,NO PICTURE,NO PICTURE,no
+n2_03959,出掛ける,でかける,"to depart,to set out,to start,to be going out",出发,NO PICTURE,NO PICTURE,no
+n2_03963,出迎える,でむかえる,"to meet,to greet",迎接,NO PICTURE,NO PICTURE,no
+n2_03964,分かれる,わかれる,"to branch off,to diverge from,to fork,to split,to dispense,to scatter,to divide into",分支,NO PICTURE,NO PICTURE,no
+n2_03981,刷る,する,to print,印刷,NO PICTURE,NO PICTURE,no
+n2_03983,刺す,さす,"to pierce,to stab,to prick,to thrust",刺穿,NO PICTURE,NO PICTURE,no
+n2_03985,刻む,きざむ,"to mince,to carve,to engrave",切碎,NO PICTURE,NO PICTURE,no
+n2_03986,剃る,そる,to shave,剃,NO PICTURE,NO PICTURE,no
+n2_03988,削る,けずる,"to cut down little by little,to take a percentage",削,NO PICTURE,NO PICTURE,no
+n2_03991,剥く,むく,"to peel,to skin,to pare,to hull",剥,NO PICTURE,NO PICTURE,no
+n2_03992,剥す,はがす,"(v5s) to tear off,to peel off,to rip off",剥离,NO PICTURE,NO PICTURE,no
+n2_04020,区切る,くぎる,"to punctuate,to cut off,to mark off,to stop,to put an end to",分隔、划分,NO PICTURE,NO PICTURE,no
+n2_04033,卸す,おろす,"to sell wholesale,grated (vegetables)",批发销售,NO PICTURE,NO PICTURE,no
+n2_04048,取り入れる,とりいれる,"to harvest,to take in,to adopt",采纳；引入,NO PICTURE,NO PICTURE,no
+n2_04049,取り出す,とりだす,"to take out,to produce,to pick out",取出、拿出,NO PICTURE,NO PICTURE,no
+n2_04051,受け持つ,うけもつ,to take (be in) charge of,负责,NO PICTURE,NO PICTURE,no
+n2_04068,吊す,つるす,to hang,悬挂,NO PICTURE,NO PICTURE,no
+n2_04069,吊る,つる,to hang,悬挂,OK,OK,no
+n2_04079,含める,ふくめる,"to include,to instruct,to make one understand",包含,NO PICTURE,NO PICTURE,no
+n2_04083,味わう,あじわう,"to taste,to savor,to relish",品尝,NO PICTURE,NO PICTURE,no
+n2_04084,呼び出す,よびだす,"to summon,to call (e.g. phone)",召唤,NO PICTURE,NO PICTURE,no
+n2_04085,呼び掛ける,よびかける,"to call out to,to accost,to address (crowd),to appeal",呼喊,NO PICTURE,NO PICTURE,no
+n2_04089,咥える,くわえる,to hold in one's mouth | to bring with | to take along,含住;携带,NO PICTURE,NO PICTURE,no
+n2_04096,嗅ぐ,かぐ,"to sniff,to smell",嗅探,NO PICTURE,NO PICTURE,no
+n2_04101,囁く,ささやく,"to whisper,to murmur",低语;谣言,NO PICTURE,NO PICTURE,no
+n2_04118,固まる,かたまる,"to harden,to solidify,to become firm,to become certain",凝固;凝结;确定,NO PICTURE,NO PICTURE,no
+n2_04138,埋める,うめる,"to bury,to fill up,to fill (a seat, a vacant position)",埋葬;填满,NO PICTURE,NO PICTURE,no
+n2_04148,塞ぐ,ふさぐ,"to stop up,to close up,to block (up)",堵塞;封闭,NO PICTURE,NO PICTURE,no
+n2_04233,寄せる,よせる,"to collect,to gather,to add,to put aside",聚集、靠近,NO PICTURE,NO PICTURE,no
+n2_04245,射す,さす,"to shine,to strike",照射,NO PICTURE,NO PICTURE,no
+n2_04262,崩す,くずす,"to destroy,to pull down,to make change (money)",摧毁,NO PICTURE,NO PICTURE,no
+n2_04264,巡る,めぐる,to go around,转、绕行,NO PICTURE,NO PICTURE,no
+n2_04266,工事,こうじ,construction work,施工,NO PICTURE,NO PICTURE,no
+n2_04273,帰す,かえす,to send back,送回,NO PICTURE,NO PICTURE,no
+n2_04274,干す,ほす,"to air,to dry,to desiccate,to drain (off),to drink up",晾干,NO PICTURE,NO PICTURE,no
+n2_04302,引っ繰り返す,ひっくりかえす,"to turn over,to overturn,to knock over,to upset,to turn inside out",翻转,NO PICTURE,NO PICTURE,no
+n2_04305,引出す,ひきだす,"to pull out,to take out,to draw out,to withdraw",拉出、取出,NO PICTURE,NO PICTURE,no
+n2_04308,引受る,ひきうける,"to undertake,to take up,to take over",接手,NO PICTURE,NO PICTURE,no
+n2_04311,引返す,ひきかえす,"to repeat,to send back,to bring back",返回,NO PICTURE,NO PICTURE,no
+n2_04322,彫る,ほる,"to carve,to engrave,to sculpture,to chisel",雕刻,NO PICTURE,NO PICTURE,no
+n2_04329,待ち合わせる,まちあわせる,"to rendezvous,to meet at a prearranged place and time",约定见面,NO PICTURE,NO PICTURE,no
+n2_04345,応ずる,おうずる,"to answer,to respond,to meet,to satisfy,to accept",回应、接受,NO PICTURE,NO PICTURE,no
+n2_04352,思い付く,おもいつく,"to think of,to hit upon",想到；突然想起,NO PICTURE,NO PICTURE,no
+n2_04402,承る,うけたまわる,"(hum) to hear,to be told,to know",听取、拜听,NO PICTURE,NO PICTURE,no
+n2_04407,担ぐ,かつぐ,"to shoulder,to carry on shoulder",扛、担,NO PICTURE,NO PICTURE,no
+n2_04408,拝む,おがむ,"to worship,to beg,to make a supplication",祈祷；乞求,NO PICTURE,NO PICTURE,no
+n2_04413,拭く,ふく,"to wipe,to dry",擦拭,NO PICTURE,NO PICTURE,no
+n2_04416,挙げる,あげる,"to raise,to fly",列举,NO PICTURE,NO PICTURE,no
+n2_04418,挟む,はさむ,"to interpose,to hold between,to insert",夹住,NO PICTURE,NO PICTURE,no
+n2_04421,挿す,さす,"to insert,to put in,to graft,to wear in belt",插入、插上,NO PICTURE,NO PICTURE,no
+n2_04423,捕る,とる,"to take,to catch (fish),to capture",捕捉,NO PICTURE,NO PICTURE,no
+n2_04426,捻る,ひねる,"to turn (a switch) on or off,to twist,to puzzle over",拧动开关；扭；困惑,NO PICTURE,NO PICTURE,no
+n2_04431,採る,とる,"(1) to adopt (measure, proposal),(2) to pick (fruit)",采纳；采摘,NO PICTURE,NO PICTURE,no
+n2_04434,接する,せっする,"to come in contact with,to connect,to attend,to receive",接触、接待,NO PICTURE,NO PICTURE,no
+n2_04440,揃える,そろえる,"to put things in order,to arrange,to make uniform,to get something ready",整理；准备,NO PICTURE,NO PICTURE,no
+n2_04449,擦る,こする,"to rub,to chafe,to file,to frost (glass),to strike (match)",擦拭；刮,NO PICTURE,NO PICTURE,no
+n2_04455,攻める,せめる,"to attack,to assault",攻击；袭击,NO PICTURE,NO PICTURE,no
+n2_04457,放れる,はなれる,"to leave,to get free,to cut oneself off",挣脱；释放,NO PICTURE,NO PICTURE,no
+n2_04464,散る,ちる,"to fall,to scatter (e.g. blossoms)",散落；消散,NO PICTURE,NO PICTURE,no
+n2_04465,敬う,うやまう,"to show respect,to honour",尊敬；崇拜,NO PICTURE,NO PICTURE,no
+n2_04503,映る,うつる,"to be reflected,to harmonize with,to come out (photo)",反射；显示,NO PICTURE,NO PICTURE,no
+n2_04511,曲げる,まげる,"to bend,to crook,to lean",弯曲,NO PICTURE,NO PICTURE,no
+n2_04513,更ける,ふける,"to get late,to advance,to wear on",变晚,NO PICTURE,NO PICTURE,no
+n2_04551,棄てる,すてる,to throw away | to cast away | to dump,丢弃,NO PICTURE,NO PICTURE,no
+n2_04589,気を付ける,きをつける,"to be careful,to pay attention,to take care",注意,NO PICTURE,NO PICTURE,no
+n2_04604,汚す,よごす,"(1) to disgrace,to dishonour,(2) to pollute,to contaminate,to soil,to make dirty,to stain",弄脏,NO PICTURE,NO PICTURE,no
+n2_04607,治す,なおす,"to cure,to heal,to fix,to correct,to repair",治愈,NO PICTURE,NO PICTURE,no
+n2_04609,泊める,とめる,"to give shelter to,to lodge",住宿,NO PICTURE,NO PICTURE,no
+n2_04635,涼む,すずむ,"to cool oneself,to cool off,to enjoy evening cool",降温；消暑；享受凉爽,NO PICTURE,NO PICTURE,no
+n2_04641,混ぜる,まぜる,"to mix,to stir",混合；搅拌,NO PICTURE,NO PICTURE,no
+n2_04654,湧く,わく,"to boil,to grow hot,to get excited,to gush forth",涌出；沸腾；激动；涌现,NO PICTURE,NO PICTURE,no
+n2_04677,潜る,もぐる,"(1) to drive,to pass through,(2) to evade,to hide,(3) to dive (into or under water),to go undergroun",潜入；躲避；潜水,NO PICTURE,NO PICTURE,no
+n2_04679,潰れる,つぶれる,"to be smashed,to go bankrupt",崩溃；破产,NO PICTURE,NO PICTURE,no
+n2_04693,炊く,たく,"to boil,to cook",煮；烹饪,NO PICTURE,NO PICTURE,no
+n2_04698,点く,つく,"to catch fire,(electricity) comes on",点亮；点燃；通电,NO PICTURE,NO PICTURE,no
+n2_04699,点ける,つける,"to turn on,to switch on,to light up",打开电器,NO PICTURE,NO PICTURE,no
+n2_04703,焚く,たく,"to burn,to kindle,to build a fire",生火、焚烧,NO PICTURE,NO PICTURE,no
+n2_04708,焦がす,こがす,"to burn,to scorch,to singe,to char",烤焦、烧焦,NO PICTURE,NO PICTURE,no
+n2_04715,照らす,てらす,"to shine on,to illuminate",照亮；照射,NO PICTURE,NO PICTURE,no
+n2_04716,照る,てる,to shine,发光,NO PICTURE,NO PICTURE,no
+n2_04717,煮える,にえる,"to boil,to cook,to be cooked",煮熟,NO PICTURE,NO PICTURE,no
+n2_04718,煮る,にる,"to boil,to cook",煮,NO PICTURE,NO PICTURE,no
+n2_04724,片付く,かたづく,"to put in order,to dispose of,to solve",整理,NO PICTURE,NO PICTURE,no
+n2_04753,生える,はえる,"(1) to grow,to spring up,(2) to cut (teeth)",生长,NO PICTURE,NO PICTURE,no
+n2_04795,目立つ,めだつ,"to be conspicuous,to stand out",显眼,NO PICTURE,NO PICTURE,no
+n2_04816,真似る,まねる,"to mimic,to imitate",模仿,NO PICTURE,NO PICTURE,no
+n2_04819,着ける,つける,"(1) to attach,to join,to add,to append",附加,NO PICTURE,NO PICTURE,no
+n2_04820,着せる,きせる,to put on clothes,给...穿,NO PICTURE,NO PICTURE,no
+n2_04836,破れる,やぶれる,"to get torn,to wear out",撕裂,NO PICTURE,NO PICTURE,no
+n2_04862,突き当たる,つきあたる,"to run into,to collide with",撞上,NO PICTURE,NO PICTURE,no
+n2_04863,突く,つく,"(1) to thrust,to strike,(2) to poke",刺入,NO PICTURE,NO PICTURE,no
+n2_04864,突っ込む,つっこむ,"to plunge into,to go into deeply",冲入,NO PICTURE,NO PICTURE,no
+n2_04866,立ち止まる,たちどまる,"to stop,to halt,to stand still",停下、止步,NO PICTURE,NO PICTURE,no
+n2_04917,縛る,しばる,"to tie,to bind",系、绑,NO PICTURE,NO PICTURE,no
+n2_04921,縮める,ちぢめる,"to shorten,to reduce,to boil down,to shrink",缩短,NO PICTURE,NO PICTURE,no
+n2_04928,纏める,まとめる,"to put in order,to collect,to bring to a conclusion",汇总,NO PICTURE,NO PICTURE,no
+n2_04944,背負う,せおう,"to be burdened with,to carry on back or shoulder",负担,NO PICTURE,NO PICTURE,no
+n2_04950,腰掛ける,こしかける,to sit (down),坐下,OK,OK,no
+n2_04979,著す,あらわす,"to write,to publish",著述、出版,NO PICTURE,NO PICTURE,no
+n2_05012,裏返す,うらがえす,"to turn inside out,to turn (something) over",翻转；倒转,NO PICTURE,NO PICTURE,no
+n2_05030,見舞う,みまう,"to ask after (health),to visit",探望、慰问,NO PICTURE,NO PICTURE,no
+n2_05045,言い出す,いいだす,"to start talking,to speak,to tell,to propose,to suggest,to break the ice",开始说、提出,NO PICTURE,NO PICTURE,no
+n2_05046,言付ける,ことづける,"to send word,to send a message",传达,NO PICTURE,NO PICTURE,no
+n2_05048,討つ,うつ,"to attack,to avenge",攻击,NO PICTURE,NO PICTURE,no
+n2_05059,誓う,ちかう,"to swear,to vow,to take an oath,to pledge",发誓,NO PICTURE,NO PICTURE,no
+n2_05065,請う,こう,"to ask,to request",请求、乞求,NO PICTURE,NO PICTURE,no
+n2_05089,跳ねる,はねる,"to jump,to leap",跳跃,NO PICTURE,NO PICTURE,no
+n2_05090,跳ぶ,とぶ,"to jump,to fly,to leap",跳跃,NO,OK,yes
+n2_05101,載せる,のせる,"to place on (something),to take on board,to give a ride",放上、载上,NO PICTURE,NO PICTURE,no
+n2_05109,近付ける,ちかづける,"to bring near,to put close,to let come near,to associate with",接近,NO PICTURE,NO PICTURE,no
+n2_05114,追い掛ける,おいかける,"to chase or run after someone,to run down,to pursue",追赶、追逐,NO PICTURE,NO PICTURE,no
+n2_05118,退ける,どける,"to remove,to take away,to dislodge,to put something out of the way",移开、挪开,NO PICTURE,NO PICTURE,no
+n2_05130,通り掛かる,とおりかかる,to happen to pass by,碰巧路过,NO PICTURE,NO PICTURE,no
+n2_05142,逸れる,それる,"to stray (turn) from subject,to get lost,to go astray",偏离、走偏,NO PICTURE,NO PICTURE,no
+n2_05151,遡る,さかのぼる,"to go back,to go upstream,to make retroactive",追溯、逆流而上,NO PICTURE,NO PICTURE,no
+n2_05153,遭う,あう,"to meet,to encounter (undesirable nuance)",遭遇、碰上,NO PICTURE,NO PICTURE,no
+n2_05169,重ねる,かさねる,"to pile up,to put something on another,to heap up,to add,to repeat",堆积起来,NO PICTURE,NO PICTURE,no
+n2_05245,預かる,あずかる,"to keep in custody,to receive on deposit,to take charge of",保管、代管,NO PICTURE,NO PICTURE,no
+n2_05254,飛び込む,とびこむ,"to jump in,to leap in,to plunge into,to dive",跳入、冲进,NO PICTURE,NO PICTURE,no

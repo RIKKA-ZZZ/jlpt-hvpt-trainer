@@ -1,0 +1,239 @@
+﻿id,jlpt_level,word,reading,meaning,round2_review,source_file
+n4_07364,N4,小鳥,ことり,small bird,OK,D:\codex-2\tup\NO\n4_07364_小鳥_00003_.png
+n5_07726,N5,おばあさん,おばあさん / おばーさん,"grandmother,female senior-citizen",OK,D:\codex-2\tup\NO\n5_07726_おばあさん_00003_.png
+n5_07742,N5,かぎ,かぎ / カギ,key,OK,D:\codex-2\tup\NO\n5_07742_かぎ_00003_.png
+n5_07777,N5,ちゃわん,ちゃわん,rice bowl,OK,D:\codex-2\tup\NO\n5_07777_ちゃわん_00003_.png
+n5_07860,N5,パン,パン,bread,OK,D:\codex-2\tup\NO\n5_07860_パン_00003_.png
+n5_07879,N5,レストラン,レストラン,restaurant,OK,D:\codex-2\tup\NO\n5_07879_レストラン_00003_.png
+n5_07985,N5,動物,どうぶつ,animal,OK,D:\codex-2\tup\NO\n5_07985_動物_00004_.png
+n5_08023,N5,地下鉄,ちかてつ,underground train,OK,D:\codex-2\tup\NO\n5_08023_地下鉄_00003_.png
+n5_08047,N5,太い,ふとい,fat,OK,D:\codex-2\tup\NO\n5_08047_太い_00003_.png
+n5_08134,N5,晩御飯,ばんごはん,evening meal,OK,D:\codex-2\tup\NO\n5_08134_晩御飯_00003_.png
+n5_08179,N5,水,みず,water,OK,D:\codex-2\tup\NO\n5_08179_水_00003_.png
+n5_08200,N5,牛乳,ぎゅうにゅう,milk,OK,D:\codex-2\tup\NO\n5_08200_牛乳_00003_.png
+n5_08211,N5,男の子,おとこのこ,boy,OK,D:\codex-2\tup\NO\n5_08211_男の子_00003_.png
+n5_08230,N5,砂糖,さとう,sugar,OK,D:\codex-2\tup\NO\n5_08230_砂糖_00003_.png
+n5_08282,N5,読む,よむ,to read,OK,D:\codex-2\tup\NO\n5_08282_読む_00003_.png
+n5_08295,N5,走る,はしる,to run,OK,D:\codex-2\tup\NO\n5_08295_走る_00003_.png
+n5_08326,N5,降る,ふる,"to fall, e.g. rain or snow",OK,D:\codex-2\tup\NO\n5_08326_降る_00003_.png
+n5_07708,N5,あの,あの / あん,that over there,NO,D:\codex-2\tup\NO\NO\n5_07708_あの_00003_.png
+n5_07709,N5,あびる,あびる,"to bathe,to shower",NO,D:\codex-2\tup\NO\NO\n5_07709_あびる_00003_.png
+n5_07711,N5,ある,ある,"to be,to have (used for inanimate objects)",NO,D:\codex-2\tup\NO\NO\n5_07711_ある_00003_.png
+n5_07724,N5,おいしい,おいしい / オイシイ,delicious,NO,D:\codex-2\tup\NO\NO\n5_07724_おいしい_00003_.png
+n5_07725,N5,おなか,おなか,stomach,NO,D:\codex-2\tup\NO\NO\n5_07725_おなか_00006_.png
+n5_07728,N5,おもしろい,おもしろい,interesting,NO,D:\codex-2\tup\NO\NO\n5_07728_おもしろい_00003_.png
+n5_07729,N5,お兄さん,おにいさん,(honorable) older brother,NO,D:\codex-2\tup\NO\NO\n5_07729_お兄さん_00003_.png
+n5_07730,N5,お姉さん,おねえさん,(honorable) older sister,NO,D:\codex-2\tup\NO\NO\n5_07730_お姉さん_00003_.png
+n5_07734,N5,お父さん,おとうさん,(honorable) father,NO,D:\codex-2\tup\NO\NO\n5_07734_お父さん_00003_.png
+n5_07739,N5,お金,おかね,money,NO,D:\codex-2\tup\NO\NO\n5_07739_お金_00003_.png
+n5_07741,N5,かかる,かかる,to take time or money,NO,D:\codex-2\tup\NO\NO\n5_07741_かかる_00003_.png
+n5_07743,N5,かける,かける,to call by phone,NO,D:\codex-2\tup\NO\NO\n5_07743_かける_00003_.png
+n5_07745,N5,かわいい,かわいい / カワイイ / カワイい,cute,NO,D:\codex-2\tup\NO\NO\n5_07745_かわいい_00003_.png
+n5_07746,N5,きれい,きれい / キレイ / きれーい,"pretty,clean",NO,D:\codex-2\tup\NO\NO\n5_07746_きれい_00003_.png
+n5_07753,N5,こんな,こんな,such,NO,D:\codex-2\tup\NO\NO\n5_07753_こんな_00003_.png
+n5_07760,N5,する,する,to do,NO,D:\codex-2\tup\NO\NO\n5_07760_する_00003_.png
+n5_07766,N5,その,その / そん,that,NO,D:\codex-2\tup\NO\NO\n5_07766_その_00003_.png
+n5_07780,N5,つける,つける,to turn on,NO,D:\codex-2\tup\NO\NO\n5_07780_つける_00003_.png
+n5_07781,N5,つまらない,つまらない / つまらねー,boring,NO,D:\codex-2\tup\NO\NO\n5_07781_つまらない_00003_.png
+n5_07782,N5,できる,できる,to be able to,NO,D:\codex-2\tup\NO\NO\n5_07782_できる_00003_.png
+n5_07799,N5,なる,なる,to become,NO,D:\codex-2\tup\NO\NO\n5_07799_なる_00003_.png
+n5_07801,N5,はく,はく,"to wear,to put on trousers",NO,D:\codex-2\tup\NO\NO\n5_07801_はく_00003_.png
+n5_07806,N5,まずい,まずい / マズイ / マズい,unpleasant,NO,D:\codex-2\tup\NO\NO\n5_07806_まずい_00003_.png
+n5_07814,N5,やる,やる / ヤる,to do,NO,D:\codex-2\tup\NO\NO\n5_07814_やる_00003_.png
+n5_07818,N5,りっぱ,りっぱ,splendid,NO,D:\codex-2\tup\NO\NO\n5_07818_りっぱ_00003_.png
+n5_07830,N5,コップ,コップ / コツフ,a glass,NO,D:\codex-2\tup\NO\NO\n5_07830_コップ_00003_.png
+n5_07832,N5,コート,コート,"coat,tennis court",NO,D:\codex-2\tup\NO\NO\n5_07832_コート_00003_.png
+n5_07833,N5,コーヒー,コーヒー,coffee,NO,D:\codex-2\tup\NO\NO\n5_07833_コーヒー_00003_.png
+n5_07834,N5,シャツ,シャツ,shirt,NO,D:\codex-2\tup\NO\NO\n5_07834_シャツ_00004_.png
+n5_07836,N5,スカート,スカート,skirt,NO,D:\codex-2\tup\NO\NO\n5_07836_スカート_00003_.png
+n5_07838,N5,スプーン,スプーン / スプン,spoon,NO,D:\codex-2\tup\NO\NO\n5_07838_スプーン_00003_.png
+n5_07893,N5,万年筆,まんねんひつ,fountain pen,NO,D:\codex-2\tup\NO\NO\n5_07893_万年筆_00003_.png
+n5_07894,N5,丈夫,じょうぶ,"strong,durable",NO,D:\codex-2\tup\NO\NO\n5_07894_丈夫_00003_.png
+n5_07899,N5,上げる,あげる,to give,NO,D:\codex-2\tup\NO\NO\n5_07899_上げる_00003_.png
+n5_07900,N5,上手,じょうず,skillful,NO,D:\codex-2\tup\NO\NO\n5_07900_上手_00003_.png
+n5_07901,N5,上着,うわぎ,jacket,NO,D:\codex-2\tup\NO\NO\n5_07901_上着_00003_.png
+n5_07905,N5,並ぶ,ならぶ,"to line up,to stand in a line",NO,D:\codex-2\tup\NO\NO\n5_07905_並ぶ_00003_.png
+n5_07906,N5,並べる,ならべる,"to line up,to set up",NO,D:\codex-2\tup\NO\NO\n5_07906_並べる_00003_.png
+n5_07909,N5,乗る,のる,"to get on,to ride",NO,D:\codex-2\tup\NO\NO\n5_07909_乗る_00003_.png
+n5_07915,N5,二人,ふたり,two people,NO,D:\codex-2\tup\NO\NO\n5_07915_二人_00003_.png
+n5_07923,N5,交番,こうばん,police box,NO,D:\codex-2\tup\NO\NO\n5_07923_交番_00003_.png
+n5_07934,N5,休む,やすむ,to rest,NO,D:\codex-2\tup\NO\NO\n5_07934_休む_00003_.png
+n5_07935,N5,会う,あう,to meet,NO,D:\codex-2\tup\NO\NO\n5_07935_会う_00003_.png
+n5_07939,N5,低い,ひくい,"short,low",NO,D:\codex-2\tup\NO\NO\n5_07939_低い_00003_.png
+n5_07940,N5,住む,すむ,to live in,NO,D:\codex-2\tup\NO\NO\n5_07940_住む_00003_.png
+n5_07943,N5,作る,つくる,to make,NO,D:\codex-2\tup\NO\NO\n5_07943_作る_00003_.png
+n5_07945,N5,使う,つかう,to use,NO,D:\codex-2\tup\NO\NO\n5_07945_使う_00003_.png
+n5_07946,N5,便利,べんり,"useful, convenient",NO,D:\codex-2\tup\NO\NO\n5_07946_便利_00003_.png
+n5_07947,N5,借りる,かりる,to borrow,NO,D:\codex-2\tup\NO\NO\n5_07947_借りる_00003_.png
+n5_07949,N5,働く,はたらく,to work,NO,D:\codex-2\tup\NO\NO\n5_07949_働く_00003_.png
+n5_07957,N5,入る,はいる,"to enter,to contain",NO,D:\codex-2\tup\NO\NO\n5_07957_入る_00003_.png
+n5_07958,N5,入れる,いれる,to put in,NO,D:\codex-2\tup\NO\NO\n5_07958_入れる_00003_.png
+n5_07971,N5,冷たい,つめたい,cold to the touch,NO,D:\codex-2\tup\NO\NO\n5_07971_冷たい_00003_.png
+n5_07973,N5,出かける,でかける,to go out,NO,D:\codex-2\tup\NO\NO\n5_07973_出かける_00003_.png
+n5_07974,N5,出す,だす,to put out,NO,D:\codex-2\tup\NO\NO\n5_07974_出す_00003_.png
+n5_07977,N5,分かる,わかる,to be understood,NO,D:\codex-2\tup\NO\NO\n5_07977_分かる_00003_.png
+n5_07978,N5,切る,きる,to cut,NO,D:\codex-2\tup\NO\NO\n5_07978_切る_00003_.png
+n5_07980,N5,切符,きっぷ,ticket,NO,D:\codex-2\tup\NO\NO\n5_07980_切符_00003_.png
+n5_07984,N5,勉強,べんきょうする,to study,NO,D:\codex-2\tup\NO\NO\n5_07984_勉強_00003_.png
+n5_07986,N5,勤める,つとめる,to work for someone,NO,D:\codex-2\tup\NO\NO\n5_07986_勤める_00003_.png
+n5_07997,N5,危ない,あぶない,dangerous,NO,D:\codex-2\tup\NO\NO\n5_07997_危ない_00003_.png
+n5_07999,N5,厚い,あつい,"kind, deep, thick",NO,D:\codex-2\tup\NO\NO\n5_07999_厚い_00003_.png
+n5_08001,N5,友達,ともだち,friend,NO,D:\codex-2\tup\NO\NO\n5_08001_友達_00003_.png
+n5_08002,N5,取る,とる,to take something,NO,D:\codex-2\tup\NO\NO\n5_08002_取る_00003_.png
+n5_08004,N5,古い,ふるい,old (not used for people),NO,D:\codex-2\tup\NO\NO\n5_08004_古い_00003_.png
+n5_08005,N5,台所,だいどころ,kitchen,NO,D:\codex-2\tup\NO\NO\n5_08005_台所_00003_.png
+n5_08010,N5,吸う,すう,"to smoke,to suck",NO,D:\codex-2\tup\NO\NO\n5_08010_吸う_00003_.png
+n5_08011,N5,吹く,ふく,to blow,NO,D:\codex-2\tup\NO\NO\n5_08011_吹く_00003_.png
+n5_08012,N5,呼ぶ,よぶ,"to call out,to invite",NO,D:\codex-2\tup\NO\NO\n5_08012_呼ぶ_00003_.png
+n5_08013,N5,咲く,さく,to bloom,NO,D:\codex-2\tup\NO\NO\n5_08013_咲く_00003_.png
+n5_08019,N5,困る,こまる,to be worried,NO,D:\codex-2\tup\NO\NO\n5_08019_困る_00003_.png
+n5_08027,N5,売る,うる,to sell,NO,D:\codex-2\tup\NO\NO\n5_08027_売る_00003_.png
+n5_08035,N5,多い,おおい,many,NO,D:\codex-2\tup\NO\NO\n5_08035_多い_00003_.png
+n5_08037,N5,大きい,おおきい,big,NO,D:\codex-2\tup\NO\NO\n5_08037_大きい_00003_.png
+n5_08038,N5,大きな,おおきな,big,NO,D:\codex-2\tup\NO\NO\n5_08038_大きな_00003_.png
+n5_08039,N5,大丈夫,だいじょうぶ,all right,NO,D:\codex-2\tup\NO\NO\n5_08039_大丈夫_00003_.png
+n5_08042,N5,大切,たいせつ,important,NO,D:\codex-2\tup\NO\NO\n5_08042_大切_00003_.png
+n5_08044,N5,大好き,だいすき,to be very likeable,NO,D:\codex-2\tup\NO\NO\n5_08044_大好き_00003_.png
+n5_08046,N5,天気,てんき,weather,NO,D:\codex-2\tup\NO\NO\n5_08046_天気_00003_.png
+n5_08048,N5,奥さん,おくさん,(honorable) wife,NO,D:\codex-2\tup\NO\NO\n5_08048_奥さん_00003_.png
+n5_08051,N5,好き,すき,likeable,NO,D:\codex-2\tup\NO\NO\n5_08051_好き_00003_.png
+n5_08054,N5,始まる,はじまる,to begin,NO,D:\codex-2\tup\NO\NO\n5_08054_始まる_00003_.png
+n5_08055,N5,嫌,いや,unpleasant,NO,D:\codex-2\tup\NO\NO\n5_08055_嫌_00003_.png
+n5_08056,N5,嫌い,きらい,hate,NO,D:\codex-2\tup\NO\NO\n5_08056_嫌い_00003_.png
+n5_08059,N5,学校,がっこう,school,NO,D:\codex-2\tup\NO\NO\n5_08059_学校_00003_.png
+n5_08060,N5,学生,がくせい,student,NO,D:\codex-2\tup\NO\NO\n5_08060_学生_00003_.png
+n5_08061,N5,安い,やすい,cheap,NO,D:\codex-2\tup\NO\NO\n5_08061_安い_00003_.png
+n5_08064,N5,家族,かぞく,family,NO,D:\codex-2\tup\NO\NO\n5_08064_家族_00003_.png
+n5_08066,N5,寒い,さむい,cold,NO,D:\codex-2\tup\NO\NO\n5_08066_寒い_00003_.png
+n5_08067,N5,寝る,ねる,"to go to bed,to sleep",NO,D:\codex-2\tup\NO\NO\n5_08067_寝る_00003_.png
+n5_08069,N5,小さい,ちいさい,little,NO,D:\codex-2\tup\NO\NO\n5_08069_小さい_00003_.png
+n5_08070,N5,小さな,ちいさな,little,NO,D:\codex-2\tup\NO\NO\n5_08070_小さな_00003_.png
+n5_08072,N5,少ない,すくない,a few,NO,D:\codex-2\tup\NO\NO\n5_08072_少ない_00003_.png
+n5_08075,N5,川/河,かわ,river,NO,D:\codex-2\tup\NO\NO\n5_08075_川_河_00003_.png
+n5_08077,N5,差す,さす,"to stretch out hands,to raise an umbrella",NO,D:\codex-2\tup\NO\NO\n5_08077_差す_00003_.png
+n5_08078,N5,帰る,かえる,to go back,NO,D:\codex-2\tup\NO\NO\n5_08078_帰る_00003_.png
+n5_08079,N5,帽子,ぼうし,hat,NO,D:\codex-2\tup\NO\NO\n5_08079_帽子_00003_.png
+n5_08081,N5,広い,ひろい,"spacious,wide",NO,D:\codex-2\tup\NO\NO\n5_08081_広い_00003_.png
+n5_08082,N5,店,みせ,shop,NO,D:\codex-2\tup\NO\NO\n5_08082_店_00003_.png
+n5_08083,N5,座る,すわる,to sit,NO,D:\codex-2\tup\NO\NO\n5_08083_座る_00003_.png
+n5_08086,N5,建物,たてもの,building,NO,D:\codex-2\tup\NO\NO\n5_08086_建物_00003_.png
+n5_08087,N5,引く,ひく,to pull,NO,D:\codex-2\tup\NO\NO\n5_08087_引く_00003_.png
+n5_08089,N5,弱い,よわい,weak,NO,D:\codex-2\tup\NO\NO\n5_08089_弱い_00003_.png
+n5_08090,N5,強い,つよい,powerful,NO,D:\codex-2\tup\NO\NO\n5_08090_強い_00003_.png
+n5_08091,N5,弾く,ひく,"to play an instrument with strings, including piano",NO,D:\codex-2\tup\NO\NO\n5_08091_弾く_00003_.png
+n5_08092,N5,待つ,まつ,to wait,NO,D:\codex-2\tup\NO\NO\n5_08092_待つ_00003_.png
+n5_08096,N5,忘れる,わすれる,to forget,NO,D:\codex-2\tup\NO\NO\n5_08096_忘れる_00003_.png
+n5_08097,N5,忙しい,いそがしい,"busy,irritated",NO,D:\codex-2\tup\NO\NO\n5_08097_忙しい_00003_.png
+n5_08098,N5,悪い,わるい,bad,NO,D:\codex-2\tup\NO\NO\n5_08098_悪い_00003_.png
+n5_08103,N5,手紙,てがみ,letter,NO,D:\codex-2\tup\NO\NO\n5_08103_手紙_00003_.png
+n5_08104,N5,押す,おす,"to push, to stamp something",NO,D:\codex-2\tup\NO\NO\n5_08104_押す_00003_.png
+n5_08105,N5,持つ,もつ,to hold,NO,D:\codex-2\tup\NO\NO\n5_08105_持つ_00003_.png
+n5_08108,N5,撮る,とる,to take a photo or record a film,NO,D:\codex-2\tup\NO\NO\n5_08108_撮る_00003_.png
+n5_08109,N5,教える,おしえる,"to teach,to tell",NO,D:\codex-2\tup\NO\NO\n5_08109_教える_00003_.png
+n5_08111,N5,散歩,さんぽする,to stroll,NO,D:\codex-2\tup\NO\NO\n5_08111_散歩_00003_.png
+n5_08114,N5,新しい,あたらしい,new,NO,D:\codex-2\tup\NO\NO\n5_08114_新しい_00003_.png
+n5_08117,N5,旅行,りょこう,travel,NO,D:\codex-2\tup\NO\NO\n5_08117_旅行_00003_.png
+n5_08119,N5,早い,はやい,early,NO,D:\codex-2\tup\NO\NO\n5_08119_早い_00003_.png
+n5_08120,N5,明い,あかるい,bright,NO,D:\codex-2\tup\NO\NO\n5_08120_明い_00003_.png
+n5_08122,N5,易しい,やさしい,"easy, simple",NO,D:\codex-2\tup\NO\NO\n5_08122_易しい_00003_.png
+n5_08129,N5,昼御飯,ひるごはん,midday meal,NO,D:\codex-2\tup\NO\NO\n5_08129_昼御飯_00003_.png
+n5_08136,N5,晴れる,はれる,to be sunny,NO,D:\codex-2\tup\NO\NO\n5_08136_晴れる_00003_.png
+n5_08138,N5,暑い,あつい,hot,NO,D:\codex-2\tup\NO\NO\n5_08138_暑い_00003_.png
+n5_08139,N5,暖かい,あたたかい,warm,NO,D:\codex-2\tup\NO\NO\n5_08139_暖かい_00003_.png
+n5_08140,N5,暗い,くらい,gloomy,NO,D:\codex-2\tup\NO\NO\n5_08140_暗い_00003_.png
+n5_08141,N5,曇り,くもり,cloudy weather,NO,D:\codex-2\tup\NO\NO\n5_08141_曇り_00003_.png
+n5_08142,N5,曇る,くもる,"to become cloudy,to become dim",NO,D:\codex-2\tup\NO\NO\n5_08142_曇る_00003_.png
+n5_08143,N5,曲る,まがる,"to turn,to bend",NO,D:\codex-2\tup\NO\NO\n5_08143_曲る_00003_.png
+n5_08144,N5,書く,かく,to write,NO,D:\codex-2\tup\NO\NO\n5_08144_書く_00003_.png
+n5_08146,N5,有名,ゆうめい,famous,NO,D:\codex-2\tup\NO\NO\n5_08146_有名_00003_.png
+n5_08154,N5,机,つくえ,desk,NO,D:\codex-2\tup\NO\NO\n5_08154_机_00003_.png
+n5_08162,N5,楽しい,たのしい,enjoyable,NO,D:\codex-2\tup\NO\NO\n5_08162_楽しい_00003_.png
+n5_08168,N5,歌う,うたう,to sing,NO,D:\codex-2\tup\NO\NO\n5_08168_歌う_00003_.png
+n5_08169,N5,止まる,とまる,to come to a halt,NO,D:\codex-2\tup\NO\NO\n5_08169_止まる_00003_.png
+n5_08171,N5,歯,は,tooth,NO,D:\codex-2\tup\NO\NO\n5_08171_歯_00006_.png
+n5_08172,N5,死ぬ,しぬ,to die,NO,D:\codex-2\tup\NO\NO\n5_08172_死ぬ_00003_.png
+n5_08181,N5,汚い,きたない,dirty,NO,D:\codex-2\tup\NO\NO\n5_08181_汚い_00003_.png
+n5_08183,N5,泳ぐ,およぐ,to swim,NO,D:\codex-2\tup\NO\NO\n5_08183_泳ぐ_00003_.png
+n5_08184,N5,洋服,ようふく,western-style clothes,NO,D:\codex-2\tup\NO\NO\n5_08184_洋服_00003_.png
+n5_08185,N5,洗う,あらう,to wash,NO,D:\codex-2\tup\NO\NO\n5_08185_洗う_00003_.png
+n5_08187,N5,海,うみ,sea,NO,D:\codex-2\tup\NO\NO\n5_08187_海_00003_.png
+n5_08188,N5,消える,きえる,to disappear,NO,D:\codex-2\tup\NO\NO\n5_08188_消える_00003_.png
+n5_08189,N5,消す,けす,"to erase,to turn off power",NO,D:\codex-2\tup\NO\NO\n5_08189_消す_00003_.png
+n5_08190,N5,涼しい,すずしい,refreshing,NO,D:\codex-2\tup\NO\NO\n5_08190_涼しい_00003_.png
+n5_08191,N5,渡す,わたす,to hand over,NO,D:\codex-2\tup\NO\NO\n5_08191_渡す_00003_.png
+n5_08192,N5,渡る,わたる,to go across,NO,D:\codex-2\tup\NO\NO\n5_08192_渡る_00003_.png
+n5_08193,N5,温い,ぬるい,luke warm,NO,D:\codex-2\tup\NO\NO\n5_08193_温い_00003_.png
+n5_08197,N5,無くす,なくす,to lose something,NO,D:\codex-2\tup\NO\NO\n5_08197_無くす_00003_.png
+n5_08198,N5,煩い,うるさい,"noisy,annoying",NO,D:\codex-2\tup\NO\NO\n5_08198_煩い_00003_.png
+n5_08199,N5,熱い,あつい,hot to the touch,NO,D:\codex-2\tup\NO\NO\n5_08199_熱い_00003_.png
+n5_08204,N5,狭い,せまい,narrow,NO,D:\codex-2\tup\NO\NO\n5_08204_狭い_00003_.png
+n5_08207,N5,甘い,あまい,sweet,NO,D:\codex-2\tup\NO\NO\n5_08207_甘い_00003_.png
+n5_08208,N5,生まれる,うまれる,to be born,NO,D:\codex-2\tup\NO\NO\n5_08208_生まれる_00003_.png
+n5_08213,N5,留学生,りゅうがくせい,overseas student,NO,D:\codex-2\tup\NO\NO\n5_08213_留学生_00003_.png
+n5_08215,N5,疲れる,つかれる,to get tired,NO,D:\codex-2\tup\NO\NO\n5_08215_疲れる_00003_.png
+n5_08218,N5,痛い,いたい,painful,NO,D:\codex-2\tup\NO\NO\n5_08218_痛い_00003_.png
+n5_08219,N5,登る,のぼる,to climb,NO,D:\codex-2\tup\NO\NO\n5_08219_登る_00003_.png
+n5_08221,N5,白い,しろい,white,NO,D:\codex-2\tup\NO\NO\n5_08221_白い_00003_.png
+n5_08226,N5,着く,つく,to arrive at,NO,D:\codex-2\tup\NO\NO\n5_08226_着く_00003_.png
+n5_08227,N5,着る,きる,to put on from the shoulders down,NO,D:\codex-2\tup\NO\NO\n5_08227_着る_00003_.png
+n5_08228,N5,知る,しる,to know,NO,D:\codex-2\tup\NO\NO\n5_08228_知る_00003_.png
+n5_08229,N5,短い,みじかい,short,NO,D:\codex-2\tup\NO\NO\n5_08229_短い_00003_.png
+n5_08231,N5,磨く,みがく,"to brush teeth, to polish",NO,D:\codex-2\tup\NO\NO\n5_08231_磨く_00003_.png
+n5_08236,N5,立つ,たつ,to stand,NO,D:\codex-2\tup\NO\NO\n5_08236_立つ_00003_.png
+n5_08237,N5,答える,こたえる,to answer,NO,D:\codex-2\tup\NO\NO\n5_08237_答える_00003_.png
+n5_08241,N5,細い,ほそい,thin,NO,D:\codex-2\tup\NO\NO\n5_08241_細い_00003_.png
+n5_08244,N5,結構,けっこう,"splendid,enough",NO,D:\codex-2\tup\NO\NO\n5_08244_結構_00003_.png
+n5_08247,N5,締める,しめる,to tie,NO,D:\codex-2\tup\NO\NO\n5_08247_締める_00003_.png
+n5_08248,N5,練習,れんしゅうする,to practice,NO,D:\codex-2\tup\NO\NO\n5_08248_練習_00003_.png
+n5_08249,N5,置く,おく,to put,NO,D:\codex-2\tup\NO\NO\n5_08249_置く_00003_.png
+n5_08250,N5,習う,ならう,to learn,NO,D:\codex-2\tup\NO\NO\n5_08250_習う_00003_.png
+n5_08252,N5,聞く,きく,"to hear,to listen to,to ask",NO,D:\codex-2\tup\NO\NO\n5_08252_聞く_00003_.png
+n5_08256,N5,脱ぐ,ぬぐ,to take off clothes,NO,D:\codex-2\tup\NO\NO\n5_08256_脱ぐ_00003_.png
+n5_08263,N5,若い,わかい,young,NO,D:\codex-2\tup\NO\NO\n5_08263_若い_00003_.png
+n5_08267,N5,葉書,はがき,postcard,NO,D:\codex-2\tup\NO\NO\n5_08267_葉書_00003_.png
+n5_08268,N5,薄い,うすい,"thin,weak",NO,D:\codex-2\tup\NO\NO\n5_08268_薄い_00003_.png
+n5_08270,N5,行く,いく,to go,NO,D:\codex-2\tup\NO\NO\n5_08270_行く_00003_.png
+n5_08272,N5,要る,いる,to need,NO,D:\codex-2\tup\NO\NO\n5_08272_要る_00003_.png
+n5_08273,N5,見せる,みせる,to show,NO,D:\codex-2\tup\NO\NO\n5_08273_見せる_00003_.png
+n5_08275,N5,覚える,おぼえる,to remember,NO,D:\codex-2\tup\NO\NO\n5_08275_覚える_00003_.png
+n5_08277,N5,言う,いう,to say,NO,D:\codex-2\tup\NO\NO\n5_08277_言う_00003_.png
+n5_08280,N5,話す,はなす,to speak,NO,D:\codex-2\tup\NO\NO\n5_08280_話す_00003_.png
+n5_08288,N5,買う,かう,to buy,NO,D:\codex-2\tup\NO\NO\n5_08288_買う_00003_.png
+n5_08289,N5,貸す,かす,to lend,NO,D:\codex-2\tup\NO\NO\n5_08289_貸す_00003_.png
+n5_08290,N5,貼る,はる,to stick,NO,D:\codex-2\tup\NO\NO\n5_08290_貼る_00003_.png
+n5_08291,N5,賑やか,にぎやか,"bustling,busy",NO,D:\codex-2\tup\NO\NO\n5_08291_賑やか_00003_.png
+n5_08294,N5,赤い,あかい,red,NO,D:\codex-2\tup\NO\NO\n5_08294_赤い_00003_.png
+n5_08296,N5,起きる,おきる,to get up,NO,D:\codex-2\tup\NO\NO\n5_08296_起きる_00003_.png
+n5_08297,N5,足,あし,"foot,leg",NO,D:\codex-2\tup\NO\NO\n5_08297_足_00005_.png
+n5_08299,N5,軽い,かるい,light,NO,D:\codex-2\tup\NO\NO\n5_08299_軽い_00003_.png
+n5_08300,N5,辛い,からい,spicy,NO,D:\codex-2\tup\NO\NO\n5_08300_辛い_00003_.png
+n5_08303,N5,近い,ちかい,near,NO,D:\codex-2\tup\NO\NO\n5_08303_近い_00003_.png
+n5_08305,N5,返す,かえす,to return something,NO,D:\codex-2\tup\NO\NO\n5_08305_返す_00003_.png
+n5_08306,N5,速い,はやい,quick,NO,D:\codex-2\tup\NO\NO\n5_08306_速い_00003_.png
+n5_08307,N5,遅い,おそい,"late,slow",NO,D:\codex-2\tup\NO\NO\n5_08307_遅い_00003_.png
+n5_08308,N5,遊ぶ,あそぶ,"to play,to make a visit",NO,D:\codex-2\tup\NO\NO\n5_08308_遊ぶ_00003_.png
+n5_08309,N5,道,みち,street,NO,D:\codex-2\tup\NO\NO\n5_08309_道_00003_.png
+n5_08310,N5,違う,ちがう,to differ,NO,D:\codex-2\tup\NO\NO\n5_08310_違う_00003_.png
+n5_08311,N5,遠い,とおい,far,NO,D:\codex-2\tup\NO\NO\n5_08311_遠い_00003_.png
+n5_08312,N5,部屋,へや,room,NO,D:\codex-2\tup\NO\NO\n5_08312_部屋_00003_.png
+n5_08318,N5,銀行,ぎんこう,bank,NO,D:\codex-2\tup\NO\NO\n5_08318_銀行_00003_.png
+n5_08319,N5,長い,ながい,long,NO,D:\codex-2\tup\NO\NO\n5_08319_長い_00003_.png
+n5_08321,N5,閉まる,しまる,"to close,to be closed",NO,D:\codex-2\tup\NO\NO\n5_08321_閉まる_00003_.png
+n5_08322,N5,閉める,しめる,to close something,NO,D:\codex-2\tup\NO\NO\n5_08322_閉める_00003_.png
+n5_08323,N5,開く,あく,"to open,to become open",NO,D:\codex-2\tup\NO\NO\n5_08323_開く_00003_.png
+n5_08324,N5,開ける,あける,to open,NO,D:\codex-2\tup\NO\NO\n5_08324_開ける_00003_.png
+n5_08325,N5,降りる,おりる,"to get off, to descend",NO,D:\codex-2\tup\NO\NO\n5_08325_降りる_00003_.png
+n5_08330,N5,難しい,むずかしい,difficult,NO,D:\codex-2\tup\NO\NO\n5_08330_難しい_00003_.png
+n5_08331,N5,雨,あめ,rain,NO,D:\codex-2\tup\NO\NO\n5_08331_雨_00003_.png
+n5_08335,N5,電話,でんわ,telephone,NO,D:\codex-2\tup\NO\NO\n5_08335_電話_00003_.png
+n5_08338,N5,青い,あおい,blue,NO,D:\codex-2\tup\NO\NO\n5_08338_青い_00003_.png
+n5_08339,N5,静か,しずか,quiet,NO,D:\codex-2\tup\NO\NO\n5_08339_静か_00003_.png
+n5_08340,N5,靴,くつ,shoes,NO,D:\codex-2\tup\NO\NO\n5_08340_靴_00003_.png
+n5_08341,N5,靴下,くつした,socks,NO,D:\codex-2\tup\NO\NO\n5_08341_靴下_00003_.png
+n5_08344,N5,頼む,たのむ,to ask,NO,D:\codex-2\tup\NO\NO\n5_08344_頼む_00003_.png
+n5_08347,N5,飛ぶ,とぶ,"to fly,to hop",NO,D:\codex-2\tup\NO\NO\n5_08347_飛ぶ_00003_.png
+n5_08349,N5,食べる,たべる,to eat,NO,D:\codex-2\tup\NO\NO\n5_08349_食べる_00003_.png
+n5_08350,N5,食べ物,たべもの,food,NO,D:\codex-2\tup\NO\NO\n5_08350_食べ物_00003_.png
+n5_08353,N5,飲む,のむ,to drink,NO,D:\codex-2\tup\NO\NO\n5_08353_飲む_00003_.png
+n5_08363,N5,黒い,くろい,black,NO,D:\codex-2\tup\NO\NO\n5_08363_黒い_00003_.png
+n5_08364,N5,鼻,はな,nose,NO,D:\codex-2\tup\NO\NO\n5_08364_鼻_00005_.png

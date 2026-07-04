@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JLPT HVPT Trainer</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script>var t=localStorage.getItem("hvpt_theme");if(t)document.documentElement.dataset.theme=t;</script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">JLPT HVPT</p>
+          <h1 data-i18n="title">日语听辨与词汇联想训练</h1>
+        </div>
+        <div class="top-gallery" id="topGallery" aria-hidden="true"></div>
+        <div class="top-actions">
+          <select id="langSelect" class="lang-select">
+            <option value="zh">中文</option>
+            <option value="en">English</option>
+            <option value="ja">日本語</option>
+          </select>
+          <select id="voiceSelect" class="voice-select" title="音频角色" aria-label="音频角色"></select>
+          <button class="icon-button" id="darkModeButton" type="button" title="切换深色/浅色">
+            <span aria-hidden="true" id="darkModeLabel" data-i18n="btnDark">暗色</span>
+          </button>
+          <button class="icon-button" id="autoAdvanceButton" type="button" title="自动跳下一题">
+            <span aria-hidden="true" data-i18n="btnAuto">自动</span>
+          </button>
+          <button class="icon-button" id="speakButton" type="button" title="播放日语 (R)">
+            <span aria-hidden="true" data-i18n="btnSpeak">播放</span>
+          </button>
+          <button class="primary-button" id="nextButton" type="button" data-i18n="btnNext">下一题</button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <section class="panel">
+            <h2 data-i18n="modeSection">模式</h2>
+            <div class="segmented" role="tablist" aria-label="training mode">
+              <button class="segment is-active" type="button" data-mode="image" data-i18n="modeImage">看词选图</button>
+              <button class="segment" type="button" data-mode="audio" data-i18n="modeAudio">听音选词</button>
+              <button class="segment" type="button" data-mode="audio-w" data-i18n="modeAudioW">听音写词</button>
+              <button class="segment" type="button" data-mode="meaning-w" data-i18n="modeMeaningW">看义写词</button>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h2 data-i18n="filterSection">筛选</h2>
+            <label class="field-label" for="levelFilter" data-i18n="filterLevel">等级</label>
+            <select id="levelFilter">
+              <option value="all" data-i18n="filterAll">全部</option>
+              <option value="N5" selected>N5</option>
+              <option value="N4">N4</option>
+              <option value="N3">N3</option>
+              <option value="N2">N2</option>
+              <option value="N1">N1</option>
+            </select>
+
+            <label class="field-label" for="domainFilter" data-i18n="filterDomain">类别</label>
+            <select id="domainFilter">
+              <option value="all" data-i18n="filterAll">全部</option>
+            </select>
+
+            <label class="field-label" for="kanaFilter" data-i18n="filterKana">写法</label>
+            <select id="kanaFilter">
+              <option value="all" data-i18n="filterAll">全部</option>
+              <option value="hiragana" data-i18n="filterHiragana">平假名</option>
+              <option value="katakana" data-i18n="filterKatakana">片假名</option>
+              <option value="kanji_mixed" data-i18n="filterKanjiMixed">汉字/混合</option>
+            </select>
+          </section>
+
+          <section class="panel metrics">
+            <div class="panel-header-row">
+              <h2 data-i18n="statsSection">本轮</h2>
+              <button class="link-button" id="summaryButton" type="button" data-i18n="btnSummary">总结</button>
+            </div>
+            <div class="metric-row">
+              <span data-i18n="statsAccuracy">正确率</span>
+              <strong id="accuracyText">0%</strong>
+            </div>
+            <div class="metric-row">
+              <span data-i18n="statsStreak">连对</span>
+              <strong id="streakText">0</strong>
+            </div>
+            <div class="metric-row">
+              <span data-i18n="statsAnswered">已答</span>
+              <strong id="answeredText">0</strong>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-header-row">
+              <h2><span data-i18n="wrongWordsSection">本轮错词</span> <span class="count-badge" id="wrongWordsCount">0</span></h2>
+              <button class="link-button" id="wrongReviewButton" type="button" disabled>专练错词</button>
+            </div>
+            <p class="panel-empty" id="wrongWordsEmpty" data-i18n="wrongWordsEmpty">暂无</p>
+            <ol class="history-list" id="wrongWordsList"></ol>
+          </section>
+        </aside>
+
+        <section class="trainer">
+          <div class="word-surface">
+            <div class="word-meta">
+              <span id="levelBadge">N5</span>
+              <span id="domainBadge">词汇</span>
+            </div>
+            <div class="word-main" id="wordText">准备中</div>
+            <div class="reading" id="readingText"></div>
+            <div class="answer-line" id="answerLine"> </div>
+            <div class="sentence-line" id="sentenceLine" hidden></div>
+            <div class="auto-bar" id="autoBar" aria-hidden="true"><div class="auto-bar-fill" id="autoBarFill"></div></div>
+          </div>
+
+          <div class="choices" id="choices" aria-live="polite"></div>
+          <form class="write-form" id="writeForm" style="display:none">
+            <input
+              type="text"
+              id="writeInput"
+              class="write-input"
+              placeholder="输入日语单词或读法…"
+              autocomplete="off"
+              autocorrect="off"
+              autocapitalize="off"
+              spellcheck="false"
+            />
+            <button type="submit" class="primary-button" data-i18n="btnConfirm">确认</button>
+          </form>
+          <p class="kbd-hint" aria-hidden="true">
+            <kbd class="kbd">1</kbd> <kbd class="kbd">2</kbd> <kbd class="kbd">3</kbd> <kbd class="kbd">4</kbd> <span data-i18n="kbdSelect">选择</span>
+            &nbsp;·&nbsp;
+            <kbd class="kbd">空格</kbd> <span data-i18n="kbdNext">下一题</span>
+            &nbsp;·&nbsp;
+            <kbd class="kbd">R</kbd> <span data-i18n="kbdListen">重听</span>
+          </p>
+        </section>
+
+        <aside class="inspector">
+          <section class="panel">
+            <h2 data-i18n="sourceSection">来源</h2>
+            <dl class="source-list">
+              <div>
+                <dt data-i18n="sourceMaterial">素材</dt>
+                <dd id="sourceProvider">-</dd>
+              </div>
+              <div>
+                <dt data-i18n="sourceLicense">许可</dt>
+                <dd id="licenseText">-</dd>
+              </div>
+              <div>
+                <dt data-i18n="sourceCreator">作者/工具</dt>
+                <dd id="creatorText">-</dd>
+              </div>
+            </dl>
+            <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noreferrer" data-i18n="sourcePageLink">来源页面</a>
+            <a class="source-link source-link-secondary" href="sources.html" data-i18n="sourceFullLink">完整来源与许可</a>
+          </section>
+
+          <section class="panel image-shelf-panel">
+            <h2 data-i18n="imageShelf">素材角落</h2>
+            <div class="image-shelf" id="imageShelf"></div>
+          </section>
+
+          <section class="panel">
+            <h2 data-i18n="historySection">最近</h2>
+            <ol class="history-list" id="historyList"></ol>
+          </section>
+
+        </aside>
+      </main>
+      <footer class="site-footer">
+        <span data-i18n="footerNote">非官方 JLPT 学习项目。</span>
+        <a href="sources.html" data-i18n="footerSource">来源与许可</a>
+        <a href="mailto:aaalhlp@gmail.com">aaalhlp@gmail.com</a>
+      </footer>
+    </div>
+
+    <div class="summary-overlay" id="summaryOverlay" hidden>
+      <div class="summary-card">
+        <h2 data-i18n="summaryTitle">本轮总结</h2>
+        <div class="summary-metrics" id="summaryMetrics"></div>
+        <div id="summaryWrong"></div>
+        <div class="summary-actions">
+          <button class="icon-button" id="summaryCloseButton" type="button" data-i18n="btnCloseSum">继续</button>
+          <button class="primary-button" id="summaryResetButton" type="button" data-i18n="btnResetRound">重置本轮</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js?v=20260703-voicevox-credits" type="module"></script>
+  </body>
+</html>

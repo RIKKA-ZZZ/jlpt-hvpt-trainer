@@ -1,0 +1,18 @@
+{
+  "listening_lessons": 2257,
+  "by_level": {
+    "N1": 877,
+    "N2": 568,
+    "N3": 412,
+    "N4": 228,
+    "N5": 172
+  },
+  "n4_no_picture_included": 228,
+  "n3_no_picture_included": 412,
+  "n2_no_picture_included": 568,
+  "n1_no_picture_included": 877,
+  "source_rows": 2540,
+  "excluded_image_ids": 283,
+  "with_explicit_audio": 0,
+  "playback": "browser-speech-synthesis"
+}

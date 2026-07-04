@@ -1,0 +1,46 @@
+# Local runtime noise
+**/__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Dev environment & tool metadata (not part of the project)
+/.venv-argos/
+/.agents/
+/.claude/
+
+# Local temporary work
+/_tmp/
+/tmp_bilibili_summary/
+
+# Raw generation batches. The website uses hvpt_site/assets/images instead.
+/tup/
+/tup_n1/
+/tup_n2/
+/tup_n3/
+/tup_n4/
+
+# Generated backups and bulky review intermediates
+/jlpt_hvpt_materials/derived/*.before_*.csv
+/jlpt_hvpt_materials/derived/*.with_*.csv
+/jlpt_hvpt_materials/derived/*.final5_OK_marks.csv
+
+# Large raw source material — not needed in public repo
+/jlpt_hvpt_materials/images/
+/jlpt_hvpt_materials/raw/
+/jlpt_hvpt_materials/tanos_audio/
+
+# Local server logs
+/hvpt_site/server.log
+/hvpt_site/server.err.log
+/hvpt_site/server.out.log
+
+# Dev-only tools (not part of the website)
+/hvpt_site/tools/
+/hvpt_site/*.bat
+
+# Source WAV files — OGG versions are committed instead
+/hvpt_site/assets/audio/**/*.wav
+
+# もち子さん audio — pending license clarification for redistribution
+/hvpt_site/assets/audio/voicevox/speaker_20/

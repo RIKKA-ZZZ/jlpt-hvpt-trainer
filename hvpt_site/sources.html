@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>来源与许可 - JLPT HVPT Trainer</title>
+    <link rel="stylesheet" href="styles.css?v=20260704-i18n" />
+  </head>
+  <body>
+    <main class="license-page">
+      <header>
+        <div class="license-header-row">
+          <div>
+            <p class="eyebrow">Sources</p>
+            <h1 data-i18n="h1">来源与许可</h1>
+          </div>
+          <select id="srcLangSelect" class="src-lang-select">
+            <option value="zh">中文</option>
+            <option value="en">English</option>
+            <option value="ja">日本語</option>
+          </select>
+        </div>
+        <p data-i18n="disclaimer">
+          这是一个非官方 JLPT 学习项目，与 JLPT 官方机构、日本国际交流基金或日本国际教育支援协会无从属、赞助或认可关系。
+        </p>
+      </header>
+
+      <section class="license-section">
+        <h2 data-i18n="vocab-h2">词汇数据</h2>
+        <p data-i18n="vocab-p">
+          JLPT 词表来源包含 Tanos JLPT vocabulary。Tanos 的分享页面说明其非销售内容可在署名条件下使用。
+        </p>
+        <ul>
+          <li><a href="https://www.tanos.co.uk/jlpt/" target="_blank" rel="noreferrer">Tanos JLPT Resources</a></li>
+          <li><a href="https://www.tanos.co.uk/jlpt/sharing/" target="_blank" rel="noreferrer">Tanos sharing and copyrights</a></li>
+        </ul>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="dict-h2">释义与字典数据</h2>
+        <p data-i18n="dict-p">
+          英文释义和部分字典字段包含 JMdict/EDICT 派生内容。EDRDG 字典文件采用 Creative Commons Attribution-ShareAlike 4.0。
+          因此，本项目中包含这些内容的词汇数据文件也应按 CC BY-SA 4.0 或兼容许可处理。
+        </p>
+        <ul>
+          <li><a href="https://www.edrdg.org/edrdg/licence.html" target="_blank" rel="noreferrer">EDRDG General Dictionary Licence Statement</a></li>
+          <li><a href="https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project" target="_blank" rel="noreferrer">JMdict/EDICT Dictionary Project</a></li>
+          <li><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a></li>
+        </ul>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="sentence-h2">例句数据</h2>
+        <p data-i18n="sentence-p1">
+          网站中的日语、英语、中文例句主要来自 Tatoeba 文本导出数据，并由 RIKKA 按 JLPT 词条进行筛选与匹配。
+          Tatoeba 条款说明，文本句子默认采用 Creative Commons Attribution 2.0 France（CC BY 2.0 FR），
+          复用、修改和分发时需要署名句子作者；部分句子可能另有单独许可，应以 Tatoeba 页面记录为准。
+        </p>
+        <p data-i18n="sentence-p2">
+          本项目没有使用 Tatoeba 音频。缺少中文翻译的例句由 RIKKA 使用本地 Ollama/Qwen 辅助翻译，
+          这些中文翻译仍应保留对应 Tatoeba 原句的来源、句子 ID 和作者署名。
+          少量没有 Tatoeba 句子 ID 的例句为 RIKKA 本地整理示例。
+        </p>
+        <ul>
+          <li><a href="https://tatoeba.org/en/downloads" target="_blank" rel="noreferrer">Tatoeba Downloads</a></li>
+          <li><a href="https://tatoeba.org/en/terms_of_use" target="_blank" rel="noreferrer">Tatoeba Terms of Use</a></li>
+          <li><a href="https://creativecommons.org/licenses/by/2.0/fr/" target="_blank" rel="noreferrer">Creative Commons Attribution 2.0 France</a></li>
+          <li><a href="data/tatoeba-sentence-attribution.json" target="_blank" rel="noreferrer" data-i18n="sentence-archive-link">本项目例句逐条来源归档</a></li>
+        </ul>
+        <p data-i18n-html="sentence-p3">
+          逐条来源归档中保留了 Tatoeba 句子 ID、句子页面链接和可取得的作者名。
+          Tatoeba 句子页面格式为 <code>https://tatoeba.org/en/sentences/show/句子ID</code>。
+        </p>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="image-h2">图片素材</h2>
+        <p data-i18n="image-p">
+          网站中的图片由 RIKKA 整理与制作，部分使用本地 ComfyUI 和 Animagine XL 4.0 生成，部分可能使用 ChatGPT 图像生成。
+          不包含从第三方图库直接下载的图片。发布图片时应同时保留所用工具、模型来源和许可说明。
+        </p>
+        <ul>
+          <li><a href="https://huggingface.co/cagliostrolab/animagine-xl-4.0" target="_blank" rel="noreferrer">Animagine XL 4.0 model card</a></li>
+          <li><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank" rel="noreferrer">ComfyUI</a></li>
+          <li><a href="https://chatgpt.com" target="_blank" rel="noreferrer">ChatGPT</a></li>
+        </ul>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="audio-h2">音频播放</h2>
+        <p data-i18n-html="audio-p1">
+          听音练习使用 <a href="https://voicevox.hiroshiba.jp/" target="_blank" rel="noreferrer">VOICEVOX</a>
+          合成的日语音频。根据 VOICEVOX
+          <a href="https://voicevox.hiroshiba.jp/term/" target="_blank" rel="noreferrer">软件利用规约</a>，
+          使用其生成的音声需遵守各角色的利用规约并进行署名。
+          本网站当前使用以下 4 个音声角色：
+        </p>
+        <table class="license-table">
+          <thead>
+            <tr>
+              <th data-i18n="audio-th-char">角色</th>
+              <th data-i18n="audio-th-attr">署名格式</th>
+              <th data-i18n="audio-th-commercial">商用</th>
+              <th data-i18n="audio-th-redis">音声再配布</th>
+              <th data-i18n="audio-th-policy">规约链接</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>四国めたん</td>
+              <td><code>VOICEVOX:四国めたん</code></td>
+              <td data-i18n="audio-td-ok">✓ 可</td>
+              <td data-i18n="audio-td-no-ban">规约未明确禁止</td>
+              <td><a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noreferrer">音源利用ガイドライン</a></td>
+            </tr>
+            <tr>
+              <td>九州そら</td>
+              <td><code>VOICEVOX:九州そら</code></td>
+              <td data-i18n="audio-td-ok">✓ 可</td>
+              <td data-i18n="audio-td-no-ban">规约未明确禁止</td>
+              <td><a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noreferrer">音源利用ガイドライン</a></td>
+            </tr>
+            <tr>
+              <td>玄野武宏（CV:ガロ）</td>
+              <td><code>VOICEVOX:玄野武宏(CV:ガロ)</code></td>
+              <td data-i18n="audio-td-ok">✓ 可</td>
+              <td data-i18n="audio-td-propagate">可，须向使用者传达同等规约</td>
+              <td><a href="https://www.virvoxproject.com/voicevox%E3%81%AE%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84" target="_blank" rel="noreferrer">VirVox Project 利用規約</a></td>
+            </tr>
+            <tr>
+              <td>ずんだもん</td>
+              <td><code>VOICEVOX:ずんだもん</code></td>
+              <td data-i18n="audio-td-ok">✓ 可</td>
+              <td data-i18n="audio-td-no-ban">规约未明确禁止</td>
+              <td><a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noreferrer">音源利用ガイドライン</a></td>
+            </tr>
+          </tbody>
+        </table>
+        <p data-i18n="audio-p-last">
+          上述音声以 WAV 格式随网站静态资源分发，仅供页面内在线播放。
+          玄野武宏的规约要求向音声使用者传达同等规约，规约链接已在上表中列出。
+        </p>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="code-h2">项目代码</h2>
+        <p data-i18n="code-p1">
+          项目原创代码可按仓库中的代码许可使用。词表、释义、例句、生成图片、合成音频和第三方模型不自动适用代码许可，
+          应以本页和 NOTICE.md 中的说明为准。
+        </p>
+        <p data-i18n-html="code-p2"><a href="index.html">返回介绍页</a> · <a href="trainer.html">进入训练</a></p>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="tools-h2">开发工具</h2>
+        <p data-i18n="tools-p1">本项目的代码开发过程中使用了以下 AI 辅助工具：</p>
+        <ul>
+          <li><a href="https://claude.ai/code" target="_blank" rel="noreferrer">Claude Code</a>（Anthropic）— <span data-i18n="tools-li-claude">代码编写与重构</span></li>
+          <li><a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">GitHub Copilot / Codex</a>（OpenAI）— <span data-i18n="tools-li-copilot">代码补全</span></li>
+          <li><a href="https://chatgpt.com" target="_blank" rel="noreferrer">ChatGPT</a>（OpenAI）— <span data-i18n="tools-li-chatgpt">设计思路与问题排查</span></li>
+        </ul>
+        <p data-i18n="tools-p-last">AI 工具用于辅助开发，网站内容（词表、图片、训练逻辑）由作者 RIKKA 整理与制作。</p>
+      </section>
+
+      <section class="license-section">
+        <h2 data-i18n="contact-h2">联系</h2>
+        <p data-i18n-html="contact-p">如有问题、建议或合作意向，欢迎发送邮件：<a href="mailto:aaalhlp@gmail.com">aaalhlp@gmail.com</a></p>
+      </section>
+    </main>
+
+    <script>
+    (function () {
+      var LANG_KEY = "hvpt_lang";
+      var T = {
+        zh: {
+          title: "来源与许可 - JLPT HVPT Trainer",
+          h1: "来源与许可",
+          disclaimer: "这是一个非官方 JLPT 学习项目，与 JLPT 官方机构、日本国际交流基金或日本国际教育支援协会无从属、赞助或认可关系。",
+          "vocab-h2": "词汇数据",
+          "vocab-p": "JLPT 词表来源包含 Tanos JLPT vocabulary。Tanos 的分享页面说明其非销售内容可在署名条件下使用。",
+          "dict-h2": "释义与字典数据",
+          "dict-p": "英文释义和部分字典字段包含 JMdict/EDICT 派生内容。EDRDG 字典文件采用 Creative Commons Attribution-ShareAlike 4.0。因此，本项目中包含这些内容的词汇数据文件也应按 CC BY-SA 4.0 或兼容许可处理。",
+          "sentence-h2": "例句数据",
+          "sentence-p1": "网站中的日语、英语、中文例句主要来自 Tatoeba 文本导出数据，并由 RIKKA 按 JLPT 词条进行筛选与匹配。Tatoeba 条款说明，文本句子默认采用 Creative Commons Attribution 2.0 France（CC BY 2.0 FR），复用、修改和分发时需要署名句子作者；部分句子可能另有单独许可，应以 Tatoeba 页面记录为准。",
+          "sentence-p2": "本项目没有使用 Tatoeba 音频。缺少中文翻译的例句由 RIKKA 使用本地 Ollama/Qwen 辅助翻译，这些中文翻译仍应保留对应 Tatoeba 原句的来源、句子 ID 和作者署名。少量没有 Tatoeba 句子 ID 的例句为 RIKKA 本地整理示例。",
+          "sentence-archive-link": "本项目例句逐条来源归档",
+          "sentence-p3": "逐条来源归档中保留了 Tatoeba 句子 ID、句子页面链接和可取得的作者名。Tatoeba 句子页面格式为 <code>https://tatoeba.org/en/sentences/show/句子ID</code>。",
+          "image-h2": "图片素材",
+          "image-p": "网站中的图片由 RIKKA 整理与制作，部分使用本地 ComfyUI 和 Animagine XL 4.0 生成，部分可能使用 ChatGPT 图像生成。不包含从第三方图库直接下载的图片。发布图片时应同时保留所用工具、模型来源和许可说明。",
+          "audio-h2": "音频播放",
+          "audio-p1": "听音练习使用 <a href=\"https://voicevox.hiroshiba.jp/\" target=\"_blank\" rel=\"noreferrer\">VOICEVOX</a> 合成的日语音频。根据 VOICEVOX <a href=\"https://voicevox.hiroshiba.jp/term/\" target=\"_blank\" rel=\"noreferrer\">软件利用规约</a>，使用其生成的音声需遵守各角色的利用规约并进行署名。本网站当前使用以下 4 个音声角色：",
+          "audio-th-char": "角色",
+          "audio-th-attr": "署名格式",
+          "audio-th-commercial": "商用",
+          "audio-th-redis": "音声再配布",
+          "audio-th-policy": "规约链接",
+          "audio-td-ok": "✓ 可",
+          "audio-td-no-ban": "规约未明确禁止",
+          "audio-td-propagate": "可，须向使用者传达同等规约",
+          "audio-p-last": "上述音声以 WAV 格式随网站静态资源分发，仅供页面内在线播放。玄野武宏的规约要求向音声使用者传达同等规约，规约链接已在上表中列出。",
+          "code-h2": "项目代码",
+          "code-p1": "项目原创代码可按仓库中的代码许可使用。词表、释义、例句、生成图片、合成音频和第三方模型不自动适用代码许可，应以本页和 NOTICE.md 中的说明为准。",
+          "code-p2": "<a href=\"index.html\">返回介绍页</a> · <a href=\"trainer.html\">进入训练</a>",
+          "tools-h2": "开发工具",
+          "tools-p1": "本项目的代码开发过程中使用了以下 AI 辅助工具：",
+          "tools-li-claude": "代码编写与重构",
+          "tools-li-copilot": "代码补全",
+          "tools-li-chatgpt": "设计思路与问题排查",
+          "tools-p-last": "AI 工具用于辅助开发，网站内容（词表、图片、训练逻辑）由作者 RIKKA 整理与制作。",
+          "contact-h2": "联系",
+          "contact-p": "如有问题、建议或合作意向，欢迎发送邮件：<a href=\"mailto:aaalhlp@gmail.com\">aaalhlp@gmail.com</a>"
+        },
+        en: {
+          title: "Sources & Licenses - JLPT HVPT Trainer",
+          h1: "Sources & Licenses",
+          disclaimer: "This is an unofficial JLPT study project, with no affiliation, sponsorship, or endorsement from the official JLPT bodies, the Japan Foundation, or the Japan Educational Exchanges and Services.",
+          "vocab-h2": "Vocabulary Data",
+          "vocab-p": "The JLPT word list includes data from Tanos JLPT vocabulary. The Tanos sharing page states that non-commercial content may be used with attribution.",
+          "dict-h2": "Dictionary & Definition Data",
+          "dict-p": "English definitions and some dictionary fields contain data derived from JMdict/EDICT. The EDRDG dictionary files are licensed under Creative Commons Attribution-ShareAlike 4.0. Accordingly, vocabulary data files in this project that include such content should be treated under CC BY-SA 4.0 or a compatible license.",
+          "sentence-h2": "Example Sentence Data",
+          "sentence-p1": "Japanese, English, and Chinese example sentences are primarily sourced from Tatoeba text export data, filtered and matched to JLPT entries by RIKKA. Per Tatoeba's terms, text sentences are by default licensed under Creative Commons Attribution 2.0 France (CC BY 2.0 FR), requiring attribution to the sentence author when reusing, modifying, or distributing; some sentences may carry individual licenses as recorded on Tatoeba.",
+          "sentence-p2": "Tatoeba audio is not used. Chinese translations for sentences lacking one were produced with local Ollama/Qwen assistance by RIKKA; these translations should still retain the source, sentence ID, and author attribution of the corresponding Tatoeba originals. A small number of sentences without a Tatoeba ID are examples compiled locally by RIKKA.",
+          "sentence-archive-link": "Sentence attribution archive for this project",
+          "sentence-p3": "The attribution archive preserves the Tatoeba sentence ID, page link, and available author name for each sentence. Tatoeba sentence page format: <code>https://tatoeba.org/en/sentences/show/[sentence_id]</code>.",
+          "image-h2": "Images",
+          "image-p": "Images on the site were curated and produced by RIKKA, partly generated with local ComfyUI and Animagine XL 4.0, and partly using ChatGPT image generation. No images were directly downloaded from third-party image libraries. When redistributing images, please preserve the tool, model source, and license information.",
+          "audio-h2": "Audio Playback",
+          "audio-p1": "Listening exercises use Japanese synthetic audio generated with <a href=\"https://voicevox.hiroshiba.jp/\" target=\"_blank\" rel=\"noreferrer\">VOICEVOX</a>. Per the VOICEVOX <a href=\"https://voicevox.hiroshiba.jp/term/\" target=\"_blank\" rel=\"noreferrer\">software license</a>, using VOICEVOX-generated audio requires compliance with each character's usage policy and proper attribution. This site currently uses 4 voice characters:",
+          "audio-th-char": "Character",
+          "audio-th-attr": "Attribution Format",
+          "audio-th-commercial": "Commercial",
+          "audio-th-redis": "Audio Redistribution",
+          "audio-th-policy": "Policy Link",
+          "audio-td-ok": "✓ Yes",
+          "audio-td-no-ban": "Not explicitly prohibited",
+          "audio-td-propagate": "Yes, same policy must be communicated to users",
+          "audio-p-last": "The above audio is distributed as WAV files with the site's static assets, for in-page playback only. The VirVox Project policy for 玄野武宏 requires communicating the same policy to audio users; the link is in the table above.",
+          "code-h2": "Project Code",
+          "code-p1": "Original project code may be used under the code license in the repository. Vocabulary lists, definitions, example sentences, generated images, synthesized audio, and third-party models are not automatically covered by the code license; the terms on this page and in NOTICE.md apply.",
+          "code-p2": "<a href=\"index.html\">Back to intro</a> · <a href=\"trainer.html\">Open trainer</a>",
+          "tools-h2": "Development Tools",
+          "tools-p1": "The following AI tools assisted in code development of this project:",
+          "tools-li-claude": "code writing and refactoring",
+          "tools-li-copilot": "code completion",
+          "tools-li-chatgpt": "design ideas and troubleshooting",
+          "tools-p-last": "AI tools were used to assist development. Site content (vocabulary lists, images, training logic) was curated and produced by the author RIKKA.",
+          "contact-h2": "Contact",
+          "contact-p": "For questions, suggestions, or collaboration, feel free to reach out: <a href=\"mailto:aaalhlp@gmail.com\">aaalhlp@gmail.com</a>"
+        },
+        ja: {
+          title: "出典とライセンス - JLPT HVPT Trainer",
+          h1: "出典とライセンス",
+          disclaimer: "これは非公式のJLPT学習プロジェクトです。JLPT公式機関・国際交流基金・日本国際教育支援協会との関連・後援・認定関係はありません。",
+          "vocab-h2": "語彙データ",
+          "vocab-p": "JLPT語彙リストにはTanos JLPT vocabularyのデータが含まれています。Tanosの共有ページには、非商業コンテンツは帰属表示のもとで使用可能と記載されています。",
+          "dict-h2": "辞書・定義データ",
+          "dict-p": "英語訳および一部の辞書フィールドにはJMdict/EDICTから派生したデータが含まれています。EDRDGの辞書ファイルはCreative Commons Attribution-ShareAlike 4.0のもとで公開されています。そのため、これらのコンテンツを含む本プロジェクトの語彙データファイルもCC BY-SA 4.0または互換ライセンスの対象として扱われます。",
+          "sentence-h2": "例文データ",
+          "sentence-p1": "日本語・英語・中国語の例文は主にTatoebaのテキストエクスポートデータを基にRIKKAがJLPT語彙に合わせて選別・照合したものです。Tatoebaの利用規約によると、テキスト文はデフォルトでCreative Commons Attribution 2.0 France（CC BY 2.0 FR）のもとで公開されており、再利用・改変・配布の際は文の作者への帰属表示が必要です。一部の文は個別のライセンスを持つ場合があり、Tatoebaのページの記録が優先されます。",
+          "sentence-p2": "Tatoebaの音声は使用していません。中国語訳がない例文はRIKKAがローカルのOllama/Qwenを使って翻訳補助しており、これらの中国語訳も対応するTatoebaの原文の出典・文ID・作者表示を保持する必要があります。TatoebaのIDがない少数の例文はRIKKAが独自に整理したものです。",
+          "sentence-archive-link": "本プロジェクトの例文帰属アーカイブ",
+          "sentence-p3": "帰属アーカイブには各例文のTatoebaの文ID・ページリンク・取得可能な作者名が保持されています。Tatoebaの文ページの形式：<code>https://tatoeba.org/en/sentences/show/文ID</code>。",
+          "image-h2": "画像素材",
+          "image-p": "サイト内の画像はRIKKAが整理・制作したもので、一部はローカルのComfyUIとAnimagine XL 4.0で生成し、一部はChatGPTの画像生成を使用しています。サードパーティ画像ライブラリから直接ダウンロードした画像は含まれていません。画像を再配布する際は、使用ツール・モデルの出典・ライセンス情報を保持してください。",
+          "audio-h2": "音声再生",
+          "audio-p1": "リスニング練習には<a href=\"https://voicevox.hiroshiba.jp/\" target=\"_blank\" rel=\"noreferrer\">VOICEVOX</a>で合成した日本語音声を使用しています。VOICEVOXの<a href=\"https://voicevox.hiroshiba.jp/term/\" target=\"_blank\" rel=\"noreferrer\">ソフトウェア利用規約</a>に従い、VOICEVOX生成音声の使用には各キャラクターの利用規約の遵守と帰属表示が必要です。本サイトでは現在4つの音声キャラクターを使用しています：",
+          "audio-th-char": "キャラクター",
+          "audio-th-attr": "表記フォーマット",
+          "audio-th-commercial": "商用利用",
+          "audio-th-redis": "音声再配布",
+          "audio-th-policy": "規約リンク",
+          "audio-td-ok": "✓ 可",
+          "audio-td-no-ban": "規約上明示的禁止なし",
+          "audio-td-propagate": "可、使用者への同等規約の伝達が必要",
+          "audio-p-last": "上記の音声はWAV形式でサイトの静的ファイルとして配布され、ページ内での再生専用です。玄野武宏の規約では音声使用者への同等規約の伝達が必要であり、リンクは上表に記載されています。",
+          "code-h2": "プロジェクトコード",
+          "code-p1": "プロジェクトのオリジナルコードはリポジトリのコードライセンスの下で使用できます。語彙リスト・定義・例文・生成画像・合成音声・サードパーティモデルにはコードライセンスは自動的に適用されず、本ページおよびNOTICE.mdの説明が優先されます。",
+          "code-p2": "<a href=\"index.html\">はじめに戻る</a> · <a href=\"trainer.html\">トレーナーを開く</a>",
+          "tools-h2": "開発ツール",
+          "tools-p1": "本プロジェクトのコード開発において、以下のAI支援ツールを使用しました：",
+          "tools-li-claude": "コード作成・リファクタリング",
+          "tools-li-copilot": "コード補完",
+          "tools-li-chatgpt": "設計検討・問題解決",
+          "tools-p-last": "AIツールは開発補助に使用しました。サイトコンテンツ（語彙リスト・画像・トレーニングロジック）は作者RIKKAが整理・制作しました。",
+          "contact-h2": "お問い合わせ",
+          "contact-p": "ご質問・ご提案・協力のご相談は、メールでお気軽にどうぞ：<a href=\"mailto:aaalhlp@gmail.com\">aaalhlp@gmail.com</a>"
+        }
+      };
+
+      function apply(lang) {
+        var t = T[lang] || T.zh;
+        document.documentElement.lang = lang === "ja" ? "ja" : lang === "en" ? "en" : "zh-CN";
+        document.title = t.title;
+        document.querySelectorAll("[data-i18n]").forEach(function (el) {
+          var key = el.getAttribute("data-i18n");
+          if (t[key] != null) el.textContent = t[key];
+        });
+        document.querySelectorAll("[data-i18n-html]").forEach(function (el) {
+          var key = el.getAttribute("data-i18n-html");
+          if (t[key] != null) el.innerHTML = t[key];
+        });
+        try { localStorage.setItem(LANG_KEY, lang); } catch (e) {}
+      }
+
+      var sel = document.getElementById("srcLangSelect");
+      var saved;
+      try { saved = localStorage.getItem(LANG_KEY); } catch (e) { saved = null; }
+      var lang = (saved && T[saved]) ? saved : "zh";
+      sel.value = lang;
+      apply(lang);
+      sel.addEventListener("change", function () { apply(this.value); });
+    })();
+    </script>
+  </body>
+</html>

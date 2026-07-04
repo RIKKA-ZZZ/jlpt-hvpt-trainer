@@ -1,0 +1,14 @@
+{
+  "dry_run": false,
+  "files_dir": "D:\\codex-2\\tup_n2\\files",
+  "passed_files": 38,
+  "no_files": 0,
+  "no_picture_files": 207,
+  "passed_ids": 38,
+  "no_ids": 0,
+  "no_picture_ids": 207,
+  "review_changes": 34,
+  "renamed_files": 0,
+  "manifest_rows_updated": 245,
+  "backup": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\jlpt_vocab_imageable_candidates.before_n2_tup_review_20260703_100758.csv"
+}

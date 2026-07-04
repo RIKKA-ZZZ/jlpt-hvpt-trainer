@@ -1,0 +1,3 @@
+﻿id,jlpt_level,word,reading,image_review,meaning,meaning_zh,meaning_zh_needs_review,meaning_zh_note,jmdict_pos,jmdict_glosses,image_status,image_score,image_type,visual_domain,image_query_en,image_query_ja,distractor_pool,classification_reason,source
+n5_07985,N5,動物,どうぶつ,OK,animal,动物,FALSE,,noun (common) (futsuumeishi),animal,direct_image,84,single_object_or_place,animal,animal,動物,animal,concrete noun domain: animal,Tanos JLPT vocabulary
+n5_08203,N5,犬,いぬ,OK,dog,狗,FALSE,,noun (common) (futsuumeishi),dog (Canis (lupus) familiaris) | canine | squealer | rat | snitch,direct_image,84,single_object_or_place,animal,dog,犬,animal,concrete noun domain: animal,Tanos JLPT vocabulary

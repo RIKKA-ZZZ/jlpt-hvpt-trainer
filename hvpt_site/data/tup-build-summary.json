@@ -1,0 +1,14 @@
+{
+  "lessons": 283,
+  "lessons_by_level": {
+    "N1": 31,
+    "N2": 38,
+    "N3": 37,
+    "N4": 42,
+    "N5": 135
+  },
+  "domains": 10,
+  "source_images": 285,
+  "unique_image_ids": 284,
+  "asset_files": 283
+}

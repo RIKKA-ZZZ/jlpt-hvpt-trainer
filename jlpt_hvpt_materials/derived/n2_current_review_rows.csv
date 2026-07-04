@@ -1,0 +1,607 @@
+﻿id,word,reading,meaning,meaningZh,image_review,image_type,visual_domain,image_query_en
+n2_03984,刺身,さしみ,sliced raw fish,生鱼片,OK,single_object_or_place,animal,sliced raw fish
+n2_04868,競馬,けいば,horse racing,赛马,OK,single_object_or_place,animal,horse racing
+n2_03890,保健,ほけん,"health preservation,hygiene,sanitation",健康维护,NO PICTURE,single_object_or_place,body_health,health preservation
+n2_03917,先頭,せんとう,"head,lead,vanguard,first",最前头、前端,NO PICTURE,single_object_or_place,body_health,head
+n2_04078,向う,むかう,"(v5u) to face,to go towards",对面,NO PICTURE,single_object_or_place,body_health,to face
+n2_04811,真っ先,まっさき,"the head,the foremost,beginning",最先、最前,NO PICTURE,single_object_or_place,body_health,head
+n2_04991,薬品,やくひん,"medicine(s),chemical(s)",药品,OK,single_object_or_place,body_health,medicine
+n2_05248,頭脳,ずのう,"head,brains,intellect",头脑,NO PICTURE,single_object_or_place,body_health,head
+n2_05275,麓,ふもと,"the foot,the bottom,the base (of a mountain)",山脚,NO PICTURE,single_object_or_place,body_health,foot
+n2_04087,和服,わふく,Japanese clothes,和服,OK,single_object_or_place,clothing,Japanese clothes
+n2_04821,着替え,きがえ,"changing clothes,change of clothes",换衣服,NO PICTURE,single_object_or_place,clothing,changing clothes
+n2_03679,サークル,サークル,"circle,sports club (i.e. at a company)",社团,NO PICTURE,single_object_or_place,color_shape,circle
+n2_04814,真っ青,まっさお,"deep blue,ghastly pale",湛蓝;惨白,NO PICTURE,single_object_or_place,color_shape,deep blue
+n2_04815,真っ黒,まっくろ,pitch black,漆黑,NO PICTURE,single_object_or_place,color_shape,pitch black
+n2_03510,おやつ,おやつ,"(1) between meal snack,afternoon refreshment",点心,OK,single_object_or_place,food_drink,between meal snack
+n2_03828,井戸,いど,water well,水井,OK,single_object_or_place,food_drink,water well
+n2_04099,噴水,ふんすい,water fountain,喷泉,OK,single_object_or_place,food_drink,water fountain
+n2_04126,地下水,ちかすい,underground water,地下水,NO PICTURE,single_object_or_place,food_drink,underground water
+n2_04335,御手洗,おてあらい,font of purifying water placed at entrance of shrine,御手洗,NO PICTURE,single_object_or_place,food_drink,font of purifying water placed at entrance of shrine
+n2_04481,断水,だんすい,water outage,停水,NO PICTURE,single_object_or_place,food_drink,water outage
+n2_04541,果実,かじつ,"fruit,nut,berry.",水果,OK,single_object_or_place,food_drink,fruit
+n2_04597,水滴,すいてき,drop of water,水滴,OK,single_object_or_place,food_drink,drop of water
+n2_04601,水蒸気,すいじょうき,"water vapour,steam",水蒸气,NO PICTURE,single_object_or_place,food_drink,water vapour
+n2_04766,田植え,たうえ,rice planting,插秧,OK,single_object_or_place,food_drink,rice planting
+n2_04972,茶碗,ちゃわん,"rice bowl,tea cup,teacup",饭碗,OK,single_object_or_place,food_drink,rice bowl
+n2_05006,衣食住,いしょくじゅう,"necessities of life (food, clothing, etc.)",衣食住,NO PICTURE,single_object_or_place,food_drink,necessities of life (food
+n2_05261,餅,もち,sticky rice cake,米糕,NO PICTURE,single_object_or_place,food_drink,sticky rice cake
+n2_03782,三日月,みかづき,"new moon,crescent moon",三日月,NO PICTURE,single_object_or_place,nature_weather,new moon
+n2_03804,並木,なみき,"roadside tree,row of trees",行道树；树列,OK,single_object_or_place,nature_weather,roadside tree
+n2_04080,吹雪,ふぶき,snow storm,暴风雪,OK,single_object_or_place,nature_weather,snow storm
+n2_04164,夕日,ゆうひ,"(in) the evening sun,setting sun",夕阳,OK,single_object_or_place,nature_weather,evening sun
+n2_04178,大木,たいぼく,large tree,大树,OK,single_object_or_place,nature_weather,large tree
+n2_04259,山林,さんりん,"mountain forest,mountains and forest",山林；山地森林；林区,OK,single_object_or_place,nature_weather,mountain forest
+n2_04491,日当たり,ひあたり,"exposure to the sun,sunny place",向阳地；阳光充足处,OK,single_object_or_place,nature_weather,exposure to the sun
+n2_04626,海水浴,かいすいよく,"sea bathing,seawater bath",海水浴；海浴,NO PICTURE,single_object_or_place,nature_weather,sea bathing
+n2_04627,海洋,かいよう,ocean,海洋；大海,OK,single_object_or_place,nature_weather,ocean
+n2_04755,生け花,いけばな,(1) flower arrangement,花艺,OK,single_object_or_place,nature_weather,flower arrangement
+n2_04859,空中,くうちゅう,"sky,air",空中,NO PICTURE,single_object_or_place,nature_weather,sky
+n2_03747,ミシン,ミシン,sewing machine,缝纫机,NO PICTURE,single_object_or_place,object_tool,sewing machine
+n2_03887,便箋,びんせん,"writing paper,stationery",便笺,OK,single_object_or_place,object_tool,writing paper
+n2_03937,内線,ないせん,"phone extension,indoor wiring,inner line",分机,NO PICTURE,single_object_or_place,object_tool,phone extension
+n2_04018,匙,さじ,spoon,勺子,OK,single_object_or_place,object_tool,spoon
+n2_04057,古典,こてん,"old book,classics,classic",古典,NO PICTURE,single_object_or_place,object_tool,old book
+n2_04109,回数券,かいすうけん,book of tickets,多次票、回数券,NO PICTURE,single_object_or_place,object_tool,book of tickets
+n2_04116,図鑑,ずかん,picture book,图鉴,NO PICTURE,single_object_or_place,object_tool,picture book
+n2_04150,塵紙,ちりがみ,"tissue paper,toilet paper",纸巾; 卫生纸,OK,single_object_or_place,object_tool,tissue paper
+n2_04163,夕刊,ゆうかん,evening paper,晚报,NO PICTURE,single_object_or_place,object_tool,evening paper
+n2_04403,投書,とうしょ,"letter to the editor,letter from a reader,contribution",读者来信,NO PICTURE,single_object_or_place,object_tool,letter to the editor
+n2_04517,書籍,しょせき,"book,publication",书,OK,single_object_or_place,object_tool,book
+n2_04702,為替,かわせ,"money order,exchange",汇票;外汇,NO PICTURE,single_object_or_place,object_tool,money order
+n2_04794,目次,もくじ,table of contents,目录,NO PICTURE,single_object_or_place,object_tool,table of contents
+n2_04865,窓口,まどぐち,ticket window,窗口,OK,single_object_or_place,object_tool,ticket window
+n2_04887,紙幣,しへい,"paper money,notes,bills",纸币,OK,single_object_or_place,object_tool,paper money
+n2_05219,障子,しょうじ,paper sliding door,纸拉门、障子,NO PICTURE,single_object_or_place,object_tool,paper sliding door
+n2_05222,集金,しゅうきん,money collection,收款、收钱,NO PICTURE,single_object_or_place,object_tool,money collection
+n2_05228,電柱,でんちゅう,"telephone pole,telegraph pole,lightpole",电线杆,OK,single_object_or_place,object_tool,telephone pole
+n2_05256,食塩,しょくえん,table salt,食盐,OK,single_object_or_place,object_tool,table salt
+n2_03494,おくさん,おくさん,"(hon) wife,your wife,madam",夫人,NO PICTURE,single_object_or_place,person_family,wife
+n2_03650,ウーマン,ウーマン,woman,女士,NO PICTURE,single_object_or_place,person_family,woman
+n2_03677,サラリーマン,サラリーマン / サラーリーマン / サラリマン,"salary man,company employee",上班族,NO PICTURE,single_object_or_place,person_family,salary man
+n2_04135,坊や,ぼうや,boy,男孩,NO PICTURE,single_object_or_place,person_family,boy
+n2_04182,夫妻,ふさい,"man and wife,married couple",夫妻,NO PICTURE,single_object_or_place,person_family,man and wife
+n2_04184,女の人,おんなのひと,woman,女士,OK,single_object_or_place,person_family,woman
+n2_04185,女房,にょうぼう,wife,妻子,NO PICTURE,single_object_or_place,person_family,wife
+n2_04248,小学生,しょうがくせい,grade school student,小学生,NO PICTURE,single_object_or_place,person_family,grade school student
+n2_04530,末っ子,すえっこ,youngest child,最小的孩子,NO PICTURE,single_object_or_place,person_family,youngest child
+n2_04723,父母,ふぼ,"father and mother,parents",父母,NO PICTURE,single_object_or_place,person_family,father and mother
+n2_04826,知人,ちじん,"friend,acquaintance",熟人、认识的人,NO PICTURE,single_object_or_place,person_family,friend
+n2_03681,ショップ,ショップ,a shop,商店,NO PICTURE,single_object_or_place,place_building,shop
+n2_03687,スクール,スクール,school,学校,NO PICTURE,single_object_or_place,place_building,school
+n2_03724,ビルディング,ビルディング / ビルヂング,building,建筑物,NO PICTURE,single_object_or_place,place_building,building
+n2_03978,別荘,べっそう,"holiday house,villa",别墅,NO PICTURE,single_object_or_place,place_building,holiday house
+n2_04063,各地,かくち,"every place,various places",各地,NO PICTURE,single_object_or_place,place_building,every place
+n2_04074,名所,めいしょ,famous place,名胜,NO PICTURE,single_object_or_place,place_building,famous place
+n2_04091,商店,しょうてん,"shop,business firm",商店,OK,single_object_or_place,place_building,shop
+n2_04125,在学,ざいがく,(enrolled) in school,在校,NO PICTURE,single_object_or_place,place_building,in school
+n2_04127,地名,ちめい,place name,地名,NO PICTURE,single_object_or_place,place_building,place name
+n2_04160,売店,ばいてん,"shop,stand",小卖部、售货亭,NO PICTURE,single_object_or_place,place_building,shop
+n2_04174,大学院,だいがくいん,graduate school,研究生院,NO PICTURE,single_object_or_place,place_building,graduate school
+n2_04179,大通り,おおどおり,main street,主街,NO PICTURE,single_object_or_place,place_building,main street
+n2_04204,学年,がくねん,"year in school,grade in school",学年,NO PICTURE,single_object_or_place,place_building,year in school
+n2_04210,官庁,かんちょう,"government office,authorities",政府机关,NO PICTURE,single_object_or_place,place_building,government office
+n2_04230,家屋,かおく,"house,building",家、房子、建筑物,NO PICTURE,single_object_or_place,place_building,house
+n2_04267,工員,こういん,factory worker,工厂工人,NO PICTURE,single_object_or_place,place_building,factory worker
+n2_04292,庖丁,ほうちょう,"kitchen knife,carving knife",厨刀,NO PICTURE,single_object_or_place,place_building,kitchen knife
+n2_04293,店屋,みせや,"store,shop",商店,NO PICTURE,single_object_or_place,place_building,store
+n2_04295,座敷,ざしき,tatami room,日式房间,NO PICTURE,single_object_or_place,place_building,tatami room
+n2_04325,役所,やくしょ,"government office,public office",政府办公室,NO PICTURE,single_object_or_place,place_building,government office
+n2_04330,待合室,まちあいしつ,waiting room,等候室,NO PICTURE,single_object_or_place,place_building,waiting room
+n2_04546,校舎,こうしゃ,school building,校舍,NO PICTURE,single_object_or_place,place_building,school building
+n2_04612,洋品店,ようひんてん,shop which handles Western-style apparel and accessories,西式服饰店,NO PICTURE,single_object_or_place,place_building,shop which handles Western-style apparel and accessories
+n2_04633,消防署,しょうぼうしょ,fire station,消防站,OK,single_object_or_place,place_building,fire station
+n2_04732,物置,ものおき,storage room,储物间,OK,single_object_or_place,place_building,storage room
+n2_04772,番地,ばんち,"house number,address",门牌号；地址,NO PICTURE,single_object_or_place,place_building,house number
+n2_04810,県庁,けんちょう,prefectural office,县厅,NO PICTURE,single_object_or_place,place_building,prefectural office
+n2_04855,税関,ぜいかん,customs house,海关,NO PICTURE,single_object_or_place,place_building,customs house
+n2_05005,街角,まちかど,street corner,街角,NO PICTURE,single_object_or_place,place_building,street corner
+n2_05076,貸家,かしや,house for rent,出租屋,NO PICTURE,single_object_or_place,place_building,house for rent
+n2_05077,貸間,かしま,room to let,出租间,NO PICTURE,single_object_or_place,place_building,room to let
+n2_05119,退院,たいいん,leaving hospital,出院,NO PICTURE,single_object_or_place,place_building,leaving hospital
+n2_05143,遊園地,ゆうえんち,amusement park,游乐园,OK,single_object_or_place,place_building,amusement park
+n2_03819,乗車,じょうしゃ,"taking a train,entraining",乘车,NO PICTURE,single_object_or_place,transport,taking a train
+n2_04482,新幹線,しんかんせん,"bullet train (very high speed),shinkansen",新干线,NO PICTURE,single_object_or_place,transport,bullet train
+n2_03617,ぺん,,pen,笔,OK,single_object_or_place,object_tool,pen
+n2_03468,あきれる,あきれる,"to be amazed,to be shocked",感到惊讶,NO PICTURE,person_action_scene,action_state,person being amazed
+n2_03473,あてはまる,あてはまる,"to be applicable,to come under (a category),to fulfill",适用；符合,NO PICTURE,person_action_scene,action_state,person being applicable
+n2_03474,あてはめる,あてはめる,"to apply,to adapt",应用；适应,NO PICTURE,person_action_scene,action_state,person applying
+n2_03476,あふれる,あふれる,"to flood,to overflow,to brim over",溢出,NO PICTURE,person_action_scene,action_state,person flooding
+n2_03477,あぶる,あぶる,to scorch,烘烤,NO PICTURE,person_action_scene,action_state,person scorching
+n2_03481,あわてる,あわてる,to become confused,慌乱,NO PICTURE,person_action_scene,action_state,person becoming confused
+n2_03502,おどかす,おどかす,"to threaten,to coerce",威胁,NO PICTURE,person_action_scene,action_state,person threatenning
+n2_03517,かじる,かじる,"to chew,to bite (at),to gnaw,to nibble",咀嚼,NO PICTURE,person_action_scene,action_state,person chewwing
+n2_03519,からかう,からかう,"to ridicule,to tease,to banter with,to make fun of",捉弄、取笑,NO PICTURE,person_action_scene,action_state,person ridiculing
+n2_03521,かわいがる,かわいがる,"to love,to be affectionate",疼爱、宠爱,NO PICTURE,person_action_scene,action_state,person loving
+n2_03527,くっつく,くっつく,"to adhere to,to keep close to",粘附,NO PICTURE,person_action_scene,action_state,person adhering to
+n2_03528,くっつける,くっつける,to attach,粘贴,NO PICTURE,person_action_scene,action_state,person attaching
+n2_03530,くるむ,くるむ,"to be engulfed in,to be enveloped by,to wrap up",包裹,NO PICTURE,person_action_scene,action_state,person being engulfed in
+n2_03534,こしらえる,こしらえる,"to make,to manufacture",制作,NO PICTURE,person_action_scene,action_state,person making
+n2_03538,こぼす,こぼす,to spill,溢出,NO PICTURE,person_action_scene,action_state,person spilling
+n2_03539,こぼれる,こぼれる,"to overflow,to spill",溢出,NO PICTURE,person_action_scene,action_state,person overflowwing
+n2_03540,こらえる,こらえる / こたえる,"to bear,to stand,to endure,to put up with",忍耐、忍住,NO PICTURE,person_action_scene,action_state,person bearing
+n2_03553,しびれる,しびれる / シビれる / シビレる,"to become numb,to go to sleep (i.e., a limb)",麻木；入睡,OK,person_action_scene,action_state,person becoming numb
+n2_03554,しぼむ,しぼむ,"to wither,to fade (away),to shrivel,to wilt",枯萎,NO PICTURE,person_action_scene,action_state,person witherring
+n2_03556,しゃがむ,しゃがむ,to squat,蹲下,OK,person_action_scene,action_state,person squating
+n2_03558,しゃぶる,しゃぶる,"to suck,to chew",吸；舔,NO PICTURE,person_action_scene,action_state,person sucking
+n2_03565,すれちがう,すれちがう,"to pass by one another,to disagree",擦肩而过,NO PICTURE,person_action_scene,action_state,person passing by one another
+n2_03567,ずらす,ずらす,"to put off,to delay",推迟,NO PICTURE,person_action_scene,action_state,person putting off
+n2_03577,ためらう,ためらう,to hesitate,犹豫,NO PICTURE,person_action_scene,action_state,person hesitating
+n2_03580,だます,だます,"to trick,to cheat,to deceive",欺骗,NO PICTURE,person_action_scene,action_state,person tricking
+n2_03582,ちぎる,ちぎる,"to cut up fine,to pick (fruit)",切碎；采摘,NO PICTURE,person_action_scene,action_state,person cutting up fine
+n2_03584,つまずく,つまずく / つまづく,"to stumble,to trip",绊倒,NO PICTURE,person_action_scene,action_state,person stumbling
+n2_03592,どなる,どなる,"to shout,to yell",大喊,NO PICTURE,person_action_scene,action_state,person shouting
+n2_03593,なぐる,なぐる,"to strike,to hit",殴打、打,NO PICTURE,person_action_scene,action_state,person striking
+n2_03602,はめる,はめる / ハメる,"(col) to get in,to insert,to put on,to make love",插入;戴上,NO PICTURE,person_action_scene,action_state,person getting in
+n2_03609,ふざける,ふざける,"to romp,to gambol,to frolic,to joke",开玩笑,NO PICTURE,person_action_scene,action_state,person romping
+n2_03611,ぶつかる,ぶつかる / ぶっつかる,"to strike,to collide with",碰撞,NO PICTURE,person_action_scene,action_state,person striking
+n2_03612,ぶつける,ぶつける,"to knock,to run into,to nail on,to strike hard,to hit and attack",撞击,NO PICTURE,person_action_scene,action_state,person knocking
+n2_03614,ぶらさげる,ぶらさげる,"to hang,to suspend,to dangle,to swing",悬挂,NO PICTURE,person_action_scene,action_state,person hanging
+n2_03616,へる,へる,"to decrease (in size or number),to diminish,to abate",减少、减弱,NO PICTURE,person_action_scene,action_state,person decreasing
+n2_03618,ほどく,ほどく,to unfasten,解开,NO PICTURE,person_action_scene,action_state,person unfastenning
+n2_03622,またぐ,またぐ,to straddle,跨过,NO PICTURE,person_action_scene,action_state,person straddling
+n2_03633,もたれる,もたれる,"to lean against,to lean on,to recline on,to lie heavy (on the stomach)",倚靠,NO PICTURE,person_action_scene,action_state,person leaning against
+n2_03637,やっつける,やっつける,"to attack (an enemy),to beat,to do away with,to finish off",击败,NO PICTURE,person_action_scene,action_state,person attacking
+n2_03640,ゆでる,ゆでる / うでる,to boil,煮,NO PICTURE,person_action_scene,action_state,person boiling
+n2_03641,よこす,よこす,"(1) to send,to forward,(2) to hand over (e.g. money)",传送,NO PICTURE,person_action_scene,action_state,person sending
+n2_03785,上る,のぼる,"to ascend,to go up,to climb",爬、登,NO PICTURE,person_action_scene,action_state,person ascending
+n2_03789,下る,くだる,"to get down,to descend",下降、下去,NO PICTURE,person_action_scene,action_state,person getting down
+n2_03821,乾かす,かわかす,"to dry (clothes, etc.),to desiccate",晾干,NO PICTURE,person_action_scene,action_state,person drying (clothes
+n2_03826,争う,あらそう,"to dispute,to argue,to be at variance,to compete",竞争,NO PICTURE,person_action_scene,action_state,person disputing
+n2_03829,亡くす,なくす,"to lose someone, wife, child, etc",失去亲人,NO PICTURE,person_action_scene,action_state,person losing someone
+n2_03830,交ざる,まざる,"to be mixed,to be blended with,to associate with,to mingle with,to join",混合,NO PICTURE,person_action_scene,action_state,person being mixed
+n2_03831,交じる,まじる,"to be mixed,to be blended with,to associate with",混合,NO PICTURE,person_action_scene,action_state,person being mixed
+n2_03832,交ぜる,まぜる,"to be mixed,to be blended with",混合,NO PICTURE,person_action_scene,action_state,person being mixed
+n2_03842,仕上がる,しあがる,to be finished,完成、结束,NO PICTURE,person_action_scene,action_state,person being finished
+n2_03843,付合う,つきあう,"to associate with,to keep company with,to get on with",相处,NO PICTURE,person_action_scene,action_state,person associating with
+n2_03845,代える,かえる,"to exchange,to interchange,to substitute,to replace",替换、交换,NO PICTURE,person_action_scene,action_state,person exchanging
+n2_03860,伝わる,つたわる,"to be handed down,to be introduced,to be transmitted",传播,NO PICTURE,person_action_scene,action_state,person being handed down
+n2_03875,余る,あまる,"to remain,to be left over,to be in excess,to be too many",剩余、过多,NO PICTURE,person_action_scene,action_state,person remaining
+n2_03883,例える,たとえる,"to compare,to liken,to speak figuratively,to illustrate,to use a simile",比喻、比作,NO PICTURE,person_action_scene,action_state,person comparing
+n2_03888,係わる,かかわる,"to concern oneself in,to have to do with,to affect,to influence,to stick to (opinions)",涉及,NO PICTURE,person_action_scene,action_state,person concerning oneself in
+n2_03891,信ずる,しんずる,"to believe,to believe in,to place trust in",相信,NO PICTURE,person_action_scene,action_state,person believing
+n2_03897,倣う,ならう,"to imitate,to follow,to emulate",模仿,NO PICTURE,person_action_scene,action_state,person imitating
+n2_03906,傾く,かたむく,"to incline toward,to slant,to lurch",倾斜,NO PICTURE,person_action_scene,action_state,person inclining toward
+n2_03909,儲かる,もうかる,"to be profitable,to yield a profit",盈利,NO PICTURE,person_action_scene,action_state,person being profitable
+n2_03910,儲ける,もうける,"to get,to earn,to gain,to have (bear, beget) a child",赚取,NO PICTURE,person_action_scene,action_state,person getting
+n2_03934,具える,そなえる,to be furnished with,配备,NO PICTURE,person_action_scene,action_state,person being furnished with
+n2_03944,写る,うつる,"to be photographed,to be projected",被拍摄,NO PICTURE,person_action_scene,action_state,person being photographed
+n2_03947,冷ます,さます,"to cool,to dampen,to let cool",降温,NO PICTURE,person_action_scene,action_state,person cooling
+n2_03948,冷める,さめる,"to become cool,to wear off,to abate,to subside",变凉,NO PICTURE,person_action_scene,action_state,person becoming cool
+n2_03949,冷やす,ひやす,"to cool,to refrigerate",冷藏,NO PICTURE,person_action_scene,action_state,person cooling
+n2_03951,凍える,こごえる,"to freeze,to be chilled,to be frozen",冻住,NO PICTURE,person_action_scene,action_state,person freezing
+n2_03953,凹む,へこむ,"to be dented,to be indented,to yield to,to give,to sink,to collapse,to cave in,to be snubbed",凹陷、泄气,NO PICTURE,person_action_scene,action_state,person being dented
+n2_03956,出勤,しゅっきん,"going to work,at work",去上班;在岗,NO PICTURE,person_action_scene,action_state,person goinging to work
+n2_03959,出掛ける,でかける,"to depart,to set out,to start,to be going out",出发,NO PICTURE,person_action_scene,action_state,person departing
+n2_03961,出来上がる,できあがる,"(1) to be finished,to be ready,by definition,(2) to be very drunk",完成；喝醉,NO PICTURE,person_action_scene,action_state,person being finished
+n2_03963,出迎える,でむかえる,"to meet,to greet",迎接,NO PICTURE,person_action_scene,action_state,person meeting
+n2_03964,分かれる,わかれる,"to branch off,to diverge from,to fork,to split,to dispense,to scatter,to divide into",分支,NO PICTURE,person_action_scene,action_state,person branching off
+n2_03965,分る,わかる,to be understood,明白、懂,NO PICTURE,person_action_scene,action_state,person being understood
+n2_03980,制作,せいさく,"work (film, book)",制作,NO PICTURE,person_action_scene,action_state,person working (film
+n2_03981,刷る,する,to print,印刷,NO PICTURE,person_action_scene,action_state,person printing
+n2_03982,刺さる,ささる,"to stick,to be stuck",刺入、扎入,NO PICTURE,person_action_scene,action_state,person sticking
+n2_03983,刺す,さす,"to pierce,to stab,to prick,to thrust",刺穿,NO PICTURE,person_action_scene,action_state,person piercing
+n2_03985,刻む,きざむ,"to mince,to carve,to engrave",切碎,NO PICTURE,person_action_scene,action_state,person mincing
+n2_03986,剃る,そる,to shave,剃,NO PICTURE,person_action_scene,action_state,person shaving
+n2_03988,削る,けずる,"to cut down little by little,to take a percentage",削,NO PICTURE,person_action_scene,action_state,person cutting down little by little
+n2_03991,剥く,むく,"to peel,to skin,to pare,to hull",剥,NO PICTURE,person_action_scene,action_state,person peeling
+n2_03992,剥す,はがす,"(v5s) to tear off,to peel off,to rip off",剥离,NO PICTURE,person_action_scene,action_state,person tearing off
+n2_04003,助かる,たすかる,"to be saved,to be rescued,to survive,to be helpful",得救、有帮助,NO PICTURE,person_action_scene,action_state,person being saved
+n2_04005,努める,つとめる,"(1) to serve,to fill a post,to serve under,to work (for)",努力,NO PICTURE,person_action_scene,action_state,person serving
+n2_04010,務める,つとめる,"(1) to serve,to fill a post,to serve under,to work (for)",工作；任职；服务,NO PICTURE,person_action_scene,action_state,person serving
+n2_04014,匂う,におう,"to be fragrant,to smell,to stink",有香味；有臭味；发臭,NO PICTURE,person_action_scene,action_state,person being fragrant
+n2_04020,区切る,くぎる,"to punctuate,to cut off,to mark off,to stop,to put an end to",分隔、划分,NO PICTURE,person_action_scene,action_state,person punctuating
+n2_04030,占う,うらなう,"to forecast,to predict",预测,NO PICTURE,person_action_scene,action_state,person forecasting
+n2_04033,卸す,おろす,"to sell wholesale,grated (vegetables)",批发销售,NO PICTURE,person_action_scene,action_state,person selling wholesale
+n2_04043,反る,かえる,"to warp,to be warped,to curve",弯曲,NO PICTURE,person_action_scene,action_state,person warping
+n2_04048,取り入れる,とりいれる,"to harvest,to take in,to adopt",采纳；引入,NO PICTURE,person_action_scene,action_state,person harvesting
+n2_04049,取り出す,とりだす,"to take out,to produce,to pick out",取出、拿出,NO PICTURE,person_action_scene,action_state,person taking out
+n2_04050,取り消す,とりけす,to cancel,取消,NO PICTURE,person_action_scene,action_state,person cancelling
+n2_04051,受け持つ,うけもつ,to take (be in) charge of,负责,NO PICTURE,person_action_scene,action_state,person taking charge of
+n2_04068,吊す,つるす,to hang,悬挂,NO PICTURE,person_action_scene,action_state,person hanging
+n2_04069,吊る,つる,to hang,悬挂,OK,person_action_scene,action_state,person hanging
+n2_04079,含める,ふくめる,"to include,to instruct,to make one understand",包含,NO PICTURE,person_action_scene,action_state,person including
+n2_04083,味わう,あじわう,"to taste,to savor,to relish",品尝,NO PICTURE,person_action_scene,action_state,person tasting
+n2_04084,呼び出す,よびだす,"to summon,to call (e.g. phone)",召唤,NO PICTURE,person_action_scene,action_state,person summonning
+n2_04085,呼び掛ける,よびかける,"to call out to,to accost,to address (crowd),to appeal",呼喊,NO PICTURE,person_action_scene,action_state,person calling out to
+n2_04086,命ずる,めいずる,"to command,to appoint",命令;任命,NO PICTURE,person_action_scene,action_state,person commanding
+n2_04089,咥える,くわえる,to hold in one's mouth | to bring with | to take along,含住;携带,NO PICTURE,person_action_scene,action_state,person holding in one's mouth
+n2_04096,嗅ぐ,かぐ,"to sniff,to smell",嗅探,NO PICTURE,person_action_scene,action_state,person sniffing
+n2_04101,囁く,ささやく,"to whisper,to murmur",低语;谣言,NO PICTURE,person_action_scene,action_state,person whisperring
+n2_04112,因る,よる,to come from,因于,NO PICTURE,person_action_scene,action_state,person coming from
+n2_04118,固まる,かたまる,"to harden,to solidify,to become firm,to become certain",凝固;凝结;确定,NO PICTURE,person_action_scene,action_state,person hardenning
+n2_04124,在る,ある,"to live,to be",存在、有,NO PICTURE,person_action_scene,action_state,person living
+n2_04138,埋める,うめる,"to bury,to fill up,to fill (a seat, a vacant position)",埋葬;填满,NO PICTURE,person_action_scene,action_state,person burying
+n2_04147,塞がる,ふさがる,"to be plugged up,to be shut up",堵塞,NO PICTURE,person_action_scene,action_state,person being plugged up
+n2_04148,塞ぐ,ふさぐ,"to stop up,to close up,to block (up)",堵塞;封闭,NO PICTURE,person_action_scene,action_state,person stopping up
+n2_04153,増やす,ふやす,"to increase,to add to,to augment",增加,NO PICTURE,person_action_scene,action_state,person increasing
+n2_04158,売り切れる,うりきれる,to be sold out,售罄,NO PICTURE,person_action_scene,action_state,person being sold out
+n2_04166,外れる,はずれる,"to be disconnected,to get out of place,to be off,to be out (e.g. of gear)",脱线,NO PICTURE,person_action_scene,action_state,person being disconnected
+n2_04189,妨げる,さまたげる,"to disturb,to prevent",阻碍,NO PICTURE,person_action_scene,action_state,person disturbing
+n2_04195,威張る,いばる,"to be proud,to swagger",自夸,NO PICTURE,person_action_scene,action_state,person being proud
+n2_04197,嫌がる,いやがる,"to hate,to dislike",厌恶,NO PICTURE,person_action_scene,action_state,person hating
+n2_04199,存じる,ぞんじる,(hum) to know,知晓,NO PICTURE,person_action_scene,action_state,person knowwing
+n2_04200,存ずる,ぞんずる,to know | to be aware (of) | to be acquainted (with),知晓,NO PICTURE,person_action_scene,action_state,person knowwing
+n2_04217,実る,みのる,"to bear fruit,to ripen",结果,NO PICTURE,person_action_scene,action_state,person bearing fruit
+n2_04233,寄せる,よせる,"to collect,to gather,to add,to put aside",聚集、靠近,NO PICTURE,person_action_scene,action_state,person collecting
+n2_04245,射す,さす,"to shine,to strike",照射,NO PICTURE,person_action_scene,action_state,person shining
+n2_04253,尖る,とがる,"to taper to a point,to become sharp,to be sour,to look displeased",变尖；不悦,NO PICTURE,person_action_scene,action_state,person taperring to a point
+n2_04258,属する,ぞくする,"to belong to,to come under,to be affiliated with,to be subject to",属于,NO PICTURE,person_action_scene,action_state,person belonging to
+n2_04262,崩す,くずす,"to destroy,to pull down,to make change (money)",摧毁,NO PICTURE,person_action_scene,action_state,person destroying
+n2_04263,崩れる,くずれる,"to collapse,to crumble",崩溃；散开,NO PICTURE,person_action_scene,action_state,person collapsing
+n2_04264,巡る,めぐる,to go around,转、绕行,NO PICTURE,person_action_scene,action_state,person going around
+n2_04266,工事,こうじ,construction work,施工,NO PICTURE,person_action_scene,action_state,person constructioning work
+n2_04272,巻く,まく,"to wind,to coil,to roll",卷起；缠绕,NO PICTURE,person_action_scene,action_state,person winding
+n2_04273,帰す,かえす,to send back,送回,NO PICTURE,person_action_scene,action_state,person sending back
+n2_04274,干す,ほす,"to air,to dry,to desiccate,to drain (off),to drink up",晾干,NO PICTURE,person_action_scene,action_state,person airing
+n2_04286,広げる,ひろげる,"to spread,to extend,to expand,to enlarge",展开；扩展,NO PICTURE,person_action_scene,action_state,person spreading
+n2_04288,広める,ひろめる,"to broaden,to propagate",传播；扩大,NO PICTURE,person_action_scene,action_state,person broadenning
+n2_04296,延ばす,のばす,"to lengthen,to stretch,to reach out,to grow (beard)",伸长、伸展、伸手、生长（胡须）,NO PICTURE,person_action_scene,action_state,person lengthenning
+n2_04297,延びる,のびる,to be prolonged,延长；生长,NO PICTURE,person_action_scene,action_state,person being prolonged
+n2_04299,建つ,たつ,"to erect,to be erected,to be built",建造；建立,NO PICTURE,person_action_scene,action_state,person erecting
+n2_04300,引き止める,ひきとめる,"to detain,to check,to restrain",阻止；制止,NO PICTURE,person_action_scene,action_state,person detaining
+n2_04301,引っ掛かる,ひっかかる,"to be caught in,to be stuck in,to be cheated",卡住；顺路停留,NO PICTURE,person_action_scene,action_state,person being caught in
+n2_04302,引っ繰り返す,ひっくりかえす,"to turn over,to overturn,to knock over,to upset,to turn inside out",翻转,NO PICTURE,person_action_scene,action_state,person turning over
+n2_04303,引っ繰り返る,ひっくりかえる,"to be overturned,to be upset,to topple over,to be reversed",翻转;颠倒,NO PICTURE,person_action_scene,action_state,person being overturned
+n2_04304,引っ込む,ひっこむ,"to draw back,to sink,to cave in",后退,NO PICTURE,person_action_scene,action_state,person drawwing back
+n2_04305,引出す,ひきだす,"to pull out,to take out,to draw out,to withdraw",拉出、取出,NO PICTURE,person_action_scene,action_state,person pulling out
+n2_04308,引受る,ひきうける,"to undertake,to take up,to take over",接手,NO PICTURE,person_action_scene,action_state,person undertaking
+n2_04311,引返す,ひきかえす,"to repeat,to send back,to bring back",返回,NO PICTURE,person_action_scene,action_state,person repeating
+n2_04313,張り切る,はりきる,"to be in high spirits,to be full of vigor",充满干劲,NO PICTURE,person_action_scene,action_state,person being in high spirits
+n2_04322,彫る,ほる,"to carve,to engrave,to sculpture,to chisel",雕刻,NO PICTURE,person_action_scene,action_state,person carving
+n2_04329,待ち合わせる,まちあわせる,"to rendezvous,to meet at a prearranged place and time",约定见面,NO PICTURE,person_action_scene,action_state,person rendezvousing
+n2_04342,心得る,こころえる,"to be informed,to have thorough knowledge",彻底了解,NO PICTURE,person_action_scene,action_state,person being informed
+n2_04345,応ずる,おうずる,"to answer,to respond,to meet,to satisfy,to accept",回应、接受,NO PICTURE,person_action_scene,action_state,person answerring
+n2_04351,思いっ切り,おもいっきり,to one's heart's content | as much as one wants | as hard as one can,尽全力,NO PICTURE,person_action_scene,action_state,person one'sing heart's content
+n2_04352,思い付く,おもいつく,"to think of,to hit upon",想到；突然想起,NO PICTURE,person_action_scene,action_state,person thinking of
+n2_04354,思い込む,おもいこむ,"to be under impression that,to be convinced that",确信,NO PICTURE,person_action_scene,action_state,person being under impression that
+n2_04355,怠る,おこたる,"to neglect,to be off guard,to be feeling better",疏忽,NO PICTURE,person_action_scene,action_state,person neglecting
+n2_04363,恨む,うらむ,"to curse,to feel bitter",怀恨,NO PICTURE,person_action_scene,action_state,person cursing
+n2_04365,恵まれる,めぐまれる,"to be blessed with,to be rich in",富有,NO PICTURE,person_action_scene,action_state,person being blessed with
+n2_04367,悔やむ,くやむ,to mourn,悔恨,NO PICTURE,person_action_scene,action_state,person mourning
+n2_04372,感ずる,かんずる,"to feel,to sense",感到,NO PICTURE,person_action_scene,action_state,person feeling
+n2_04375,慰める,なぐさめる,"to comfort,to console",安慰,NO PICTURE,person_action_scene,action_state,person comforting
+n2_04377,慶ぶ,よろこぶ,to be delighted | to be glad | to be pleased,感到高兴,NO PICTURE,person_action_scene,action_state,person being delighted
+n2_04379,憎む,にくむ,"to hate,to detest",讨厌,NO PICTURE,person_action_scene,action_state,person hating
+n2_04381,憧れる,あこがれる,"to long for,to yearn after,to admire",向往,NO PICTURE,person_action_scene,action_state,person longing for
+n2_04387,扇ぐ,あおぐ,"to fan,to flap",煽动,NO PICTURE,person_action_scene,action_state,person fanning
+n2_04398,打ち消す,うちけす,"to deny,to negate,to contradict",否认,NO PICTURE,person_action_scene,action_state,person denying
+n2_04400,払い戻す,はらいもどす,"to repay,to pay back",偿还,NO PICTURE,person_action_scene,action_state,person repaying
+n2_04401,払い込む,はらいこむ,"to deposit,to pay in",支付,NO PICTURE,person_action_scene,action_state,person depositting
+n2_04402,承る,うけたまわる,"(hum) to hear,to be told,to know",听取、拜听,NO PICTURE,person_action_scene,action_state,person hearing
+n2_04405,押える,おさえる,"to stop,to restrain,to seize,to repress,to suppress,to press down",按住、抑制,NO PICTURE,person_action_scene,action_state,person stopping
+n2_04407,担ぐ,かつぐ,"to shoulder,to carry on shoulder",扛、担,NO PICTURE,person_action_scene,action_state,person shoulderring
+n2_04408,拝む,おがむ,"to worship,to beg,to make a supplication",祈祷；乞求,NO PICTURE,person_action_scene,action_state,person worshipping
+n2_04413,拭く,ふく,"to wipe,to dry",擦拭,NO PICTURE,person_action_scene,action_state,person wiping
+n2_04416,挙げる,あげる,"to raise,to fly",列举,NO PICTURE,person_action_scene,action_state,person raising
+n2_04417,挟まる,はさまる,"to get between,to be caught in",被夹住,NO PICTURE,person_action_scene,action_state,person getting between
+n2_04418,挟む,はさむ,"to interpose,to hold between,to insert",夹住,NO PICTURE,person_action_scene,action_state,person interposing
+n2_04420,振舞う,ふるまう,"to behave,to conduct oneself,to entertain (vt)",举止;招待,NO PICTURE,person_action_scene,action_state,person behaving
+n2_04421,挿す,さす,"to insert,to put in,to graft,to wear in belt",插入、插上,NO PICTURE,person_action_scene,action_state,person inserting
+n2_04422,捕える,とらえる,"to seize,to grasp,to capture,to arrest",抓住、捕捉,NO PICTURE,person_action_scene,action_state,person seizing
+n2_04423,捕る,とる,"to take,to catch (fish),to capture",捕捉,NO PICTURE,person_action_scene,action_state,person taking
+n2_04424,捜す,さがす,"to search,to seek,to look for",寻找、搜寻,NO PICTURE,person_action_scene,action_state,person searching
+n2_04425,捩る,ねじる,to twist,扭转,NO PICTURE,person_action_scene,action_state,person twisting
+n2_04426,捻る,ひねる,"to turn (a switch) on or off,to twist,to puzzle over",拧动开关；扭；困惑,NO PICTURE,person_action_scene,action_state,person turning on or off
+n2_04427,掃く,はく,"to sweep,to brush,to gather up",扫除,NO PICTURE,person_action_scene,action_state,person sweeping
+n2_04429,掘る,ほる,"to dig,to excavate",挖掘,NO PICTURE,person_action_scene,action_state,person digging
+n2_04431,採る,とる,"(1) to adopt (measure, proposal),(2) to pick (fruit)",采纳；采摘,NO PICTURE,person_action_scene,action_state,person adopting (measure
+n2_04433,探る,さぐる,"to search,to look for,to sound out",探寻、试探,NO PICTURE,person_action_scene,action_state,person searching
+n2_04434,接する,せっする,"to come in contact with,to connect,to attend,to receive",接触、接待,NO PICTURE,person_action_scene,action_state,person coming in contact with
+n2_04438,掻く,かく,"to scratch,to perspire",抓挠;出汗,NO PICTURE,person_action_scene,action_state,person scratching
+n2_04439,揃う,そろう,"to become complete,to be equal,to be all present,to gather",齐全、聚齐,NO PICTURE,person_action_scene,action_state,person becoming complete
+n2_04440,揃える,そろえる,"to put things in order,to arrange,to make uniform,to get something ready",整理；准备,NO PICTURE,person_action_scene,action_state,person putting things in order
+n2_04441,揉む,もむ,"to rub,to crumple (up),to wrinkle",揉;按摩,NO PICTURE,person_action_scene,action_state,person rubbing
+n2_04442,揚げる,あげる,"to lift,to fry",油炸,NO PICTURE,person_action_scene,action_state,person lifting
+n2_04446,撒く,まく,"to scatter,to sprinkle,to sow",撒,NO PICTURE,person_action_scene,action_state,person scatterring
+n2_04447,撫でる,なでる,"to brush gently,to stroke",抚摸,NO PICTURE,person_action_scene,action_state,person brushing gently
+n2_04449,擦る,こする,"to rub,to chafe,to file,to frost (glass),to strike (match)",擦拭；刮,NO PICTURE,person_action_scene,action_state,person rubbing
+n2_04451,改める,あらためる,"to change,to alter,to reform,to revise",改变,NO PICTURE,person_action_scene,action_state,person changing
+n2_04455,攻める,せめる,"to attack,to assault",攻击；袭击,NO PICTURE,person_action_scene,action_state,person attacking
+n2_04456,放る,ほうる,to let go,抛;放任,NO PICTURE,person_action_scene,action_state,person letting go
+n2_04457,放れる,はなれる,"to leave,to get free,to cut oneself off",挣脱；释放,NO PICTURE,person_action_scene,action_state,person leaving
+n2_04459,教わる,おそわる,to be taught,被教导,NO PICTURE,person_action_scene,action_state,person being taught
+n2_04461,散らかす,ちらかす,"to scatter around,to leave untidy",弄乱,NO PICTURE,person_action_scene,action_state,person scatterring around
+n2_04462,散らかる,ちらかる,"to be in disorder,to lie scattered around",散乱,NO PICTURE,person_action_scene,action_state,person being in disorder
+n2_04463,散らす,ちらす,"to scatter,to disperse,to distribute",散开,NO PICTURE,person_action_scene,action_state,person scatterring
+n2_04464,散る,ちる,"to fall,to scatter (e.g. blossoms)",散落；消散,NO PICTURE,person_action_scene,action_state,person falling
+n2_04465,敬う,うやまう,"to show respect,to honour",尊敬；崇拜,NO PICTURE,person_action_scene,action_state,person showwing respect
+n2_04467,整う,ととのう,"to be prepared,to be in order,to be put in order,to be arranged",准备,NO PICTURE,person_action_scene,action_state,person being prepared
+n2_04470,敷く,しく,"to spread out,to lay out",铺开,NO PICTURE,person_action_scene,action_state,person spreading out
+n2_04479,斬る,きる,"(v5r) to behead,to murder",斩杀,NO PICTURE,person_action_scene,action_state,person beheading
+n2_04502,映す,うつす,"to project,to reflect,to cast (shadow)",反射,NO PICTURE,person_action_scene,action_state,person projecting
+n2_04503,映る,うつる,"to be reflected,to harmonize with,to come out (photo)",反射；显示,NO PICTURE,person_action_scene,action_state,person being reflected
+n2_04508,暖まる,あたたまる,"to warm up,to get warm",变暖,NO PICTURE,person_action_scene,action_state,person warming up
+n2_04509,暖める,あたためる,"to warm,to heat",加热,NO PICTURE,person_action_scene,action_state,person warming
+n2_04510,暴れる,あばれる,"to act violently,to rage,to struggle,to be riotous",暴动,NO PICTURE,person_action_scene,action_state,person acting violently
+n2_04511,曲げる,まげる,"to bend,to crook,to lean",弯曲,NO PICTURE,person_action_scene,action_state,person bending
+n2_04513,更ける,ふける,"to get late,to advance,to wear on",变晚,NO PICTURE,person_action_scene,action_state,person getting late
+n2_04542,枯れる,かれる,"to wither,to die (plant),to be blasted (plant)",枯萎,NO PICTURE,person_action_scene,action_state,person witherring
+n2_04551,棄てる,すてる,to throw away | to cast away | to dump,丢弃,NO PICTURE,person_action_scene,action_state,person throwwing away
+n2_04565,次ぐ,つぐ,"to rank next to,to come after",跟随,NO PICTURE,person_action_scene,action_state,person ranking next to
+n2_04578,殖える,ふえる,"to increase,to multiply",增加,NO PICTURE,person_action_scene,action_state,person increasing
+n2_04579,殖やす,ふやす,"to increase,to add to,to augment",增加,NO PICTURE,person_action_scene,action_state,person increasing
+n2_04589,気を付ける,きをつける,"to be careful,to pay attention,to take care",注意,NO PICTURE,person_action_scene,action_state,person being careful
+n2_04604,汚す,よごす,"(1) to disgrace,to dishonour,(2) to pollute,to contaminate,to soil,to make dirty,to stain",弄脏,NO PICTURE,person_action_scene,action_state,person disgracing
+n2_04605,汲む,くむ,"(1) to draw (water),to dip,to scoop,to pump",汲水,NO PICTURE,person_action_scene,action_state,person drawwing
+n2_04607,治す,なおす,"to cure,to heal,to fix,to correct,to repair",治愈,NO PICTURE,person_action_scene,action_state,person curing
+n2_04608,治める,おさめる,"(1) to govern,to manage,(2) to subdue",治理,NO PICTURE,person_action_scene,action_state,person governing
+n2_04609,泊める,とめる,"to give shelter to,to lodge",住宿,NO PICTURE,person_action_scene,action_state,person giving shelter to
+n2_04611,注す,さす,"to pour (drink),to serve (drinks)",注,NO PICTURE,person_action_scene,action_state,person pouring
+n2_04621,流行る,はやる,"to flourish,to thrive,to be popular,to come into fashion",流行,NO PICTURE,person_action_scene,action_state,person flourishing
+n2_04622,浮かべる,うかべる,"to float,to express,to look (sad, glad)",浮出,NO PICTURE,person_action_scene,action_state,person floating
+n2_04623,浮く,うく,"to float,to become merry,to become loose",浮,NO PICTURE,person_action_scene,action_state,person floating
+n2_04624,浮ぶ,うかぶ,"to float,to rise to surface,to come to mind",浮,NO PICTURE,person_action_scene,action_state,person floating
+n2_04628,浸ける,つける,"to dip in,to soak",浸泡,NO PICTURE,person_action_scene,action_state,person dipping in
+n2_04635,涼む,すずむ,"to cool oneself,to cool off,to enjoy evening cool",降温；消暑；享受凉爽,NO PICTURE,person_action_scene,action_state,person cooling oneself
+n2_04637,深まる,ふかまる,"to deepen,to heighten,to intensify",加深,NO PICTURE,person_action_scene,action_state,person deepenning
+n2_04639,混ざる,まざる,"to be mixed,to be blended with,to associate with,to mingle with,to join",混合,NO PICTURE,person_action_scene,action_state,person being mixed
+n2_04640,混じる,まじる,"to be mixed,to be blended with,to associate with",混合,NO PICTURE,person_action_scene,action_state,person being mixed
+n2_04641,混ぜる,まぜる,"to mix,to stir",混合；搅拌,NO PICTURE,person_action_scene,action_state,person mixxing
+n2_04644,清む,すむ,"to become clear (water, air, etc.) | to become transparent | to resonate clearly (e.g. voice)",清澈,NO PICTURE,person_action_scene,action_state,person becoming clear (water
+n2_04646,清書,せいしょ,clean copy,清书,NO PICTURE,person_action_scene,action_state,person cleaning copy
+n2_04647,渇く,かわく,to be thirsty,口渴,NO PICTURE,person_action_scene,action_state,person being thirsty
+n2_04651,測る,はかる,"to measure,to weigh,to survey",测量、称重、调查,NO PICTURE,person_action_scene,action_state,person measuring
+n2_04654,湧く,わく,"to boil,to grow hot,to get excited,to gush forth",涌出；沸腾；激动；涌现,NO PICTURE,person_action_scene,action_state,person boiling
+n2_04657,湿る,しめる,"to be wet,to become wet,to be damp",潮湿,NO PICTURE,person_action_scene,action_state,person being wet
+n2_04662,溜まる,たまる,"to collect,to gather,to save",积攒、堆积,NO PICTURE,person_action_scene,action_state,person collecting
+n2_04663,溜める,ためる,"to amass,to accumulate",积攒,NO PICTURE,person_action_scene,action_state,person amassing
+n2_04665,溶かす,とかす,"to melt,to dissolve",融化,NO PICTURE,person_action_scene,action_state,person melting
+n2_04666,溶く,とく,to dissolve (paint),溶解,NO PICTURE,person_action_scene,action_state,person dissolving
+n2_04667,溶ける,とける,"to melt,to thaw,to fuse,to dissolve",融化,NO PICTURE,person_action_scene,action_state,person melting
+n2_04668,溶け込む,とけこむ,to melt into,融入,NO PICTURE,person_action_scene,action_state,person melting into
+n2_04677,潜る,もぐる,"(1) to drive,to pass through,(2) to evade,to hide,(3) to dive (into or under water),to go undergroun",潜入；躲避；潜水,NO PICTURE,person_action_scene,action_state,person driving
+n2_04678,潰す,つぶす,"to smash,to waste",粉碎,NO PICTURE,person_action_scene,action_state,person smashing
+n2_04679,潰れる,つぶれる,"to be smashed,to go bankrupt",崩溃；破产,NO PICTURE,person_action_scene,action_state,person being smashed
+n2_04680,澄む,すむ,"to clear (e.g. weather),to become transparent",清澈,NO PICTURE,person_action_scene,action_state,person clearing
+n2_04682,濁る,にごる,"to become muddy,to get impure",浑浊,NO PICTURE,person_action_scene,action_state,person becoming muddy
+n2_04684,濡らす,ぬらす,"to wet,to soak,to dip",湿润,NO PICTURE,person_action_scene,action_state,person wetting
+n2_04693,炊く,たく,"to boil,to cook",煮；烹饪,NO PICTURE,person_action_scene,action_state,person boiling
+n2_04695,炒る,いる,to roast | to parch | to toast,烘烤,NO PICTURE,person_action_scene,action_state,person roasting
+n2_04698,点く,つく,"to catch fire,(electricity) comes on",点亮；点燃；通电,NO PICTURE,person_action_scene,action_state,person catching fire
+n2_04699,点ける,つける,"to turn on,to switch on,to light up",打开电器,NO PICTURE,person_action_scene,action_state,person turning on
+n2_04701,為す,なす,"to accomplish,to do",做,NO PICTURE,person_action_scene,action_state,person accomplishing
+n2_04703,焚く,たく,"to burn,to kindle,to build a fire",生火、焚烧,NO PICTURE,person_action_scene,action_state,person burning
+n2_04708,焦がす,こがす,"to burn,to scorch,to singe,to char",烤焦、烧焦,NO PICTURE,person_action_scene,action_state,person burning
+n2_04709,焦げる,こげる,"to burn,to be burned",烤焦、烧焦,NO PICTURE,person_action_scene,action_state,person burning
+n2_04712,煎る,いる,"to parch,to fry",煎烤,NO PICTURE,person_action_scene,action_state,person parching
+n2_04715,照らす,てらす,"to shine on,to illuminate",照亮；照射,NO PICTURE,person_action_scene,action_state,person shining on
+n2_04716,照る,てる,to shine,发光,NO PICTURE,person_action_scene,action_state,person shining
+n2_04717,煮える,にえる,"to boil,to cook,to be cooked",煮熟,NO PICTURE,person_action_scene,action_state,person boiling
+n2_04718,煮る,にる,"to boil,to cook",煮,NO PICTURE,person_action_scene,action_state,person boiling
+n2_04720,熱する,ねっする,to heat,加热,NO PICTURE,person_action_scene,action_state,person heating
+n2_04721,燃やす,もやす,to burn,使燃烧、点燃,NO PICTURE,person_action_scene,action_state,person burning
+n2_04724,片付く,かたづく,"to put in order,to dispose of,to solve",整理,NO PICTURE,person_action_scene,action_state,person putting in order
+n2_04726,片寄る,かたよる,"to be one-sided,to incline,to be partial",倾斜；偏重,NO PICTURE,person_action_scene,action_state,person being one-sided
+n2_04733,物語る,ものがたる,"to tell,to indicate",讲述,NO PICTURE,person_action_scene,action_state,person telling
+n2_04741,狙う,ねらう,to aim at,瞄准,NO PICTURE,person_action_scene,action_state,person aiming at
+n2_04751,甘やかす,あまやかす,"to pamper,to spoil",纵容,NO PICTURE,person_action_scene,action_state,person pamperring
+n2_04753,生える,はえる,"(1) to grow,to spring up,(2) to cut (teeth)",生长,NO PICTURE,person_action_scene,action_state,person growwing
+n2_04756,生ずる,しょうずる,"to cause,to arise,to be generated",产生,NO PICTURE,person_action_scene,action_state,person causing
+n2_04757,生る,なる,to bear fruit,结果,NO PICTURE,person_action_scene,action_state,person bearing fruit
+n2_04769,留まる,とどまる,"(1) to be fixed,(2) to abide,to stay (in the one place)",停止,NO PICTURE,person_action_scene,action_state,person being fixed
+n2_04771,略す,りゃくす,to abbreviate,简略,NO PICTURE,person_action_scene,action_state,person abbreviating
+n2_04773,畳む,たたむ,to fold (clothes),折叠,NO PICTURE,person_action_scene,action_state,person folding
+n2_04774,発つ,たつ,"to depart (on a plane, train, etc.)",出发,NO PICTURE,person_action_scene,action_state,person departing (on a plane
+n2_04788,盛る,もる,"(1) to serve (food, etc.),(2) to fill up,(3) to prescribe",上菜；填满；开方,NO PICTURE,person_action_scene,action_state,person serving (food
+n2_04793,目指す,めざす,"to aim at,to have an eye on",瞄准；瞄准目标；朝向,NO PICTURE,person_action_scene,action_state,person aiming at
+n2_04795,目立つ,めだつ,"to be conspicuous,to stand out",显眼,NO PICTURE,person_action_scene,action_state,person being conspicuous
+n2_04816,真似る,まねる,"to mimic,to imitate",模仿,NO PICTURE,person_action_scene,action_state,person mimiccing
+n2_04819,着ける,つける,"(1) to attach,to join,to add,to append",附加,NO PICTURE,person_action_scene,action_state,person attaching
+n2_04820,着せる,きせる,to put on clothes,给...穿,NO PICTURE,person_action_scene,action_state,person putting on clothes
+n2_04822,睨む,にらむ,"to glare at,to scowl at,to keep an eye on",瞪视；怒视；仔细观察,NO PICTURE,person_action_scene,action_state,person glaring at
+n2_04833,砕く,くだく,"to break,to smash",打碎、粉碎,NO PICTURE,person_action_scene,action_state,person breaking
+n2_04834,砕ける,くだける,"to break,to be broken",破碎、碎裂,NO PICTURE,person_action_scene,action_state,person breaking
+n2_04835,破く,やぶく,to tear | to rip,撕裂；撕开,NO PICTURE,person_action_scene,action_state,person tearing
+n2_04836,破れる,やぶれる,"to get torn,to wear out",撕裂,NO PICTURE,person_action_scene,action_state,person getting torn
+n2_04848,祭る,まつる,"to deify,to enshrine",崇拜；供奉；祈祷,NO PICTURE,person_action_scene,action_state,person deifying
+n2_04857,積む,つむ,"to pile up,to stack",堆积起来,NO PICTURE,person_action_scene,action_state,person piling up
+n2_04862,突き当たる,つきあたる,"to run into,to collide with",撞上,NO PICTURE,person_action_scene,action_state,person running into
+n2_04863,突く,つく,"(1) to thrust,to strike,(2) to poke",刺入,NO PICTURE,person_action_scene,action_state,person thrusting
+n2_04864,突っ込む,つっこむ,"to plunge into,to go into deeply",冲入,NO PICTURE,person_action_scene,action_state,person plunging into
+n2_04866,立ち止まる,たちどまる,"to stop,to halt,to stand still",停下、止步,NO PICTURE,person_action_scene,action_state,person stopping
+n2_04883,納める,おさめる,"to obtain,to reap,to pay,to supply,to accept",获得、收纳、支付,NO PICTURE,person_action_scene,action_state,person obtaining
+n2_04896,組み立てる,くみたてる,"to assemble,to set up,to construct",组装；搭建；构建,NO PICTURE,person_action_scene,action_state,person assembling
+n2_04899,絞る,しぼる,"to press,to wring,to squeeze",拧干；挤压；榨取,NO PICTURE,person_action_scene,action_state,person pressing
+n2_04910,締め切る,しめきる,to shut up,关闭；截止；封锁,NO PICTURE,person_action_scene,action_state,person shutting up
+n2_04912,編む,あむ,to knit,编织；编排；编辑,NO PICTURE,person_action_scene,action_state,person knitting
+n2_04917,縛る,しばる,"to tie,to bind",系、绑,NO PICTURE,person_action_scene,action_state,person tying
+n2_04919,縫う,ぬう,to sew,缝纫；缝补；穿行,NO PICTURE,person_action_scene,action_state,person sewwing
+n2_04920,縮む,ちぢむ,"to shrink,to be contracted",收缩,NO PICTURE,person_action_scene,action_state,person shrinking
+n2_04921,縮める,ちぢめる,"to shorten,to reduce,to boil down,to shrink",缩短,NO PICTURE,person_action_scene,action_state,person shortenning
+n2_04922,縮れる,ちぢれる,"to be wavy,to be curled",卷曲,NO PICTURE,person_action_scene,action_state,person being wavy
+n2_04925,繋がる,つながる,"to be tied together,to be connected to,to be related to",连接;关联,NO PICTURE,person_action_scene,action_state,person being tied together
+n2_04926,繋げる,つなげる,to connect,连接,NO PICTURE,person_action_scene,action_state,person connecting
+n2_04927,纏まる,まとまる,"to be collected,to be settled,to be in order",解决;完成;收集,NO PICTURE,person_action_scene,action_state,person being collected
+n2_04928,纏める,まとめる,"to put in order,to collect,to bring to a conclusion",汇总,NO PICTURE,person_action_scene,action_state,person putting in order
+n2_04934,羨む,うらやむ,to envy,嫉妒,NO PICTURE,person_action_scene,action_state,person envying
+n2_04937,耕す,たがやす,"to till,to plow,to cultivate",耕作,NO PICTURE,person_action_scene,action_state,person tilling
+n2_04944,背負う,せおう,"to be burdened with,to carry on back or shoulder",负担,NO PICTURE,person_action_scene,action_state,person being burdened with
+n2_04950,腰掛ける,こしかける,to sit (down),坐下,OK,person_action_scene,action_state,person sitting
+n2_04951,膨らます,ふくらます,"to swell,to expand,to inflate,to bulge",膨胀;充气,NO PICTURE,person_action_scene,action_state,person swelling
+n2_04952,膨らむ,ふくらむ,"to expand,to swell (out),to get big,to become inflated",膨胀,NO PICTURE,person_action_scene,action_state,person expanding
+n2_04971,茂る,しげる,"to grow thick,to luxuriate,to be luxurious",茂盛,NO PICTURE,person_action_scene,action_state,person growwing thick
+n2_04977,落着く,おちつく,"to calm down,to settle down",冷静下来,NO PICTURE,person_action_scene,action_state,person calming down
+n2_04979,著す,あらわす,"to write,to publish",著述、出版,NO PICTURE,person_action_scene,action_state,person writing
+n2_04981,蒔く,まく,to sow (seeds),播种,NO PICTURE,person_action_scene,action_state,person sowwing
+n2_04983,蒸す,むす,"to steam,to poultice,to be sultry",蒸,NO PICTURE,person_action_scene,action_state,person steaming
+n2_04986,蓄える,たくわえる,"to store,to lay in stock",储存,NO PICTURE,person_action_scene,action_state,person storing
+n2_04989,薄める,うすめる,"to dilute,to water down",稀释,NO PICTURE,person_action_scene,action_state,person diluting
+n2_04995,蘇る,よみがえる,"to be resurrected,to be revived,to be resuscitated,to be rehabilitated",复活,NO PICTURE,person_action_scene,action_state,person being resurrected
+n2_05008,被せる,かぶせる,to cover (with something),覆盖,NO PICTURE,person_action_scene,action_state,person coverring
+n2_05010,裂く,さく,"to tear,to split",撕裂,NO PICTURE,person_action_scene,action_state,person tearing
+n2_05012,裏返す,うらがえす,"to turn inside out,to turn (something) over",翻转；倒转,NO PICTURE,person_action_scene,action_state,person turning inside out
+n2_05013,補う,おぎなう,to compensate for,弥补,NO PICTURE,person_action_scene,action_state,person compensating for
+n2_05021,見下ろす,みおろす,"to overlook,to command a view of,to look down on something",俯视,NO PICTURE,person_action_scene,action_state,person overlooking
+n2_05022,見付かる,みつかる,"to be found,to be discovered",被找到、被发现,NO PICTURE,person_action_scene,action_state,person being found
+n2_05023,見付ける,みつける,"to be familiar,to discover,to detect",发现、找到,NO PICTURE,person_action_scene,action_state,person being familiar
+n2_05026,見慣れる,みなれる,"to become used to seeing,to be familiar with",变得熟悉,NO PICTURE,person_action_scene,action_state,person becoming used to seeing
+n2_05029,見直す,みなおす,"to look again,to get a better opinion of",重新审视,NO PICTURE,person_action_scene,action_state,person looking again
+n2_05030,見舞う,みまう,"to ask after (health),to visit",探望、慰问,NO PICTURE,person_action_scene,action_state,person asking after
+n2_05031,見送る,みおくる,"(1) to see off,to farewell,(2) to escort,(3) to let pass",送别,NO PICTURE,person_action_scene,action_state,person seeing off
+n2_05034,覗く,のぞく,"to peep in,to look in,to peek in,to stick out",偷看,NO PICTURE,person_action_scene,action_state,person peeping in
+n2_05044,言い付ける,いいつける,"to tell,to tell on (someone),to order",告诫,NO PICTURE,person_action_scene,action_state,person telling
+n2_05045,言い出す,いいだす,"to start talking,to speak,to tell,to propose,to suggest,to break the ice",开始说、提出,NO PICTURE,person_action_scene,action_state,person starting talking
+n2_05046,言付ける,ことづける,"to send word,to send a message",传达,NO PICTURE,person_action_scene,action_state,person sending word
+n2_05048,討つ,うつ,"to attack,to avenge",攻击,NO PICTURE,person_action_scene,action_state,person attacking
+n2_05050,訳す,やくす,to translate,翻译,NO PICTURE,person_action_scene,action_state,person translating
+n2_05051,診る,みる,to examine (medical),检查,NO PICTURE,person_action_scene,action_state,person examining
+n2_05054,詫びる,わびる,to apologize,道歉,NO PICTURE,person_action_scene,action_state,person apologizing
+n2_05055,詰まる,つまる,"to be blocked,to be packed",堵塞,NO PICTURE,person_action_scene,action_state,person being blocked
+n2_05056,話し掛ける,はなしかける,"to accost a person,to talk (to someone)",搭话,NO PICTURE,person_action_scene,action_state,person accosting a person
+n2_05059,誓う,ちかう,"to swear,to vow,to take an oath,to pledge",发誓,NO PICTURE,person_action_scene,action_state,person swearing
+n2_05065,請う,こう,"to ask,to request",请求、乞求,NO PICTURE,person_action_scene,action_state,person asking
+n2_05066,論ずる,ろんずる,"to argue,to discuss,to debate",讨论,NO PICTURE,person_action_scene,action_state,person arguing
+n2_05083,超える,こえる,"to exceed,to cross over,to cross",超过、过去,NO PICTURE,person_action_scene,action_state,person exceeding
+n2_05084,超す,こす,"to cross,to pass,to tide over",超越,NO PICTURE,person_action_scene,action_state,person crossing
+n2_05086,足る,たる,"to be sufficient,to be enough",足以,NO PICTURE,person_action_scene,action_state,person being sufficient
+n2_05089,跳ねる,はねる,"to jump,to leap",跳跃,NO PICTURE,person_action_scene,action_state,person jumping
+n2_05090,跳ぶ,とぶ,"to jump,to fly,to leap",跳跃,OK,person_action_scene,action_state,person jumping
+n2_05092,蹴る,ける,to kick,踢,NO PICTURE,person_action_scene,action_state,person kicking
+n2_05099,転がす,ころがす,to roll,滚动,NO PICTURE,person_action_scene,action_state,person rolling
+n2_05100,転がる,ころがる,"to roll,to tumble",滚动,NO PICTURE,person_action_scene,action_state,person rolling
+n2_05101,載せる,のせる,"to place on (something),to take on board,to give a ride",放上、载上,NO PICTURE,person_action_scene,action_state,person placing on
+n2_05102,載る,のる,"to appear (in print),to be recorded",载入,NO PICTURE,person_action_scene,action_state,person appearing
+n2_05109,近付ける,ちかづける,"to bring near,to put close,to let come near,to associate with",接近,NO PICTURE,person_action_scene,action_state,person bringing near
+n2_05110,近寄る,ちかよる,"to approach,to draw near",接近,NO PICTURE,person_action_scene,action_state,person approaching
+n2_05111,迫る,せまる,"to draw near,to press",逼近；逼迫,NO PICTURE,person_action_scene,action_state,person drawwing near
+n2_05114,追い掛ける,おいかける,"to chase or run after someone,to run down,to pursue",追赶、追逐,NO PICTURE,person_action_scene,action_state,person chasing or run after someone
+n2_05115,追い越す,おいこす,"to pass (e.g. car),to outdistance,to outstrip",超越,NO PICTURE,person_action_scene,action_state,person passing
+n2_05117,退く,どく,"(1) to retreat,to recede,to withdraw",后退、离开,NO PICTURE,person_action_scene,action_state,person retreating
+n2_05118,退ける,どける,"to remove,to take away,to dislodge,to put something out of the way",移开、挪开,NO PICTURE,person_action_scene,action_state,person removing
+n2_05123,逃がす,にがす,"to let loose,to set free,to let escape",释放,NO PICTURE,person_action_scene,action_state,person letting loose
+n2_05126,透き通る,すきとおる,to be(come) transparent,透明,NO PICTURE,person_action_scene,action_state,person being transparent
+n2_05128,這う,はう,"to creep,to crawl",爬行,NO PICTURE,person_action_scene,action_state,person creeping
+n2_05129,通ずる,つうずる,to be open (to traffic) | to lead (to) | to connect (to),连接;通达,NO PICTURE,person_action_scene,action_state,person being open
+n2_05130,通り掛かる,とおりかかる,to happen to pass by,碰巧路过,NO PICTURE,person_action_scene,action_state,person happenning to pass by
+n2_05131,通勤,つうきん,commuting to work,通勤,NO PICTURE,person_action_scene,action_state,person commutinging to work
+n2_05142,逸れる,それる,"to stray (turn) from subject,to get lost,to go astray",偏离、走偏,NO PICTURE,person_action_scene,action_state,person straying from subject
+n2_05151,遡る,さかのぼる,"to go back,to go upstream,to make retroactive",追溯、逆流而上,NO PICTURE,person_action_scene,action_state,person going back
+n2_05153,遭う,あう,"to meet,to encounter (undesirable nuance)",遭遇、碰上,NO PICTURE,person_action_scene,action_state,person meeting
+n2_05159,酌む,くむ,to serve sake,敬酒,NO PICTURE,person_action_scene,action_state,person serving sake
+n2_05160,配る,くばる,"to distribute,to deliver",分发,NO PICTURE,person_action_scene,action_state,person distributing
+n2_05168,重なる,かさなる,"to be piled up,lie on top of one another,overlap each other",重叠,NO PICTURE,person_action_scene,action_state,person being piled up
+n2_05169,重ねる,かさねる,"to pile up,to put something on another,to heap up,to add,to repeat",堆积起来,NO PICTURE,person_action_scene,action_state,person piling up
+n2_05175,量る,はかる,"to measure,to weigh,to survey",测量、称重、调查,NO PICTURE,person_action_scene,action_state,person measuring
+n2_05181,釣り合う,つりあう,"to balance,to be in harmony,to suit",平衡,NO PICTURE,person_action_scene,action_state,person balancing
+n2_05191,錆びる,さびる,"to rust,to become rusty",生锈,NO PICTURE,person_action_scene,action_state,person rusting
+n2_05196,長引く,ながびく,"to be prolonged,to drag on",拖延,NO PICTURE,person_action_scene,action_state,person being prolonged
+n2_05203,開放,かいほう,"open,throw open,liberalization",开放,NO PICTURE,person_action_scene,action_state,person openning
+n2_05217,隔てる,へだてる,to be shut out,隔开;隔离,NO PICTURE,person_action_scene,action_state,person being shut out
+n2_05235,静まる,しずまる,"to quieten down,to calm down,to subside",安静,NO PICTURE,person_action_scene,action_state,person quietenning down
+n2_05240,響く,ひびく,to resound,回响,NO PICTURE,person_action_scene,action_state,person resounding
+n2_05245,預かる,あずかる,"to keep in custody,to receive on deposit,to take charge of",保管、代管,NO PICTURE,person_action_scene,action_state,person keeping in custody
+n2_05254,飛び込む,とびこむ,"to jump in,to leap in,to plunge into,to dive",跳入、冲进,NO PICTURE,person_action_scene,action_state,person jumping in
+n2_05257,飢える,うえる,to starve,挨饿,NO PICTURE,person_action_scene,action_state,person starving
+n2_05259,飽くまで,あくまで,"to the end,to the last,stubbornly",始终,NO PICTURE,person_action_scene,action_state,person thing end
+n2_05267,驚かす,おどろかす,"to surprise,to frighten,to create a stir",惊吓,NO PICTURE,person_action_scene,action_state,person surprising
+n2_05268,高める,たかめる,"to raise,to lift,to boost",提高,NO PICTURE,person_action_scene,action_state,person raising
+n2_05274,鳴らす,ならす,"to ring,to sound,to chime,to beat,to snort (nose)",鸣响、弄响,NO PICTURE,person_action_scene,action_state,person ringing
+n2_03466,あいまい,あいまい,"vague,ambiguous",模糊,NO PICTURE,visual_state_scene,action_state,vague scene
+n2_03480,あわただしい,あわただしい,"busy,hurried,confused,flurried",忙碌,NO PICTURE,visual_state_scene,action_state,busy scene
+n2_03491,おおざっぱ,おおざっぱ,"rough (not precise),broad,sketchy",粗略,NO PICTURE,visual_state_scene,action_state,rough scene
+n2_03501,おとなしい,おとなしい,"obedient,docile,quiet",安静,NO PICTURE,visual_state_scene,action_state,obedient scene
+n2_03508,おめでたい,おめでたい,"happy event,matter for congratulation,auspicious event,pregnancy",值得祝贺的,NO PICTURE,visual_state_scene,action_state,happy event scene
+n2_03518,かゆい,かゆい / かいい,"itchy,itching",痒,NO PICTURE,visual_state_scene,action_state,itchy scene
+n2_03526,くだらない,くだらない / くっだらない / くっだらねー,"good-for-nothing,stupid,trivial,worthless",无聊的,NO PICTURE,visual_state_scene,action_state,good-for-nothing scene
+n2_03529,くどい,くどい / クドい,"verbose,importunate,heavy (taste)",啰嗦的,NO PICTURE,visual_state_scene,action_state,verbose scene
+n2_03542,ごくろうさま,ごくろうさま / ごくろーさま,Thank you very much for your....,辛苦了,NO PICTURE,visual_state_scene,action_state,Thank you very much for your.... scene
+n2_03548,さわやか,さわやか,"fresh,refreshing,invigorating",清新、清爽,NO PICTURE,visual_state_scene,action_state,fresh scene
+n2_03552,しつこい,しつこい / しつっこい,"insistent,obstinate",固执的,NO PICTURE,visual_state_scene,action_state,insistent scene
+n2_03563,すっぱい,すっぱい,"sour,acid",酸的,NO PICTURE,visual_state_scene,action_state,sour scene
+n2_03564,すまない,すまない,sorry (phrase),抱歉的,NO PICTURE,visual_state_scene,action_state,sorry scene
+n2_03566,ずうずうしい,ずうずうしい / ずーずーしい,"impudent,shameless",无礼的,NO PICTURE,visual_state_scene,action_state,impudent scene
+n2_03572,そそっかしい,そそっかしい,"careless,thoughtless",粗心的,NO PICTURE,visual_state_scene,action_state,careless scene
+n2_03581,だらしない,だらしない,"slovenly,loose,a slut",邋遢,NO PICTURE,visual_state_scene,action_state,slovenly scene
+n2_03585,でたらめ,でたらめ / デタラメ,"(1) irresponsible utterance,nonsense,nonsensical,(2) random",胡说八道,NO PICTURE,visual_state_scene,action_state,irresponsible utterance scene
+n2_03603,ばからしい,ばからしい / バカらしい,absurd,荒唐,NO PICTURE,visual_state_scene,action_state,absurd scene
+n2_03623,まぶしい,まぶしい / まぼしい,"dazzling,radiant",耀眼,NO PICTURE,visual_state_scene,action_state,dazzling scene
+n2_03625,みじめ,みじめ,"(arch) sad,pitiful,wretched",凄惨,NO PICTURE,visual_state_scene,action_state,sad scene
+n2_03626,みっともない,みっともない,"shameful,indecent",下流,NO PICTURE,visual_state_scene,action_state,shameful scene
+n2_03627,めちゃくちゃ,めちゃくちゃ / メチャクチャ / めっちゃくちゃ,"absurd,unreasonable,excessive,messed up,spoiled,wreaked",荒唐,NO PICTURE,visual_state_scene,action_state,absurd scene
+n2_03629,めでたい,めでたい,"happy,simple soul,propitious,joyous",喜庆,NO PICTURE,visual_state_scene,action_state,happy scene
+n2_03634,もったいない,もったいない,"too good,more than one deserves,wasteful,sacrilegious,unworthy of",浪费；太好了,NO PICTURE,visual_state_scene,action_state,too good scene
+n2_03635,やかましい,やかましい,"(1) noisy,(2) strict,fussy",吵闹；挑剔,NO PICTURE,visual_state_scene,action_state,noisy scene
+n2_03639,やむをえない,やむをえない,"cannot be helped,unavoidable",不可避免,NO PICTURE,visual_state_scene,action_state,cannot be helped scene
+n2_03646,イコール,イコール,equal,相等,NO PICTURE,visual_state_scene,action_state,equal scene
+n2_03695,スマート,スマート,"smart,stylish,slim",时尚的；苗条,NO PICTURE,visual_state_scene,action_state,smart scene
+n2_03751,モダン,モダン / モダーン,modern,现代的,NO PICTURE,visual_state_scene,action_state,modern scene
+n2_03790,下品,げひん,"vulgarity,meanness,indecency,coarseness",低俗的；粗俗的,NO PICTURE,visual_state_scene,action_state,vulgarity scene
+n2_03799,不潔,ふけつ,"unclean,dirty,filthy,impure",脏的,NO PICTURE,visual_state_scene,action_state,unclean scene
+n2_03800,不規則,ふきそく,"irregularity,unsteadiness,disorderly",不规则的,NO PICTURE,visual_state_scene,action_state,irregularity scene
+n2_03802,不運,ふうん,"unlucky,misfortune,bad luck,fate",不幸,NO PICTURE,visual_state_scene,action_state,unlucky scene
+n2_03877,余計,よけい,"too much,unnecessary,abundance,surplus,excess,superfluity",多余的；过多的,NO PICTURE,visual_state_scene,action_state,too much scene
+n2_03898,偉い,えらい,"great,celebrated,eminent,terrible,awful,famous,remarkable,excellent",伟大、了不起,NO PICTURE,visual_state_scene,action_state,great scene
+n2_03903,傑作,けっさく,"masterpiece,best work,boner,blunder",杰作,NO PICTURE,visual_state_scene,action_state,masterpiece scene
+n2_03930,公正,こうせい,"justice,fairness,impartiality",公正的,NO PICTURE,visual_state_scene,action_state,justice scene
+n2_03938,円い,まるい,"round,circular,spherical",圆形、圆形、球形,NO PICTURE,visual_state_scene,action_state,round scene
+n2_03998,力強い,ちからづよい,"reassuring,emboldened",强有力的,NO PICTURE,visual_state_scene,action_state,reassuring scene
+n2_04007,勇ましい,いさましい,"brave,valiant,gallant,courageous",勇敢的,NO PICTURE,visual_state_scene,action_state,brave scene
+n2_04024,卑怯,ひきょう,"cowardice,meanness,unfairness",怯懦的,NO PICTURE,visual_state_scene,action_state,cowardice scene
+n2_04025,卒直,そっちょく,"frankness,candour,openheartedness",直率的,NO PICTURE,visual_state_scene,action_state,frankness scene
+n2_04031,危うい,あやうい,"dangerous,critical,grave",危险的,NO PICTURE,visual_state_scene,action_state,dangerous scene
+n2_04034,厚かましい,あつかましい,"impudent,shameless,brazen",厚颜,NO PICTURE,visual_state_scene,action_state,impudent scene
+n2_04040,厳重,げんじゅう,"strict,rigour,severe,firm",严格、严密,NO PICTURE,visual_state_scene,action_state,strict scene
+n2_04081,呑気,のんき,"carefree,optimistic,careless,reckless,heedless",轻松,NO PICTURE,visual_state_scene,action_state,carefree scene
+n2_04106,四角い,しかくい,square,四角,NO PICTURE,visual_state_scene,action_state,square scene
+n2_04117,固い,かたい,"stubborn,firm (not viscous or easily moved)",固执的,NO PICTURE,visual_state_scene,action_state,stubborn scene
+n2_04128,地味,じみ,"plain,simple",朴素、低调,NO PICTURE,visual_state_scene,action_state,plain scene
+n2_04145,堅い,かたい,"hard (esp. wood),steadfast,honorable,stuffy writing",坚硬的,NO PICTURE,visual_state_scene,action_state,hard scene
+n2_04149,塩辛い,しおからい,salty (taste),咸的,NO PICTURE,visual_state_scene,action_state,salty scene
+n2_04209,安易,あんい,easy-going,轻松,NO PICTURE,visual_state_scene,action_state,easy-going scene
+n2_04276,平凡,へいぼん,"common,commonplace,ordinary,mediocre",普通,NO PICTURE,visual_state_scene,action_state,common scene
+n2_04278,平気,へいき,"coolness,calmness,composure,unconcern",冷静,NO PICTURE,visual_state_scene,action_state,coolness scene
+n2_04282,幼稚,ようち,"infancy,childish,infantile",幼稚,NO PICTURE,visual_state_scene,action_state,infancy scene
+n2_04315,強引,ごういん,"overbearing,coercive,pushy,forcible,high-handed",强硬,NO PICTURE,visual_state_scene,action_state,overbearing scene
+n2_04353,思い掛けない,おもいがけない,"unexpected,casual",意外,NO PICTURE,visual_state_scene,action_state,unexpected scene
+n2_04359,怪しい,あやしい,"suspicious,dubious,doubtful",可疑,NO PICTURE,visual_state_scene,action_state,suspicious scene
+n2_04360,恋しい,こいしい,"(1) dear,beloved,darling,(2) yearned for",想念,NO PICTURE,visual_state_scene,action_state,dear scene
+n2_04366,悔しい,くやしい,"regrettable,mortifying,vexing",懊恼,NO PICTURE,visual_state_scene,action_state,regrettable scene
+n2_04369,惜しい,おしい,"regrettable,disappointing,precious",可惜,NO PICTURE,visual_state_scene,action_state,regrettable scene
+n2_04370,意地悪,いじわる,"malicious,ill-tempered,unkind",恶意,NO PICTURE,visual_state_scene,action_state,malicious scene
+n2_04378,憎い,にくい,"hateful,abominable,poor-looking,detestable",令人憎恶的,NO PICTURE,visual_state_scene,action_state,hateful scene
+n2_04380,憎らしい,にくらしい,"odious,hateful",令人憎恶的,NO PICTURE,visual_state_scene,action_state,odious scene
+n2_04382,懐かしい,なつかしい,"dear,desired,missed",令人怀念的,NO PICTURE,visual_state_scene,action_state,dear scene
+n2_04396,手頃,てごろ,"moderate,handy",方便的,NO PICTURE,visual_state_scene,action_state,moderate scene
+n2_04524,有難い,ありがたい,"grateful,thankful,welcome,appreciated,evoking gratitude",感激的,NO PICTURE,visual_state_scene,action_state,grateful scene
+n2_04525,朗らか,ほがらか,"brightness,cheerfulness,melodious",开朗的,NO PICTURE,visual_state_scene,action_state,brightness scene
+n2_04567,欲張り,よくばり,"avarice,covetousness,greed",贪婪的,NO PICTURE,visual_state_scene,action_state,avarice scene
+n2_04602,永い,ながい,"long,lengthy",长的,NO PICTURE,visual_state_scene,action_state,long scene
+n2_04613,洒落,しゃれ,"joke,pun,witticism",洒脱的,NO PICTURE,visual_state_scene,action_state,joke scene
+n2_04618,派手,はで,"showy,loud,gay,flashy,gaudy",华丽的,NO PICTURE,visual_state_scene,action_state,showy scene
+n2_04630,消極的,しょうきょくてき,passive,消极的,NO PICTURE,visual_state_scene,action_state,passive scene
+n2_04643,清い,きよい,"clear,pure,noble",清澈;纯洁,NO PICTURE,visual_state_scene,action_state,clear scene
+n2_04713,煙い,けむい,smoky,烟雾,NO PICTURE,visual_state_scene,action_state,smoky scene
+n2_04730,物凄い,ものすごい,"earth-shattering,staggering,to a very great extent",惊人,NO PICTURE,visual_state_scene,action_state,earth-shattering scene
+n2_04734,物騒,ぶっそう,"dangerous,disturbed,insecure",危险的,NO PICTURE,visual_state_scene,action_state,dangerous scene
+n2_04742,狡い,ずるい,"sly,cunning",狡猾,NO PICTURE,visual_state_scene,action_state,sly scene
+n2_04752,甚だしい,はなはだしい,"extreme,excessive,terrible",极端,NO PICTURE,visual_state_scene,action_state,extreme scene
+n2_04760,生意気,なまいき,"impertinent,saucy,cheeky,conceit,audacious,brazen",无礼,NO PICTURE,visual_state_scene,action_state,impertinent scene
+n2_04767,申し訳ない,もうしわけない,inexcusable,抱歉,NO PICTURE,visual_state_scene,action_state,inexcusable scene
+n2_04782,的確,てきかく,"precise,accurate",准确,NO PICTURE,visual_state_scene,action_state,precise scene
+n2_04812,真っ暗,まっくら,"total darkness,shortsightedness,pitch dark",漆黑,NO PICTURE,visual_state_scene,action_state,total darkness scene
+n2_04854,稀,まれ,"rare,seldom",罕见,NO PICTURE,visual_state_scene,action_state,rare scene
+n2_04879,粗い,あらい,"coarse,rough",粗糙,NO PICTURE,visual_state_scene,action_state,coarse scene
+n2_04884,純情,じゅんじょう,"pure heart,naivete,self-sacrificing devotion",纯情、天真,NO PICTURE,visual_state_scene,action_state,pure heart scene
+n2_04889,素直,すなお,"obedient,meek,docile,unaffected",坦率、顺从,NO PICTURE,visual_state_scene,action_state,obedient scene
+n2_04915,緩い,ゆるい,"loose,lenient,slow",宽松、缓慢,NO PICTURE,visual_state_scene,action_state,loose scene
+n2_04933,羨ましい,うらやましい,"envious,enviable",羡慕、令人羡慕,NO PICTURE,visual_state_scene,action_state,envious scene
+n2_04966,若々しい,わかわかしい,"youthful,young",年轻的,NO PICTURE,visual_state_scene,action_state,youthful scene
+n2_04973,茶色い,ちゃいろい,light brown | tawny,茶色、浅褐色,NO PICTURE,visual_state_scene,action_state,light brown scene
+n2_04975,荒い,あらい,"rough,rude,wild",粗暴、粗糙,NO PICTURE,visual_state_scene,action_state,rough scene
+n2_04982,蒸し暑い,むしあつい,"humid,sultry",闷热,NO PICTURE,visual_state_scene,action_state,humid scene
+n2_04990,薄暗い,うすぐらい,"dim,gloomy",阴暗、郁闷,NO PICTURE,visual_state_scene,action_state,dim scene
+n2_05068,謙虚,けんきょ,"modesty,humility",谦虚,NO PICTURE,visual_state_scene,action_state,modesty scene
+n2_05097,軟らかい,やわらかい,"soft,tender,limp",柔软,NO PICTURE,visual_state_scene,action_state,soft scene
+n2_05145,過剰,かじょう,"excess,over-",过剩、过量,NO PICTURE,visual_state_scene,action_state,excess scene
+n2_05152,適確,てきかく,"precise,accurate",准确、恰当,NO PICTURE,visual_state_scene,action_state,precise scene
+n2_05165,醜い,みにくい,ugly,丑陋、难看,NO PICTURE,visual_state_scene,action_state,ugly scene
+n2_05167,重たい,おもたい,"heavy,massive,serious",重的、严重,NO PICTURE,visual_state_scene,action_state,heavy scene
+n2_05182,鈍い,にぶい,"dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid",迟钝、缓慢,NO PICTURE,visual_state_scene,action_state,dull scene
+n2_05214,険しい,けわしい,"inaccessible place,sharp eyes",险峻、陡峭,NO PICTURE,visual_state_scene,action_state,inaccessible place scene
+n2_05230,電波,でんぱ,electro-magnetic wave,电波、信号,NO PICTURE,visual_state_scene,action_state,electro-magnetic wave scene
+n2_05234,青白い,あおじろい,"pale,pallid",苍白、青白,NO PICTURE,visual_state_scene,action_state,pale scene
+n2_05236,面倒臭い,めんどうくさい,"bother to do,tiresome",麻烦、厌烦,NO PICTURE,visual_state_scene,action_state,bother to do scene
+n2_05249,頼もしい,たのもしい,"reliable,trustworthy,hopeful,promising",可靠、值得信赖,NO PICTURE,visual_state_scene,action_state,reliable scene
+n2_05265,騒々しい,そうぞうしい,"noisy,boisterous",吵闹、喧闹,NO PICTURE,visual_state_scene,action_state,noisy scene
+n2_05266,騒がしい,さわがしい,noisy,吵闹、嘈杂,NO PICTURE,visual_state_scene,action_state,noisy scene

@@ -1,0 +1,35 @@
+{
+  "total_words": 8364,
+  "candidate_words": 2540,
+  "review_words": 4431,
+  "by_status": {
+    "scene_image": 2045,
+    "skip": 1393,
+    "review": 4431,
+    "direct_image": 495
+  },
+  "candidates_by_level": {
+    "N5": 307,
+    "N4": 270,
+    "N3": 449,
+    "N2": 606,
+    "N1": 908
+  },
+  "candidates_by_domain": {
+    "animal": 18,
+    "body_health": 51,
+    "clothing": 20,
+    "food_drink": 57,
+    "nature_weather": 52,
+    "object_tool": 78,
+    "person_family": 81,
+    "place_building": 105,
+    "transport": 23,
+    "action_state": 2045,
+    "color_shape": 10
+  },
+  "sources": [
+    "Tanos JLPT vocabulary Anki decks",
+    "JMdict_e.gz for POS/gloss enrichment"
+  ]
+}

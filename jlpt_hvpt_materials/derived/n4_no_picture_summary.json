@@ -1,0 +1,10 @@
+{
+  "input": "D:\\codex-2\\jlpt_hvpt_materials\\derived\\jlpt_vocab_imageable_candidates.csv",
+  "dry_run": false,
+  "n4_total": 270,
+  "preserved_existing_review": 142,
+  "new_no_picture_marks": 0,
+  "n4_generation_candidates": 129,
+  "updated_input": false,
+  "backup": ""
+}

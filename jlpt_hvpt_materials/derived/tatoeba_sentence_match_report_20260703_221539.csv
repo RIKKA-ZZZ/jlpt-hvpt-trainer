@@ -1,0 +1,37 @@
+﻿row,id,level,word,reading,matchedTerm,sentenceId,sentenceJa,sentenceEn,sentenceZh,authorJa,authorEn,authorZh,score,status
+66,n5_07923,N5,交番,こうばん,交番,80229,迷子の子が交番でしくしく泣いていた。,A lost child was sobbing at the police box.,,small_snow,CM,,98,matched
+67,n5_07948,N5,傘,かさ,傘,11839708,傘を誰に貸したのか思い出せないんだ。,I can't recall who I lent my umbrella to.,,bunbuku,Lumi_alt,,96,matched
+68,n5_07980,N5,切符,きっぷ,切符,10290460,この切符は10月20日まで有効です。,The ticket is valid until October twentieth.,,small_snow,CK,,98,matched
+69,n5_08024,N5,地図,ちず,地図,224475,ここにドイツの大きな地図があります。,Here's a big map of Germany.,這兒有張很大的德國地圖。,arnab,CK,DaoSeng,130,matched
+70,n5_08103,N5,手紙,てがみ,手紙,12029946,フィンランドの友達から手紙が来たの。,I got a letter from a Finnish friend.,,small_snow,Winter,,98,matched
+71,n5_08115,N5,新聞,しんぶん,新聞,11065810,今日の新聞のナンプレ、めちゃむずっ。,The sudoku in today's paper is very difficult.,,small_snow,sundown,,98,matched
+72,n5_08131,N5,時計,とけい,時計,12693634,彼は父親の腕時計を紛失してしまった。,He has lost his father's watch.,,bunbuku,Zifre,,98,matched
+73,n5_08152,N5,本,ほん,本,13266217,トムさんは日本の会社で働いています。,Tom works for a Japanese company.,,chaarii_jpn,Hybrid,,96,matched
+74,n5_08154,N5,机,つくえ,机,686307,ダンスに関する本が机の上にあります。,There is a book about dancing on the desk.,桌子上有一本关于舞蹈的书。,arihato,Zifre,sadhen,128,matched
+75,n5_08238,N5,箱,はこ,箱,12609829,この箱、すごく重いな。中身は何なの？,This box is really heavy. What's in it?,,bunbuku,CK,,96,matched
+76,n5_08240,N5,紙,かみ,紙,12630133,こちらの用紙にご記入いただけますか？,"Will you fill out this form, please?",,bunbuku,CK,,96,matched
+77,n5_08262,N5,花瓶,かびん,花瓶,10656714,あの割れた花瓶は祖父のものなんです。,That broken vase is my grandfather's.,,bunbuku,CK,,98,matched
+78,n5_08267,N5,葉書,はがき,葉書,78127,旅行中に葉書を出すのは好きではない。,I don't like to send postcards when I'm on a trip.,,mookeee,CK,,98,matched
+79,n5_08317,N5,鉛筆,えんぴつ,鉛筆,11286151,この鉛筆の先ちびてる。鉛筆削りある？,This pencil is blunt. Have you got a sharpener?,,small_snow,sundown,,98,matched
+80,n5_08329,N5,雑誌,ざっし,雑誌,10659549,あの記事、旅行雑誌に採用されたんだ。,I had the article accepted by a travel magazine.,,bunbuku,CK,,98,matched
+81,n5_08335,N5,電話,でんわ,電話,13624409,友達にハルキウから電話をかけてます。,I'm calling my friend from Kharkiv.,,small_snow,Teashrock,,98,matched
+82,n5_07726,N5,おばあさん,おばあさん / おばーさん,おばあさん,87183,彼女は彼女のおばあさんに育てられた。,She was brought up by her grandmother.,她是由她的祖母带大的。,JGGG,furagwa,fucongcong,136,matched
+83,n5_07729,N5,お兄さん,おにいさん,お兄さん,11029677,トムにお兄さんがいたって、知ってた？,Didn't you know Tom had a brother?,,small_snow,CK,,102,matched
+84,n5_07730,N5,お姉さん,おねえさん,お姉さん,11853539,あちらはトムの義理のお姉さんですよ。,That's Tom's step-sister.,,bunbuku,CK,,102,matched
+85,n5_07734,N5,お父さん,おとうさん,お父さん,11706860,お父さんは、バスの運転手さんなのよ。,His father is a bus driver.,,small_snow,Amastan,,102,matched
+86,n5_07883,N5,一人,ひとり,一人,11465053,トムは一人で留守番をしたくなかった。,Tom didn't want to stay at home by himself.,,small_snow,CK,,98,matched
+87,n5_07915,N5,二人,ふたり,二人,11609706,私、結婚してて、二人の子持ちなのよ。,I am married and have two children.,,small_snow,brauliobezerra,,98,matched
+88,n5_07951,N5,兄,あに,兄,12954902,兄は、ヘブライ語の教師をしています。,My brother is a Hebrew teacher.,,small_snow,shekitten,,96,matched
+89,n5_07988,N5,医者,いしゃ,医者,11570857,今、お医者さんが診てくださってるわ。,The doctor is examining him right now.,,small_snow,Hybrid,,98,matched
+90,n5_08001,N5,友達,ともだち,友達,13624409,友達にハルキウから電話をかけてます。,I'm calling my friend from Kharkiv.,,small_snow,Teashrock,,98,matched
+91,n5_08048,N5,奥さん,おくさん,奥さん,10081829,彼の奥さん、カルフォルニア出身なの。,His wife comes from California.,,small_snow,CK,,100,matched
+92,n5_08050,N5,女の子,おんなのこ,女の子,12734068,トムと話してる女の子はメアリーだよ。,The girl who's talking with Tom is Mary.,,bunbuku,CK,,100,matched
+93,n5_08052,N5,妹,いもうと,妹,3576086,今ちょうど、妹とお昼を食べてるとこ。,I'm having lunch with my sister right now.,現在正和妹妹吃午飯中。,arnab,CM,wangchou,128,matched
+94,n5_08053,N5,姉,あね,姉,11853539,あちらはトムの義理のお姉さんですよ。,That's Tom's step-sister.,,bunbuku,CK,,96,matched
+95,n5_08057,N5,子供,こども,子供,12934038,通りで子供たちがサッカーをしている。,Children are playing football in the street.,,small_snow,sundown,,98,matched
+96,n5_08060,N5,学生,がくせい,学生,13715791,僕も学生の時はよく就業をサボったよ。,"When I was a student, I also often cut classes.",,GreySquirrel,GreySquirrel,,98,matched
+97,n5_08064,N5,家族,かぞく,家族,11571049,自分の人生より、家族の方が大切なの。,My family means more to me than my life does.,,small_snow,megamanenm,,98,matched
+98,n5_08088,N5,弟,おとうと,弟,12142851,あいつの弟は、テレビばっかり見てる。,His brother watches TV all the time.,,small_snow,AlanF_US,,96,matched
+99,n5_08211,N5,男の子,おとこのこ,男の子,12526669,男の子はカエルに石を投げつけました。,The boy threw a stone at the frog.,,bunbuku,CK,,100,matched
+100,n5_08213,N5,留学生,りゅうがくせい,留学生,184748,外国人留学生は私たちに援助を求めた。,Foreign students demanded help from us.,,\N,shekitten,,100,matched
+101,n5_07850,N5,デパート,デパート,デパート,11841667,この通りに、デパートってありますか？,Is there a department store on this street?,,small_snow,ddnktr,,102,matched

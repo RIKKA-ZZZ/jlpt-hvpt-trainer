@@ -1,0 +1,271 @@
+﻿id,word,reading,meaning,image_review
+n4_07364,小鳥,ことり,small bird,NO PICTURE
+n4_07604,虫,むし,insect,OK
+n4_07592,背中,せなか,back of the body,OK
+n4_07671,部長,ぶちょう,head of a section,NO PICTURE
+n4_07382,形,かたち,shape,NO PICTURE
+n4_07195,ケーキ,ケーキ,cake,OK
+n4_07481,水道,すいどう,water supply,NO PICTURE
+n4_07504,湯,ゆ,hot water,OK
+n4_07573,米,こめ,uncooked rice,OK
+n4_07691,食事,しょくじ・する,to have a meal,OK
+n4_07147,つき,つくえ / つき,moon,OK
+n4_07322,地震,じしん,earthquake,OK
+n4_07341,天気予報,てんきよほう,weather forecast,OK
+n4_07444,星,ほし,star,OK
+n4_07509,火,ひ,fire,OK
+n4_07510,火事,かじ,fire,OK
+n4_07685,雲,くも,cloud,OK
+n4_07194,ガラス,ガラス,a glass pane,OK
+n4_07213,パソコン,パソコン,personal computer,OK
+n4_07438,新聞社,しんぶんしゃ,newspaper company,OK
+n4_07340,大学生,だいがくせい,university student,OK
+n4_07343,夫,おっと,husband,NO PICTURE
+n4_07346,妻,つま,(humble) wife,NO PICTURE
+n4_07387,御主人,ごしゅじん,(honorable) your husband,NO PICTURE
+n4_07560,祖母,そぼ,grandmother,NO PICTURE
+n4_07561,祖父,そふ,grandfather,NO PICTURE
+n4_07699,高校生,こうこうせい,high school student,OK
+n4_07193,ガソリンスタンド,ガソリンスタンド / ガソリン・スタンド,petrol station,OK
+n4_07215,ビル,ビル,building or bill,OK
+n4_07237,中学校,ちゅうがっこう,"junior high school,middle school",OK
+n4_07245,事務所,じむしょ,office,OK
+n4_07261,会場,かいじょう,assembly hall or meeting place,OK
+n4_07264,会議室,かいぎしつ,meeting room,NO PICTURE
+n4_07277,入学,にゅうがく・する,to enter school or university,NO PICTURE
+n4_07332,売り場,うりば,place where things are sold,NO PICTURE
+n4_07362,小学校,しょうがっこう,elementary school,OK
+n4_07369,工場,こうじょう,factory,OK
+n4_07377,店員,てんいん,shop assistant,OK
+n4_07439,旅館,りょかん,Japanese hotel,OK
+n4_07555,研究室,けんきゅうしつ,"study room,laboratory",OK
+n4_07567,空港,くうこう,airport,OK
+n4_07649,退院,たいいん・する,to leave hospital,NO PICTURE
+n4_07690,飛行場,ひこうじょう,airport,NO PICTURE
+n4_07698,高校,こうこう,high school,OK
+n4_07700,高等学校,こうとうがっこう,high school,OK
+n4_07240,乗り物,のりもの,vehicle,NO PICTURE
+n4_07486,汽車,きしゃ,steam train,OK
+n4_07521,特急,とっきゅう,limited express train (faster than an express train),OK
+n4_07597,舟,ふね,ship,OK
+n4_07197,コンピュータ/コンピューター,,computer,NO PICTURE
+n4_07093,お・金持ち,かねもち/おかねもち,rich man,OK
+n4_07075,あげる,あげる / アゲる,to give,NO PICTURE
+n4_07077,いじめる,いじめる / イジメる / イジめる,to tease,NO PICTURE
+n4_07078,いただく,いただく,(humble) to receive,NO PICTURE
+n4_07081,うかがう,うかがう,to visit,NO PICTURE
+n4_07087,おいでになる,おいでになる,(respectful) to be,NO PICTURE
+n4_07090,おっしゃる,おっしゃる,(respectful) to say,NO PICTURE
+n4_07102,かまう,かまう,to mind,NO PICTURE
+n4_07104,くださる,くださる,(respectful) to give,NO PICTURE
+n4_07125,すく,すく,to become empty,NO PICTURE
+n4_07137,それほど,それほど,to that extent,NO PICTURE
+n4_07153,なさる,なさる,(respectful) to do,NO PICTURE
+n4_07157,ぬれる,ぬれる,to get wet,NO PICTURE
+n4_07169,ほめる,ほめる,to praise,NO PICTURE
+n4_07226,上る,あがる,to rise,NO PICTURE
+n4_07227,下げる,さげる,"to hang,to lower,to move back",NO PICTURE
+n4_07228,下りる,おりる,to get off,NO PICTURE
+n4_07229,下る,さがる,"to get down,to descend",NO PICTURE
+n4_07234,世話,せわ・する,to look after,NO PICTURE
+n4_07239,乗り換える,のりかえる,to change between buses or trains,NO PICTURE
+n4_07241,乾く,かわく,to get dry,NO PICTURE
+n4_07248,亡くなる,なくなる,to die,NO PICTURE
+n4_07255,付く,つく,to be attached,NO PICTURE
+n4_07265,伝える,つたえる,to report,NO PICTURE
+n4_07266,似る,にる,to be similar,NO PICTURE
+n4_07270,倒れる,たおれる,to break down,NO PICTURE
+n4_07276,光る,ひかる,"to shine,to glitter",NO PICTURE
+n4_07278,入院,にゅういん・する,to hospitalise,NO PICTURE
+n4_07281,写す,うつす,to copy or photograph,NO PICTURE
+n4_07282,冷える,ひえる,to grow cold,NO PICTURE
+n4_07285,出席,しゅっせき・する,to attend,NO PICTURE
+n4_07286,出発,しゅっぱつ・する,to depart,NO PICTURE
+n4_07288,別れる,わかれる,to separate,NO PICTURE
+n4_07290,割れる,われる,to break,NO PICTURE
+n4_07293,動く,うごく,to move,NO PICTURE
+n4_07295,勝つ,かつ,to win,NO PICTURE
+n4_07296,包む,つつむ,to wrap,NO PICTURE
+n4_07303,参る,まいる,"(humble) to go,to come",NO PICTURE
+n4_07305,取り替える,とりかえる,to exchange,NO PICTURE
+n4_07306,受ける,うける,to take a lesson or test,NO PICTURE
+n4_07308,召し上がる,めしあがる,(polite) to eat,NO PICTURE
+n4_07310,合う,あう,to match,NO PICTURE
+n4_07311,向かう,むかう,to face,NO PICTURE
+n4_07317,喜ぶ,よろこぶ,to be delighted,NO PICTURE
+n4_07318,噛む,かむ,"to bite,to chew",NO PICTURE
+n4_07319,回る,まわる,to go around,NO PICTURE
+n4_07327,塗る,ぬる,"to paint,to plaster",NO PICTURE
+n4_07328,増える,ふえる,to increase,NO PICTURE
+n4_07330,壊す,こわす,to break,NO PICTURE
+n4_07331,壊れる,こわれる,to be broken,NO PICTURE
+n4_07334,変える,かえる,to change,NO PICTURE
+n4_07335,変わる,かわる,to change,NO PICTURE
+n4_07342,太る,ふとる,to become fat,OK
+n4_07347,始める,はじめる,to begin,NO PICTURE
+n4_07357,寄る,よる,to visit,NO PICTURE
+n4_07361,尋ねる,たずねる,to ask,NO PICTURE
+n4_07365,届ける,とどける,to reach,NO PICTURE
+n4_07378,建てる,たてる,to build,NO PICTURE
+n4_07380,引き出す,ひきだす,to withdraw,NO PICTURE
+n4_07381,引っ越す,ひっこす,to move house,NO PICTURE
+n4_07383,役に立つ,やくにたつ,to be helpful,NO PICTURE
+n4_07390,心配,しんぱい・する,to worry,NO PICTURE
+n4_07394,怒る,おこる,"to get angry,to be angry",NO PICTURE
+n4_07396,思い出す,おもいだす,to remember,NO PICTURE
+n4_07397,思う,おもう,"to think,to feel",NO PICTURE
+n4_07399,急ぐ,いそぐ,to hurry,NO PICTURE
+n4_07407,戻る,もどる,to turn back,NO PICTURE
+n4_07408,手伝う,てつだう,to assist,NO PICTURE
+n4_07410,打つ,うつ,to hit,NO PICTURE
+n4_07411,払う,はらう,to pay,NO PICTURE
+n4_07412,承知,しょうち・する,to consent,NO PICTURE
+n4_07414,投げる,なげる,to throw or cast away,NO PICTURE
+n4_07415,折る,おる,to break or to fold,NO PICTURE
+n4_07416,折れる,おれる,to break or be folded,NO PICTURE
+n4_07418,招待,しょうたい・する,to invite,NO PICTURE
+n4_07419,拝見,はいけん・する,(humble) to look at,NO PICTURE
+n4_07420,拾う,ひろう,"to pick up,to gather",OK
+n4_07423,捕まえる,つかまえる,to seize,NO PICTURE
+n4_07424,捨てる,すてる,to throw away,NO PICTURE
+n4_07425,掛ける,かける,to hang something,NO PICTURE
+n4_07426,探す,さがす,to look for,NO PICTURE
+n4_07427,揺れる,ゆれる,"to shake,to sway",NO PICTURE
+n4_07428,支度,したく・する,to prepare,NO PICTURE
+n4_07429,放送,ほうそう・する,to broadcast,NO PICTURE
+n4_07431,故障,こしょう・する,to break-down,NO PICTURE
+n4_07451,暮れる,くれる,"to get dark,to come to an end",NO PICTURE
+n4_07461,案内,あんない・する,to guide,NO PICTURE
+n4_07464,植える,うえる,"to plant,to grow",NO PICTURE
+n4_07466,楽む,たのしむ,to enjoy oneself,NO PICTURE
+n4_07468,止む,やむ,to stop,NO PICTURE
+n4_07469,止める,とめる,to stop something,NO PICTURE
+n4_07473,残る,のこる,to remain,NO PICTURE
+n4_07475,比べる,くらべる,to compare,NO PICTURE
+n4_07482,汚れる,よごれる,to get dirty,NO PICTURE
+n4_07484,決める,きめる,to decide,NO PICTURE
+n4_07485,決る,きまる,to be decided,NO PICTURE
+n4_07487,沸かす,わかす,"to boil,to heat",NO PICTURE
+n4_07488,沸く,わく,"to boil, to grow hot,to get excited",NO PICTURE
+n4_07489,治る,なおる,"to be cured,to heal",NO PICTURE
+n4_07490,泊まる,とまる,to lodge at,NO PICTURE
+n4_07492,泣く,なく,to weep,NO PICTURE
+n4_07501,済む,すむ,to finish,NO PICTURE
+n4_07505,準備,じゅんび・する,to prepare,NO PICTURE
+n4_07506,滑る,すべる,"to slide,to slip",NO PICTURE
+n4_07508,漬ける,つける,"to soak,to pickle",NO PICTURE
+n4_07513,無くなる,なくなる,"to disappear,to get lost",NO PICTURE
+n4_07515,焼く,やく,"to bake,to grill",NO PICTURE
+n4_07516,焼ける,やける,"to burn,to be roasted",OK
+n4_07518,片付ける,かたづける,to tidy up,NO PICTURE
+n4_07524,生きる,いきる,to live,NO PICTURE
+n4_07525,生活,せいかつ・する,to live,NO PICTURE
+n4_07526,生産,せいさん・する,to produce,NO PICTURE
+n4_07533,申す,もうす,"(humble) to be called,to say",NO PICTURE
+n4_07538,痩せる,やせる,to become thin,NO PICTURE
+n4_07541,盗む,ぬすむ,to steal,NO PICTURE
+n4_07543,直す,なおす,"to fix,to repair",NO PICTURE
+n4_07544,直る,なおる,"to be fixed,to be repaired",NO PICTURE
+n4_07545,相談,そうだん・する,to discuss,NO PICTURE
+n4_07549,眠る,ねむる,to sleep,OK
+n4_07551,知らせる,しらせる,to notify,NO PICTURE
+n4_07559,祈る,いのる,to pray,NO PICTURE
+n4_07564,移る,うつる,to move house or transfer,NO PICTURE
+n4_07565,空く,あく,"to open, to become empty",NO PICTURE
+n4_07568,立てる,たてる,to stand something up,NO PICTURE
+n4_07570,笑う,わらう,"to laugh,to smile",NO PICTURE
+n4_07580,経験,けいけん・する,to experience,NO PICTURE
+n4_07582,続く,つづく,to be continued,NO PICTURE
+n4_07589,考える,かんがえる,to consider,NO PICTURE
+n4_07590,聞こえる,きこえる,to be heard,NO PICTURE
+n4_07591,育てる,そだてる,"to rear,to bring up",NO PICTURE
+n4_07595,致す,いたす,(humble) to do,NO PICTURE
+n4_07601,落す,おとす,to drop,NO PICTURE
+n4_07602,落る,おちる,to fall or drop,NO PICTURE
+n4_07606,行う,おこなう,to do,NO PICTURE
+n4_07611,見える,みえる,to be in sight,NO PICTURE
+n4_07612,見つかる,みつかる,to be discovered,NO PICTURE
+n4_07613,見つける,みつける,to discover,NO PICTURE
+n4_07618,触る,さわる,to touch,NO PICTURE
+n4_07619,計画,けいかく・する,to plan,NO PICTURE
+n4_07620,訪ねる,たずねる,to visit,NO PICTURE
+n4_07626,調べる,しらべる,to investigate,NO PICTURE
+n4_07629,謝る,あやまる,to apologize,NO PICTURE
+n4_07631,負ける,まける,to lose,NO PICTURE
+n4_07635,起す,おこす,to wake,NO PICTURE
+n4_07637,足す,たす,to add a number,NO PICTURE
+n4_07638,足りる,たりる,to be enough,NO PICTURE
+n4_07640,踊る,おどる,to dance,OK
+n4_07641,踏む,ふむ,to step on,NO PICTURE
+n4_07642,輸入,ゆにゅう・する,to import,NO PICTURE
+n4_07643,輸出,ゆしゅつ・する,to export,NO PICTURE
+n4_07646,迎える,むかえる,to go out to meet,NO PICTURE
+n4_07650,送る,おくる,to send,NO PICTURE
+n4_07651,逃げる,にげる,to escape,NO PICTURE
+n4_07653,通う,かよう,to commute,NO PICTURE
+n4_07654,通る,とおる,to go through,NO PICTURE
+n4_07655,連れる,つれる,to lead,NO PICTURE
+n4_07657,進む,すすむ,to make progress,NO PICTURE
+n4_07658,遅れる,おくれる,to be late,NO PICTURE
+n4_07660,運ぶ,はこぶ,to transport,NO PICTURE
+n4_07661,運動,うんどう・する,to exercise,NO PICTURE
+n4_07662,運転,うんてん・する,to drive,OK
+n4_07664,過ぎる,すぎる,to exceed,NO PICTURE
+n4_07667,遠慮,えんりょ・する,"to be reserved, to be restrained",NO PICTURE
+n4_07669,選ぶ,えらぶ,to choose,NO PICTURE
+n4_07674,釣る,つる,to fish,OK
+n4_07676,開く,ひらく,to open an event,NO PICTURE
+n4_07678,間に合う,まにあう,to be in time for,NO PICTURE
+n4_07679,間違える,まちがえる,to make a mistake,NO PICTURE
+n4_07681,降り出す,ふりだす,to start to rain,NO PICTURE
+n4_07683,集める,あつめる,to collect something,NO PICTURE
+n4_07684,集る,あつまる,to gather,NO PICTURE
+n4_07693,飾る,かざる,to decorate,NO PICTURE
+n4_07696,騒ぐ,さわぐ,"to make noise,to be excited",NO PICTURE
+n4_07697,驚く,おどろく,to be surprised,NO PICTURE
+n4_07702,鳴る,なる,to sound,NO PICTURE
+n4_07076,あんな,あんな,such,NO PICTURE
+n4_07084,うまい,うまい,delicious,NO PICTURE
+n4_07085,うれしい,うれしい,glad,NO PICTURE
+n4_07089,おかしい,おかしい / オカシイ,strange or funny,NO PICTURE
+n4_07128,すばらしい,すばらしい / すんばらしい,wonderful,NO PICTURE
+n4_07139,そんな,そんな,that sort of,NO PICTURE
+n4_07144,だめ,だめ / ダメ / だーめ,no good,NO PICTURE
+n4_07159,ねっしん,ねっしん,enthusiasm,NO PICTURE
+n4_07164,ひどい,ひどい / ヒドイ / ヒドい,awful,NO PICTURE
+n4_07170,まじめ,まじめ / マジメ,serious,NO PICTURE
+n4_07180,よろしい,よろしい,"(respectful) OK,all right",NO PICTURE
+n4_07225,丁寧,ていねい,polite,NO PICTURE
+n4_07232,不便,ふべん,inconvenience,NO PICTURE
+n4_07273,優しい,やさしい,kind,NO PICTURE
+n4_07284,凄い,すごい,terrific,NO PICTURE
+n4_07300,危険,きけん,danger,NO PICTURE
+n4_07302,厳しい,きびしい,strict,NO PICTURE
+n4_07333,変,へん,strange,NO PICTURE
+n4_07337,大事,だいじ,"important,valuable,serious matter",NO PICTURE
+n4_07352,安全,あんぜん,safety,NO PICTURE
+n4_07356,寂しい,さびしい,lonely,NO PICTURE
+n4_07392,必要,ひつよう,necessary,NO PICTURE
+n4_07395,怖い,こわい,frightening,NO PICTURE
+n4_07398,急,きゅう,"urgent, steep",NO PICTURE
+n4_07401,恥ずかしい,はずかしい,embarrassed,NO PICTURE
+n4_07403,悲しい,かなしい,sad,NO PICTURE
+n4_07458,柔らかい,やわらかい,soft,NO PICTURE
+n4_07465,楽しみ,たのしみ,joy,NO PICTURE
+n4_07470,正しい,ただしい,correct,NO PICTURE
+n4_07474,残念,ざんねん,disappointment,NO PICTURE
+n4_07497,浅い,あさい,"shallow,superficial",NO PICTURE
+n4_07500,深い,ふかい,deep,NO PICTURE
+n4_07514,無理,むり,impossible,NO PICTURE
+n4_07522,珍しい,めずらしい,rare,NO PICTURE
+n4_07542,盛ん,さかん,"popularity,prosperous",NO PICTURE
+n4_07548,眠い,ねむい,sleepy,NO PICTURE
+n4_07556,確か,たしか,definite,NO PICTURE
+n4_07572,簡単,かんたん,simple,NO PICTURE
+n4_07576,細かい,こまかい,"small, fine",NO PICTURE
+n4_07585,美しい,うつくしい,beautiful,NO PICTURE
+n4_07594,自由,じゆう,freedom,NO PICTURE
+n4_07599,苦い,にがい,bitter,NO PICTURE
+n4_07609,複雑,ふくざつ,"complexity,complication",NO PICTURE
+n4_07617,親切,しんせつ,kindness,NO PICTURE
+n4_07668,適当,てきとう,suitability,NO PICTURE
