@@ -171,9 +171,15 @@ const THEME_KEY = "hvpt_theme";
 const SESSION_KEY = "hvpt_session";
 const LANG_KEY = "hvpt_lang";
 const AUDIO_VOICE_KEY = "hvpt_audio_voice";
+const AUDIO_CACHE_LIMIT = 24;
+const audioCache = new Map();
 
 function assetUrl(path, options) {
   return window.hvptAssetUrl ? window.hvptAssetUrl(path, options) : path;
+}
+
+function audioAssetUrl(path, options) {
+  return assetUrl(path, Object.assign({ cdn: false, version: null }, options || {}));
 }
 
 function optimizedImagePath(path) {
@@ -305,7 +311,33 @@ function selectedAudioSource(item) {
 
 function selectedAudioPath(item) {
   const source = selectedAudioSource(item);
-  return source ? assetUrl(source) : "";
+  return source ? audioAssetUrl(source) : "";
+}
+
+function cachedAudio(sourcePath) {
+  if (!sourcePath) return null;
+  const url = audioAssetUrl(sourcePath);
+  const existing = audioCache.get(url);
+  if (existing) {
+    audioCache.delete(url);
+    audioCache.set(url, existing);
+    return existing;
+  }
+
+  const audio = new Audio(url);
+  audio.preload = "auto";
+  audio.load();
+  audioCache.set(url, audio);
+  while (audioCache.size > AUDIO_CACHE_LIMIT) {
+    const oldest = audioCache.keys().next().value;
+    audioCache.delete(oldest);
+  }
+  return audio;
+}
+
+function preloadAudioForItem(item) {
+  const source = selectedAudioSource(item);
+  if (source) cachedAudio(source);
 }
 
 function currentAudioLabel(item) {
@@ -638,6 +670,7 @@ function showQuestion() {
 
   state.current = weightedPick(state.filtered);
   prepareAudioForQuestion(state.current);
+  preloadAudioForItem(state.current);
   state.choices = buildChoices(state.current);
   state.answered = false;
 
@@ -662,7 +695,7 @@ function showQuestion() {
   renderChoices();
 
   if (state.mode === "audio" || state.mode === "audio-w") {
-    setTimeout(() => speakCurrent(), 280);
+    setTimeout(() => speakCurrent(), 80);
   }
 }
 
@@ -988,9 +1021,13 @@ function speakWithBrowserVoice(text) {
 }
 
 function playAudioWithFallback(sourcePath, speechText) {
-  const primary = assetUrl(sourcePath);
-  const fallback = assetUrl(sourcePath, { cdn: false });
-  const audio = new Audio(primary);
+  const primary = audioAssetUrl(sourcePath);
+  const fallback = assetUrl(sourcePath, { cdn: true, version: null });
+  const audio = cachedAudio(sourcePath) || new Audio(primary);
+  try {
+    audio.pause();
+    audio.currentTime = 0;
+  } catch {}
   audio.play().catch(() => {
     if (primary !== fallback) {
       const fallbackAudio = new Audio(fallback);
@@ -1118,7 +1155,7 @@ function setAudioVoice(value) {
   }
 }
 
-const DATA_VERSION = "20260705-webp";
+const DATA_VERSION = "20260705-audio-local";
 
 async function loadJson(path) {
   const primary = assetUrl(path, { version: DATA_VERSION });

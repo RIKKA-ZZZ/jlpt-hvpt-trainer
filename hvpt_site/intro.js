@@ -2,7 +2,7 @@ const savedTheme = localStorage.getItem("hvpt_theme");
 if (savedTheme) document.documentElement.dataset.theme = savedTheme;
 
 const LANG_KEY = "hvpt_lang";
-const DATA_VERSION = "20260705-webp";
+const DATA_VERSION = "20260705-audio-local";
 
 function assetUrl(path, options) {
   return window.hvptAssetUrl ? window.hvptAssetUrl(path, options) : path;
